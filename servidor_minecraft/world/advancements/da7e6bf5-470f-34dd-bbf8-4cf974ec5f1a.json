@@ -1,0 +1,33 @@
+{
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-12-21 11:58:11 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-12-21 11:58:11 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:root": {
+    "criteria": {
+      "custom_test_name": "2024-12-21 11:58:11 +0000"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-12-21 11:58:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:old_growth_birch_forest": "2024-12-21 11:58:11 +0000"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}
