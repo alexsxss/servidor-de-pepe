@@ -241,3 +241,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Dec2024 16:45:39.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> me cubres por si se hace de noche
 [21Dec2024 16:45:47.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si a verdad
 [21Dec2024 16:46:02.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> valio la pena aunque tuve que ver mucho tutorial y usar un mod que mejora el ping
+[21Dec2024 16:48:34.274] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Stone Age]
+[21Dec2024 16:49:00.923] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Stone Age]
+[21Dec2024 16:49:03.814] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> q susto
+[21Dec2024 16:49:17.220] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Getting an Upgrade]
+[21Dec2024 16:50:34.839] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> yo creo que entonces podria agregar algunas cosas mas no pesadas
+[21Dec2024 16:50:43.539] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si
+[21Dec2024 16:51:11.179] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> mejor vamos a buscar un lugar para estarseguros
+[21Dec2024 16:51:16.783] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> yo me voy a meter ahora que voy a ponerme skin
+[21Dec2024 16:51:18.516] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[21Dec2024 16:51:18.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[21Dec2024 16:51:18.519] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[21Dec2024 16:51:22.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Monster Hunter]
