@@ -256,3 +256,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Dec2024 17:05:58.531] [Worker-Main-3/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [21Dec2024 17:07:03.001] [Worker-Main-3/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
 [21Dec2024 17:07:49.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was shot by Skeleton
+[21Dec2024 17:09:21.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [An Extra Seedy Place]
+[21Dec2024 17:15:57.878] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6fab6031
+[21Dec2024 17:15:57.893] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.176.252.143:57405] logged in with entity id 7616 at (-1.300000011920929, 71.0, 90.69999998807907)
+[21Dec2024 17:15:57.903] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[21Dec2024 17:15:57.947] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[21Dec2024 17:15:58.418] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[21Dec2024 17:15:58.419] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[21Dec2024 17:16:13.591] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> volvi
+[21Dec2024 17:17:10.271] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Getting an Upgrade]
+[21Dec2024 17:27:05.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[21Dec2024 17:27:05.066] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[21Dec2024 17:27:05.067] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004

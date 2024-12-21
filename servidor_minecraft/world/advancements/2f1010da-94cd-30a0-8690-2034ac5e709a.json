@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/documentation": {
+    "criteria": {
+      "has_crop": "2024-12-21 17:09:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 16:50:17 +0000"
@@ -173,6 +179,12 @@
     },
     "done": true
   },
+  "croptopia:gather_all": {
+    "criteria": {
+      "tomato_seed": "2024-12-21 17:09:21 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2024-12-21 16:42:35 +0000"
@@ -203,9 +215,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2024-12-21 17:04:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/tomato_juice": {
+    "criteria": {
+      "has_tomato": "2024-12-21 17:09:21 +0000"
     },
     "done": true
   },
@@ -250,6 +280,13 @@
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2024-12-21 17:10:54 +0000",
+      "cooked_chicken": "2024-12-21 17:04:56 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
@@ -320,6 +357,12 @@
   "securitycraft:recipes/securitycraft/laser_block": {
     "criteria": {
       "has_stone": "2024-12-21 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/veggie_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-21 17:09:21 +0000"
     },
     "done": true
   },
@@ -469,9 +512,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2024-12-21 17:06:04 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 16:39:26 +0000"
     },
     "done": false
+  },
+  "croptopia:recipes/croptopia.croptopia/tomato_seed": {
+    "criteria": {
+      "has_tomato": "2024-12-21 17:09:21 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
@@ -509,6 +559,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/stone_sword": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
@@ -539,6 +595,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
@@ -566,6 +628,12 @@
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
     },
     "done": true
   },
@@ -608,6 +676,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
     },
     "done": true
   },
@@ -678,6 +752,12 @@
     },
     "done": true
   },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2024-12-21 17:09:21 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -708,6 +788,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:08:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -717,6 +803,12 @@
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-12-21 17:00:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-21 17:05:08 +0000"
     },
     "done": true
   },
@@ -731,6 +823,12 @@
       "has_planks": "2024-12-21 16:42:35 +0000"
     },
     "done": true
+  },
+  "croptopia:gather_forest": {
+    "criteria": {
+      "tomato_seed": "2024-12-21 17:09:21 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {

@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-12-21 17:16:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -85,9 +91,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:dark_forest": "2024-12-21 17:18:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 11:58:11 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/redstone/birch_pressure_plate": {
+    "criteria": {
+      "has_planks": "2024-12-21 16:47:36 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
@@ -95,9 +108,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_pressure_plate": {
+  "minecraft:recipes/misc/charcoal": {
     "criteria": {
-      "has_planks": "2024-12-21 16:47:36 +0000"
+      "has_log": "2024-12-21 16:46:16 +0000"
     },
     "done": true
   },
@@ -110,12 +123,6 @@
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2024-12-21 16:46:16 +0000"
     },
     "done": true
   },
@@ -137,6 +144,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-12-21 17:18:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
@@ -155,12 +174,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2024-12-21 16:49:00 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -173,9 +186,9 @@
     },
     "done": true
   },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+  "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
-      "has_iron_ingot": "2024-12-21 16:48:13 +0000"
+      "has_cobblestone": "2024-12-21 16:49:00 +0000"
     },
     "done": true
   },
@@ -185,9 +198,33 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-21 16:48:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2024-12-21 17:17:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-21 17:18:32 +0000"
     },
     "done": true
   },
@@ -209,6 +246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2024-12-21 17:22:51 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 11:58:11 +0000"
@@ -227,7 +270,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
+    "criteria": {
+      "has_stick": "2024-12-21 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
     },
@@ -239,15 +294,27 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+  "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "has_stick": "2024-12-21 16:48:00 +0000"
+      "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-21 17:22:49 +0000"
     },
     "done": true
   },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_flint": "2024-12-21 17:22:51 +0000"
     },
     "done": true
   },
@@ -275,6 +342,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2024-12-21 17:18:32 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
@@ -299,21 +378,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2024-12-21 16:48:00 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2024-12-21 16:48:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/birch_window": {
     "criteria": {
       "has_ingredient": "2024-12-21 16:47:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2024-12-21 17:22:51 +0000"
     },
     "done": true
   },
@@ -371,9 +456,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-21 17:22:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2024-12-21 17:17:10 +0000"
     },
     "done": true
   },
@@ -389,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-12-21 17:16:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -398,6 +501,12 @@
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-12-21 17:19:46 +0000"
     },
     "done": true
   },
