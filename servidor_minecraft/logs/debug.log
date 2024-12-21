@@ -6902,3 +6902,15 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [21Dec2024 16:51:50.581] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:small_dungeon/loot_piles/loot_pile_5 is being run through DFU (hash ac5114c0a58883f268d11362027273df3c06d5e3e066bcb39bda2fbf76cb4764), this will cause launch time delays
 [21Dec2024 16:53:58.083] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Dec2024 16:53:58.126] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 16:58:58.082] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 16:58:58.090] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:01:26.469] [Worker-Main-2/DEBUG] [ModernFix/]: Structure betterdungeons:small_dungeon/loot_piles/loot_pile_3 is being run through DFU (hash 5c5880038e8e48b4253538fe07f9c2fa35a52a1b82091416b2be7404393ff5ae), this will cause launch time delays
+[21Dec2024 17:03:58.103] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Dec2024 17:03:58.111] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Dec2024 17:05:58.531] [Worker-Main-3/WARN] [ModernFix/]: The namespace mowziesmobs contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Dec2024 17:05:58.532] [Worker-Main-3/DEBUG] [ModernFix/]: Structure mowziesmobs:wroughtnaut_chamber is being run through DFU (hash cd6bf85741cacb7fc4c4a35e9a79e6ed4379a4495ac4c9502d98811ef7efc197), this will cause launch time delays
+[21Dec2024 17:06:57.686] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterdungeons:small_dungeon/shells/small_shell_9x9 is being run through DFU (hash b88c93854b9d5c749b9940e2cf9323dfcd295c96bf521bcf2069e5c8867fcfcd), this will cause launch time delays
+[21Dec2024 17:06:58.206] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterdungeons:small_dungeon/loot_piles/loot_pile_7 is being run through DFU (hash 378d5c4893176ca33a1130b3c58adfc9ce25bfa4e97b89dbed495e6cb51582de), this will cause launch time delays
+[21Dec2024 17:07:03.001] [Worker-Main-3/WARN] [ModernFix/]: The namespace yungsbridges contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[21Dec2024 17:07:03.001] [Worker-Main-3/DEBUG] [ModernFix/]: Structure yungsbridges:bridge/wood/17_0 is being run through DFU (hash 6d5beca773a5958cbd27729e106bedf04ad2700cc9e5f52b5d87c397a142f7e8), this will cause launch time delays
+[21Dec2024 17:07:49.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was shot by Skeleton
