@@ -226,3 +226,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 14:03:40.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una mochila q tenia un esqueleto
 [22Dec2024 14:13:30.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontraste algo interesante
 [22Dec2024 14:17:32.969] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerme si puedes
+[22Dec2024 14:24:51.224] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ales
+[22Dec2024 14:25:32.896] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> aqui ahi unos vichos del tamaño de una aldeano men
+[22Dec2024 14:26:56.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una base de pilayes
+[22Dec2024 14:28:35.235] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterdungeons contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Dec2024 14:28:35.236] [Worker-Main-1/INFO] [ModernFix/]: Instantiating Mojang DFU
+[22Dec2024 14:28:35.243] [Worker-Main-1/INFO] [me.steinborn.lazydfu.LazyDFU/]: Lazy DFU

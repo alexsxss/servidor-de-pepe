@@ -137,6 +137,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2024-12-22 14:20:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -169,8 +175,12 @@
   },
   "croptopia:gather_savanna": {
     "criteria": {
+      "leek_seed": "2024-12-22 14:26:08 +0000",
+      "hops_seed": "2024-12-22 14:28:52 +0000",
       "squash_seed": "2024-12-22 01:24:54 +0000",
-      "zucchini_seed": "2024-12-22 14:11:27 +0000"
+      "zucchini_seed": "2024-12-22 14:11:27 +0000",
+      "turmeric_seed": "2024-12-22 14:26:10 +0000",
+      "olive_seed": "2024-12-22 14:26:15 +0000"
     },
     "done": false
   },
@@ -194,11 +204,15 @@
   },
   "croptopia:gather_all": {
     "criteria": {
+      "hops_seed": "2024-12-22 14:28:52 +0000",
       "elderberry_seed": "2024-12-22 00:04:22 +0000",
       "tomato_seed": "2024-12-21 17:09:21 +0000",
+      "olive_seed": "2024-12-22 14:26:15 +0000",
       "grape_seed": "2024-12-22 00:04:17 +0000",
+      "leek_seed": "2024-12-22 14:26:08 +0000",
       "squash_seed": "2024-12-22 01:24:54 +0000",
       "blackberry_seed": "2024-12-22 00:34:32 +0000",
+      "turmeric_seed": "2024-12-22 14:26:10 +0000",
       "currant_seed": "2024-12-22 00:11:13 +0000",
       "zucchini_seed": "2024-12-22 14:11:27 +0000"
     },
@@ -564,6 +578,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cucumber_salad": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 14:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-22 14:15:49 +0000"
@@ -689,6 +709,18 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_red_dye": "2024-12-22 13:56:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/turmeric_seed": {
+    "criteria": {
+      "has_turmeric": "2024-12-22 14:26:10 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/beer": {
+    "criteria": {
+      "has_hops": "2024-12-22 14:28:52 +0000"
     },
     "done": true
   },
@@ -1370,6 +1402,12 @@
   "create:recipes/create.palettes/cut_granite_bricks_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-22 14:09:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/hops_seed": {
+    "criteria": {
+      "has_hops": "2024-12-22 14:28:52 +0000"
     },
     "done": true
   },
@@ -2155,9 +2193,27 @@
     },
     "done": true
   },
+  "croptopia:recipes/leek_soup": {
+    "criteria": {
+      "has_leek": "2024-12-22 14:26:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2024-12-22 00:25:27 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/olive_seed": {
+    "criteria": {
+      "has_olive": "2024-12-22 14:26:15 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/leek_seed": {
+    "criteria": {
+      "has_leek": "2024-12-22 14:26:08 +0000"
     },
     "done": true
   },
@@ -2197,6 +2253,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/olive_oil": {
+    "criteria": {
+      "has_olives": "2024-12-22 14:26:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab": {
     "criteria": {
       "has_granite": "2024-12-22 14:09:36 +0000"
@@ -2212,6 +2274,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-22 00:26:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/caesar_salad": {
+    "criteria": {
+      "has_olive": "2024-12-22 14:26:15 +0000"
     },
     "done": true
   },
@@ -2497,6 +2565,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/surpreme_pizza": {
+    "criteria": {
+      "has_olive": "2024-12-22 14:26:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-21 16:42:22 +0000"
@@ -2692,6 +2766,12 @@
   "minecraft:recipes/decorations/purple_candle": {
     "criteria": {
       "has_purple_dye": "2024-12-22 13:56:40 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/misc/orange_dye": {
+    "criteria": {
+      "has_turmeric": "2024-12-22 14:26:10 +0000"
     },
     "done": true
   },
