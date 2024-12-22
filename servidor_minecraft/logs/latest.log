@@ -1469,3 +1469,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 15:06:36.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1747, y=-23, z=256} but found not block entity block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] at location
 [22Dec2024 15:06:36.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=1747, y=-23, z=256}
 [22Dec2024 15:08:24.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [When in Rome]
+[22Dec2024 15:17:20.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> dale
+[22Dec2024 15:18:54.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> men q son esos puentes
+[22Dec2024 15:19:17.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> es que puse todo una linea de mods que modifican y ponen estructuras

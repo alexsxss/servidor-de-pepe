@@ -8376,3 +8376,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 15:08:24.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [When in Rome]
 [22Dec2024 15:08:57.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 15:08:57.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:13:57.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:13:57.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:17:20.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> dale
+[22Dec2024 15:18:54.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> men q son esos puentes
+[22Dec2024 15:18:57.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:18:57.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:19:17.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> es que puse todo una linea de mods que modifican y ponen estructuras
