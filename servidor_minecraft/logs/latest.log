@@ -2906,3 +2906,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 18:10:59.025] [Worker-Main-149/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=3932, y=41, z=-458}
 [22Dec2024 18:19:49.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Ice Bucket Challenge]
 [22Dec2024 18:21:02.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was impaled by Drowned
+[22Dec2024 18:47:25.762] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[22Dec2024 18:47:25.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[22Dec2024 18:47:25.764] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[22Dec2024 18:47:42.362] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[22Dec2024 18:47:42.424] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@1af18c9{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[22Dec2024 18:47:42.431] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@417dba50{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2384!/assets/mtr/website,STOPPED}
+[22Dec2024 18:47:42.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[22Dec2024 18:47:42.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[22Dec2024 18:47:42.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[22Dec2024 18:47:43.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[22Dec2024 18:47:43.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[22Dec2024 18:47:43.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[22Dec2024 18:47:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[22Dec2024 18:47:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[22Dec2024 18:47:43.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[22Dec2024 18:47:43.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
