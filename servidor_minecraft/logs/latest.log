@@ -1970,3 +1970,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 15:56:50.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
 [22Dec2024 15:56:50.104] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
 [22Dec2024 15:56:50.109] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[22Dec2024 17:46:03.015] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Take Aim]

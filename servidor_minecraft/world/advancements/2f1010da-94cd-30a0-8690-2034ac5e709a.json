@@ -4042,6 +4042,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2024-12-22 17:46:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/apple_sapling": {
     "criteria": {
       "has_apple": "2024-12-22 00:44:14 +0000"
