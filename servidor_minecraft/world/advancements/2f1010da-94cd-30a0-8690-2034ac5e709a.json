@@ -2982,6 +2982,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/decorations/brown_glazed_terracotta": {
+    "criteria": {
+      "has_brown_terracotta": "2024-12-22 18:31:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
       "has_iron": "2024-12-22 00:29:12 +0000"
