@@ -8366,3 +8366,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 14:58:44.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si
 [22Dec2024 14:58:57.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 14:58:57.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:03:57.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:03:57.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 15:04:15.768] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> el cobre tiene alguna utilidad en los mod q estan
+[22Dec2024 15:04:24.725] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> nose realmente
+[22Dec2024 15:05:55.899] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> duerme porfa si puedes
+[22Dec2024 15:06:36.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=1747, y=-23, z=256} but found not block entity block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] at location
+[22Dec2024 15:06:36.917] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:stone_brick_stairs}[facing=west,half=top,shape=straight,waterlogged=false] but failed at location BlockPos{x=1747, y=-23, z=256}
+[22Dec2024 15:08:24.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [When in Rome]
+[22Dec2024 15:08:57.449] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 15:08:57.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
