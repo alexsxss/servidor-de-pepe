@@ -1472,3 +1472,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 15:17:20.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> dale
 [22Dec2024 15:18:54.072] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> men q son esos puentes
 [22Dec2024 15:19:17.335] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> es que puse todo una linea de mods que modifican y ponen estructuras
+[22Dec2024 15:22:08.119] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> tengo tres aldeas vistas
+[22Dec2024 15:22:35.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> yo acabo de hacerme la mejora de oro de la mochila
+[22Dec2024 15:22:58.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bn yo tengo la de hierro
+[22Dec2024 15:22:59.632] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> y hice lo de los hornos para usarlos dentro de la mochila
+[22Dec2024 15:23:20.771] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> tu estas en la mina
+[22Dec2024 15:23:26.887] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> si
+[22Dec2024 15:24:02.268] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> lol yo acabo de encontrar una de las 5 q e encontrdo
+[22Dec2024 15:26:04.995] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> puedo ir contigo cuando salgas
+[22Dec2024 15:26:10.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> de la mina
+[22Dec2024 15:26:14.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> ok
+[22Dec2024 15:33:38.185] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Amateur Archaeologist]
+[22Dec2024 15:33:57.135] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> dale
+[22Dec2024 15:40:01.619] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Chest Slayer]

@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sentry": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
@@ -185,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_redstone_lamp": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
@@ -254,6 +266,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:54 +0000"
     },
     "done": true
   },
@@ -528,6 +546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_boots": "2024-12-22 00:52:34 +0000"
@@ -783,6 +807,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2024-12-22 00:03:42 +0000"
@@ -969,6 +999,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-22 00:53:00 +0000"
@@ -1072,6 +1108,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:33 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/username_logger": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
@@ -1156,6 +1198,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
     "criteria": {
       "has_bread": "2024-12-22 00:52:54 +0000"
@@ -1189,6 +1237,12 @@
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/blasting_upgrade_from_smelting_upgrade": {
+    "criteria": {
+      "has_the_recipe": "2024-12-22 15:21:56 +0000"
     },
     "done": true
   },
@@ -1283,6 +1337,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-22 15:33:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
@@ -1352,6 +1412,12 @@
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-22 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "artifacts:amateur_archaeologist": {
+    "criteria": {
+      "find_artifact": "2024-12-22 15:33:38 +0000"
     },
     "done": true
   },
@@ -1457,6 +1523,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 00:06:26 +0000"
@@ -1539,6 +1611,12 @@
   "ironchest:recipes/ironchest/chests/vanilla_iron_chest": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-22 15:33:33 +0000"
     },
     "done": true
   },
@@ -1629,6 +1707,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2024-12-22 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2024-12-22 15:19:46 +0000"
     },
     "done": true
   },
@@ -2011,6 +2095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 13:36:16 +0000"
@@ -2149,6 +2239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 15:33:32 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/trail_mix": {
     "criteria": {
       "has_nuts": "2024-12-22 00:15:16 +0000"
@@ -2191,6 +2287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
@@ -2205,6 +2307,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-22 15:25:22 +0000",
       "cooked_mutton": "2024-12-22 01:26:41 +0000",
       "cooked_beef": "2024-12-22 00:07:12 +0000",
       "golden_apple": "2024-12-22 00:01:05 +0000"
@@ -2349,6 +2452,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2024-12-22 00:15:22 +0000"
@@ -2364,6 +2473,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-22 13:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2024-12-22 15:33:32 +0000"
     },
     "done": true
   },
@@ -2484,6 +2599,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
     },
     "done": true
   },
@@ -2757,6 +2878,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/claymore": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
@@ -2877,6 +3004,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
@@ -2937,6 +3070,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/iron_gold_chest": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2024-12-22 00:28:35 +0000"
@@ -2946,6 +3085,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/philosopher_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
     },
     "done": true
   },
@@ -3036,6 +3181,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
     },
     "done": true
   },
@@ -3309,6 +3460,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2024-12-22 15:33:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_stairs": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
@@ -3381,6 +3538,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
@@ -3444,6 +3607,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/ham_sandwich": {
+    "criteria": {
+      "has_cooked_porkchop": "2024-12-22 15:25:17 +0000"
     },
     "done": true
   },
