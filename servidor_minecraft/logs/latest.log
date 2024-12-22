@@ -210,3 +210,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 13:48:22.341] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
 [22Dec2024 13:48:25.534] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
 [22Dec2024 13:48:25.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[22Dec2024 13:50:12.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale hola
+[22Dec2024 13:50:16.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> hola
+[22Dec2024 13:50:29.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una aldea quieres venir
+[22Dec2024 13:50:58.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [It's an Emu!!!]
+[22Dec2024 13:52:31.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> 1372 70 20
+[22Dec2024 13:52:44.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> solo lo puse para ver algo
+[22Dec2024 13:52:48.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> a ok
+[22Dec2024 13:53:15.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerme
+[22Dec2024 13:54:45.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [A Seedy Place]
+[22Dec2024 13:55:59.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bro resolviste lo de el chat de voz
+[22Dec2024 14:03:08.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no
+[22Dec2024 14:03:18.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ok
+[22Dec2024 14:03:24.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> en la tarde
+[22Dec2024 14:03:40.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una mochila q tenia un esqueleto

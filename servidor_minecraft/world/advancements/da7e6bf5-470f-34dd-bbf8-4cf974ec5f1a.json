@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2024-12-22 14:03:33 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2024-12-22 00:57:46 +0000"
@@ -629,6 +635,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-22 13:31:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2024-12-22 14:03:33 +0000"
     },
     "done": true
   },
@@ -1199,6 +1211,7 @@
       "minecraft:beach": "2024-12-22 00:15:54 +0000",
       "minecraft:dark_forest": "2024-12-21 17:18:18 +0000",
       "minecraft:river": "2024-12-22 00:07:17 +0000",
+      "minecraft:lukewarm_ocean": "2024-12-22 13:51:42 +0000",
       "minecraft:stony_shore": "2024-12-22 01:30:31 +0000",
       "minecraft:grove": "2024-12-22 13:12:07 +0000",
       "minecraft:forest": "2024-12-22 01:22:14 +0000",
@@ -1541,6 +1554,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2024-12-22 13:50:58 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-22 01:05:47 +0000"
@@ -1562,6 +1581,12 @@
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2024-12-22 14:02:49 +0000"
     },
     "done": true
   },
@@ -1658,6 +1683,12 @@
   "create:recipes/create.palettes/cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/melon_juice": {
+    "criteria": {
+      "has_melon": "2024-12-22 14:03:33 +0000"
     },
     "done": true
   },
@@ -1900,6 +1931,12 @@
   "create:recipes/create.palettes/cut_diorite_wall_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/target": {
+    "criteria": {
+      "has_hay_block": "2024-12-22 14:02:49 +0000"
     },
     "done": true
   },
@@ -2740,6 +2777,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2024-12-22 14:03:33 +0000"
     },
     "done": true
   },

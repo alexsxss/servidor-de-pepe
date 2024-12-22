@@ -6963,3 +6963,96 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 13:48:25.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with EddyChael
 [22Dec2024 13:48:25.535] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with EddyChael
 [22Dec2024 13:48:25.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[22Dec2024 13:48:57.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 13:48:57.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 13:50:12.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale hola
+[22Dec2024 13:50:16.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> hola
+[22Dec2024 13:50:29.436] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una aldea quieres venir
+[22Dec2024 13:50:42.167] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_2
+[22Dec2024 13:50:42.168] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_1
+[22Dec2024 13:50:42.170] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_1
+[22Dec2024 13:50:42.171] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_9
+[22Dec2024 13:50:42.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_10
+[22Dec2024 13:50:42.172] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_8
+[22Dec2024 13:50:42.173] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_wood
+[22Dec2024 13:50:42.175] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_3
+[22Dec2024 13:50:42.217] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_room_terminator_3
+[22Dec2024 13:50:42.223] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[22Dec2024 13:50:42.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_closed
+[22Dec2024 13:50:42.224] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[22Dec2024 13:50:42.285] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[22Dec2024 13:50:42.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_2
+[22Dec2024 13:50:42.295] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_3
+[22Dec2024 13:50:42.296] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_turn
+[22Dec2024 13:50:42.297] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_4
+[22Dec2024 13:50:42.298] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall
+[22Dec2024 13:50:42.302] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/treasure_room_lg
+[22Dec2024 13:50:42.303] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway
+[22Dec2024 13:50:42.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_l
+[22Dec2024 13:50:42.304] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_terminator
+[22Dec2024 13:50:42.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_small
+[22Dec2024 13:50:42.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_r
+[22Dec2024 13:50:42.305] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_banner
+[22Dec2024 13:50:42.306] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_iron
+[22Dec2024 13:50:42.322] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/grand_library
+[22Dec2024 13:50:42.329] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/prison_lg
+[22Dec2024 13:50:42.331] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_2torch
+[22Dec2024 13:50:42.333] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_md
+[22Dec2024 13:50:42.334] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_wood
+[22Dec2024 13:50:42.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_r
+[22Dec2024 13:50:42.335] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_r
+[22Dec2024 13:50:42.337] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_collapse
+[22Dec2024 13:50:42.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_cell
+[22Dec2024 13:50:42.338] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/wall/treasure_wall_1
+[22Dec2024 13:50:42.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_3
+[22Dec2024 13:50:42.339] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_11
+[22Dec2024 13:50:42.340] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/portal/treasure_portal_3
+[22Dec2024 13:50:42.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_6
+[22Dec2024 13:50:42.341] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_r
+[22Dec2024 13:50:42.342] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_l
+[22Dec2024 13:50:42.343] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_0
+[22Dec2024 13:50:42.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_sword
+[22Dec2024 13:50:42.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_l
+[22Dec2024 13:50:42.346] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/mess
+[22Dec2024 13:50:42.348] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/stairs_straight
+[22Dec2024 13:50:42.349] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/bunks_md
+[22Dec2024 13:50:42.350] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/crypt_sm
+[22Dec2024 13:50:42.351] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_l
+[22Dec2024 13:50:42.353] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_1
+[22Dec2024 13:50:42.357] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:portal_rooms/portal_room
+[22Dec2024 13:50:42.362] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/library_md
+[22Dec2024 13:50:42.365] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/storeroom
+[22Dec2024 13:50:42.369] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_1
+[22Dec2024 13:50:42.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_r
+[22Dec2024 13:50:42.370] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest
+[22Dec2024 13:50:42.371] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest_trap
+[22Dec2024 13:50:42.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_r
+[22Dec2024 13:50:42.372] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_l
+[22Dec2024 13:50:42.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_l
+[22Dec2024 13:50:42.373] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_r
+[22Dec2024 13:50:42.374] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_sword
+[22Dec2024 13:50:42.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_l
+[22Dec2024 13:50:42.375] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_r
+[22Dec2024 13:50:42.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end
+[22Dec2024 13:50:42.376] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_l
+[22Dec2024 13:50:58.523] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [It's an Emu!!!]
+[22Dec2024 13:52:31.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> 1372 70 20
+[22Dec2024 13:52:44.568] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> solo lo puse para ver algo
+[22Dec2024 13:52:48.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> a ok
+[22Dec2024 13:53:15.124] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerme
+[22Dec2024 13:53:57.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 13:53:57.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 13:54:45.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [A Seedy Place]
+[22Dec2024 13:55:59.502] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bro resolviste lo de el chat de voz
+[22Dec2024 13:58:12.571] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:small_dungeon/shells/small_shell_5x5
+[22Dec2024 13:58:57.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 13:58:57.460] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:03:08.239] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no
+[22Dec2024 14:03:18.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ok
+[22Dec2024 14:03:24.365] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> en la tarde
+[22Dec2024 14:03:40.529] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> encontre una mochila q tenia un esqueleto
+[22Dec2024 14:03:57.452] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:03:57.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:04:09.953] [Server thread/DEBUG] [mixin/]: Mixing MixinPiglinAi from curios.mixins.json into net.minecraft.world.entity.monster.piglin.PiglinAi
+[22Dec2024 14:08:57.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:08:57.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
