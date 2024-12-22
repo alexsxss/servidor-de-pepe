@@ -307,3 +307,7 @@
 [22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
 [22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
 [22Dec2024 01:32:39.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[22Dec2024 01:41:31.636] [Worker-Main-1/WARN] [ModernFix/]: The namespace betterstrongholds contains an outdated structure file, which can cause worldgen lag. Please view debug.log for the full filename, determine which mod provides the structure, and report to the mod/datapack author, including the debug log.
+[22Dec2024 01:42:12.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[22Dec2024 01:42:12.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[22Dec2024 01:42:12.340] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
