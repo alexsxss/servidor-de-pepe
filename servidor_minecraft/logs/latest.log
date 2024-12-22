@@ -204,3 +204,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 13:09:04.079] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
 [22Dec2024 13:09:04.081] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
 [22Dec2024 13:10:05.023] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=312, y=-8, z=-114}
+[22Dec2024 13:48:22.297] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15707b2b
+[22Dec2024 13:48:22.317] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:44549] logged in with entity id 6252 at (1368.4944402783526, 69.0, 7.699999988079071)
+[22Dec2024 13:48:22.329] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[22Dec2024 13:48:22.341] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[22Dec2024 13:48:25.534] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[22Dec2024 13:48:25.535] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
