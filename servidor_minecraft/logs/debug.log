@@ -7851,3 +7851,14 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 01:24:14.465] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Dec2024 01:29:14.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 01:29:14.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 01:30:30.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Cobweb Entanglement]
+[22Dec2024 01:32:15.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 was slain by Cave Spider
+[22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[22Dec2024 01:32:39.492] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elblak004
+[22Dec2024 01:32:39.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[22Dec2024 01:34:14.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 01:34:14.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 01:38:34.855] [Worker-Main-3/DEBUG] [ModernFix/]: Structure yungsbridges:bridge/stone/15_1 is being run through DFU (hash 12e30ad0fafee8b4e54c144e4b2e7518b53ff95199ae7f1dba5b8e09761b5dd6), this will cause launch time delays
+[22Dec2024 01:39:14.451] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 01:39:14.457] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

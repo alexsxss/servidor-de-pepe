@@ -302,3 +302,8 @@
 [22Dec2024 01:17:31.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Isn't It Iron Pick]
 [22Dec2024 01:18:55.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> 1016 70 129
 [22Dec2024 01:22:55.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Mine? Mine? Mine?]
+[22Dec2024 01:30:30.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Cobweb Entanglement]
+[22Dec2024 01:32:15.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 was slain by Cave Spider
+[22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[22Dec2024 01:32:39.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[22Dec2024 01:32:39.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004

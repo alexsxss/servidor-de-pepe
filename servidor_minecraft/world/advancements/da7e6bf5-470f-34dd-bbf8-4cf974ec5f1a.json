@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-22 01:30:30 +0000"
+    },
+    "done": false
+  },
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2024-12-22 00:15:16 +0000"
@@ -513,6 +519,7 @@
     "criteria": {
       "minecraft:skeleton": "2024-12-22 01:15:59 +0000",
       "minecraft:spider": "2024-12-22 00:15:21 +0000",
+      "minecraft:cave_spider": "2024-12-22 01:32:03 +0000",
       "minecraft:zombie": "2024-12-22 00:46:55 +0000"
     },
     "done": false
@@ -1037,14 +1044,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2024-12-22 01:29:20 +0000",
       "minecraft:birch_forest": "2024-12-22 00:07:57 +0000",
       "minecraft:beach": "2024-12-22 00:15:54 +0000",
       "minecraft:dark_forest": "2024-12-21 17:18:18 +0000",
       "minecraft:river": "2024-12-22 00:07:17 +0000",
+      "minecraft:stony_shore": "2024-12-22 01:30:31 +0000",
       "minecraft:forest": "2024-12-22 01:22:14 +0000",
       "minecraft:lush_caves": "2024-12-22 00:59:39 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 11:58:11 +0000",
       "minecraft:meadow": "2024-12-22 01:26:31 +0000",
+      "minecraft:savanna": "2024-12-22 01:30:17 +0000",
       "minecraft:plains": "2024-12-22 01:28:13 +0000"
     },
     "done": false
@@ -1871,6 +1881,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-22 01:30:30 +0000"
     },
     "done": true
   },
