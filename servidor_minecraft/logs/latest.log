@@ -1454,3 +1454,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 14:37:01.127] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [155, 1], pos: BlockPos{x=2485, y=64, z=21}, status: minecraft:features, currently generating: Placed Direct{Configured: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeature@55533ef0: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeatureConfig@2fffc1fd}
 [22Dec2024 14:37:01.127] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [155, 1], pos: BlockPos{x=2480, y=68, z=27}, status: minecraft:features, currently generating: Placed Direct{Configured: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeature@55533ef0: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeatureConfig@2fffc1fd}
 [22Dec2024 14:38:47.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20754, l='ServerLevel[world]', x=2511.37, y=64.00, z=7.72] died, message: 'Unemployed suffocated in a wall'
+[22Dec2024 14:44:05.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerme si puedes
+[22Dec2024 14:48:26.315] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@582801d6
+[22Dec2024 14:50:44.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no estaba
+[22Dec2024 14:50:57.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> me habia ido a hacer algo
+[22Dec2024 14:56:24.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bro tienes andamios
+[22Dec2024 14:56:45.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> o mas bien bambu
+[22Dec2024 14:58:15.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was impaled on a stalagmite
+[22Dec2024 14:58:38.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> f
+[22Dec2024 14:58:44.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si

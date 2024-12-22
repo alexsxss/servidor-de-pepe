@@ -119,6 +119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:54:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2024-12-22 13:31:28 +0000"
@@ -467,6 +473,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/pork_and_beans": {
+    "criteria": {
+      "has_pork": "2024-12-22 14:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2024-12-22 00:30:59 +0000"
@@ -572,6 +584,12 @@
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:54:56 +0000"
     },
     "done": true
   },
@@ -704,6 +722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 14:54:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2024-12-22 13:12:45 +0000"
@@ -719,6 +743,12 @@
   "create:recipes/create.palettes/cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 14:54:16 +0000"
     },
     "done": true
   },
@@ -933,6 +963,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_bacon": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 14:54:16 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:27:04 +0000"
@@ -1063,6 +1099,12 @@
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2024-12-22 13:12:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 14:54:16 +0000"
     },
     "done": true
   },
@@ -1503,6 +1545,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:54:56 +0000"
     },
     "done": true
   },
@@ -2087,6 +2135,12 @@
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/carnitas": {
+    "criteria": {
+      "has_porkchop": "2024-12-22 14:54:16 +0000"
     },
     "done": true
   },
@@ -2711,6 +2765,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-22 14:54:56 +0000"
     },
     "done": true
   },

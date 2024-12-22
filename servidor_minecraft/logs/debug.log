@@ -8339,3 +8339,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [22Dec2024 14:38:47.521] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/20754, l='ServerLevel[world]', x=2511.37, y=64.00, z=7.72] died, message: 'Unemployed suffocated in a wall'
 [22Dec2024 14:38:57.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Dec2024 14:38:57.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:43:57.458] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:43:57.468] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:44:05.121] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerme si puedes
+[22Dec2024 14:48:26.315] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@582801d6
+[22Dec2024 14:48:57.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:48:57.469] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:50:44.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no estaba
+[22Dec2024 14:50:57.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> me habia ido a hacer algo
+[22Dec2024 14:53:38.125] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/wall/treasure_wall_1
+[22Dec2024 14:53:38.126] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_3
+[22Dec2024 14:53:38.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_11
+[22Dec2024 14:53:38.127] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_6
+[22Dec2024 14:53:57.455] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:53:57.463] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Dec2024 14:54:41.565] [Worker-Main-2/DEBUG] [ModernFix/]: Structure yungsbridges:bridge/stone/16_0 is being run through DFU (hash cc1ad65c45818c1ef322b3424ec31af07e71121723713a91a2f713c635a78084), this will cause launch time delays
+[22Dec2024 14:55:54.132] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_10 is being run through DFU (hash 470f82b563f20736d7daf22d518618312c0e2988b232c8871ec5dac6ef967c73), this will cause launch time delays
+[22Dec2024 14:55:54.325] [Worker-Main-1/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_6 is being run through DFU (hash 70062986f0375efe5cf5c0a11341af5210316563ffdb4c2239c861b4da847ea8), this will cause launch time delays
+[22Dec2024 14:56:24.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bro tienes andamios
+[22Dec2024 14:56:45.320] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> o mas bien bambu
+[22Dec2024 14:57:55.188] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_4 is being run through DFU (hash 035f14a11eb1e451b13f1f59c1a6d6a40ab3de986350db9190c2df7212e40e11), this will cause launch time delays
+[22Dec2024 14:57:55.195] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_4 is being run through DFU (hash b4a665e4632b2f1a53d8a261f2091b38f186189728f975c081fdc0c1072eb573), this will cause launch time delays
+[22Dec2024 14:57:55.205] [Worker-Main-3/DEBUG] [ModernFix/]: Structure betterdungeons:skeleton_dungeon/arches/arch_5 is being run through DFU (hash bb19f992fd9eb5ac3366536a95bf1abb2bf00103f8adddad9decbb17d1e00c34), this will cause launch time delays
+[22Dec2024 14:58:15.634] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was impaled on a stalagmite
+[22Dec2024 14:58:38.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> f
+[22Dec2024 14:58:44.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si
+[22Dec2024 14:58:57.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Dec2024 14:58:57.459] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
