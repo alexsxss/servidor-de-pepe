@@ -240,3 +240,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [23Dec2024 01:59:57.363] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [260, -18], pos: BlockPos{x=4168, y=63, z=-288}, status: minecraft:features, currently generating: Placed Direct{Configured: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeature@2521555d: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeatureConfig@20990358}
 [23Dec2024 01:59:57.364] [Worker-Main-3/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [260, -18], pos: BlockPos{x=4169, y=63, z=-288}, status: minecraft:features, currently generating: Placed Direct{Configured: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeature@2521555d: com.yungnickyoung.minecraft.yungsbridges.world.feature.MultipleAttemptSingleRandomFeatureConfig@20990358}
 [23Dec2024 02:18:25.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> 1687 82 328
+[23Dec2024 02:30:18.789] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[23Dec2024 02:30:18.789] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[23Dec2024 02:30:18.792] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[23Dec2024 02:31:39.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[23Dec2024 02:31:39.336] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[23Dec2024 02:31:39.337] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[23Dec2024 02:32:20.832] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[23Dec2024 02:32:20.887] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@7b47774{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[23Dec2024 02:32:20.891] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@57c765d9{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2384!/assets/mtr/website,STOPPED}
+[23Dec2024 02:32:20.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[23Dec2024 02:32:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[23Dec2024 02:32:20.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[23Dec2024 02:32:21.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[23Dec2024 02:32:21.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[23Dec2024 02:32:21.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[23Dec2024 02:32:21.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[23Dec2024 02:32:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[23Dec2024 02:32:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[23Dec2024 02:32:21.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
