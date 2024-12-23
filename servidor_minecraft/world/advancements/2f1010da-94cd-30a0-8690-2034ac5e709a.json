@@ -431,6 +431,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 01:49:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_dripstone_brick_stairs_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2024-12-22 15:03:37 +0000"
@@ -1136,6 +1142,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 01:49:52 +0000"
     },
     "done": true
   },
@@ -2543,6 +2555,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 14:35:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 01:49:52 +0000"
     },
     "done": true
   },
@@ -4717,6 +4735,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:08:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2024-12-23 01:49:52 +0000"
     },
     "done": true
   },
