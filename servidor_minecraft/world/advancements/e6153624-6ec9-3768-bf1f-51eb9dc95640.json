@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "croptopia:gather_savanna": {
+    "criteria": {
+      "squash_seed": "2024-12-27 21:34:03 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
@@ -277,7 +283,8 @@
   },
   "croptopia:gather_all": {
     "criteria": {
-      "blackbean_seed": "2024-12-23 04:02:12 +0000"
+      "blackbean_seed": "2024-12-23 04:02:12 +0000",
+      "squash_seed": "2024-12-27 21:34:03 +0000"
     },
     "done": false
   },
@@ -489,6 +496,12 @@
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2024-12-23 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-27 21:54:10 +0000"
     },
     "done": true
   },
@@ -816,6 +829,12 @@
     },
     "done": true
   },
+  "croptopia:gather_food": {
+    "criteria": {
+      "toast": "2024-12-27 21:54:10 +0000"
+    },
+    "done": false
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
@@ -956,6 +975,12 @@
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_chainmail_boots": "2024-12-23 03:05:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 21:53:29 +0000"
     },
     "done": true
   },
@@ -1537,6 +1562,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/appliances/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-27 21:45:04 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_copper_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
@@ -1705,6 +1736,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-27 21:54:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 03:45:26 +0000",
@@ -1814,6 +1851,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/tree_fertilizer": {
+    "criteria": {
+      "has_item": "2024-12-27 21:45:04 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/peach_sapling": {
     "criteria": {
       "has_peach": "2024-12-23 03:45:48 +0000"
@@ -1829,6 +1872,12 @@
   "minecraft:recipes/redstone/stone_pressure_plate": {
     "criteria": {
       "has_stone": "2024-12-23 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-27 21:45:54 +0000"
     },
     "done": true
   },
@@ -2333,6 +2382,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 03:38:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-27 21:45:04 +0000"
     },
     "done": true
   },
@@ -3984,6 +4039,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-27 21:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:04 +0000"
@@ -4023,6 +4084,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_apple": "2024-12-22 20:47:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-27 21:45:04 +0000"
     },
     "done": true
   },

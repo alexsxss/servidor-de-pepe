@@ -661,3 +661,30 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 21:22:54.982] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx left the game
 [27Dec2024 21:22:54.983] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client xcoxx
 [27Dec2024 21:22:54.984] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player xcoxx[5d131b6e-006a-3282-9ebf-117b6ecd698a]
+[27Dec2024 21:41:46.726] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@72cd5ff8
+[27Dec2024 21:41:46.732] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xcoxx[/127.109.63.68:43873] logged in with entity id 114249 at (-262.21411298384305, 62.07326432466507, -65.41245276734038)
+[27Dec2024 21:41:46.737] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx joined the game
+[27Dec2024 21:41:46.750] [Server thread/INFO] [Waila/]: Syncing config to xcoxx (5d131b6e-006a-3282-9ebf-117b6ecd698a)
+[27Dec2024 21:41:46.752] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player xcoxx just logged in with id 5d131b6e-006a-3282-9ebf-117b6ecd698a
+[27Dec2024 21:41:46.755] [ForkJoinPool-5-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player xcoxx[5d131b6e-006a-3282-9ebf-117b6ecd698a]
+[27Dec2024 21:41:46.755] [ForkJoinPool-5-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player xcoxx[5d131b6e-006a-3282-9ebf-117b6ecd698a]
+[27Dec2024 21:41:51.433] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xcoxx (18)
+[27Dec2024 21:41:51.433] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xcoxx
+[27Dec2024 21:43:16.320] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/115030, l='ServerLevel[world]', x=-185.50, y=53.00, z=-81.50]
+[27Dec2024 21:43:35.970] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/115248, l='ServerLevel[world]', x=-167.50, y=50.00, z=-84.50]
+[27Dec2024 21:45:54.146] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [A Seedy Place]
+[27Dec2024 21:46:17.586] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1382, y=72, z=7} BlockPos{x=1383, y=70, z=5}
+[27Dec2024 21:46:17.632] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1382, y=72, z=7} BlockPos{x=1383, y=70, z=5}
+[27Dec2024 21:48:01.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.5089472247409503
+[27Dec2024 21:48:01.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.30315234655870427
+[27Dec2024 21:48:01.986] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.6209135654434021
+[27Dec2024 21:48:02.383] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.49409075155756454
+[27Dec2024 21:48:02.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.7076518068242876
+[27Dec2024 21:48:02.482] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of xcoxx) moved wrongly! 0.9441973424497974
+[27Dec2024 21:50:54.464] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [Sweet Dreams]
+[27Dec2024 21:54:12.889] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Hearty Meal]
+[27Dec2024 21:59:23.419] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Butcher'/127028, l='ServerLevel[world]', x=1368.29, y=67.00, z=17.70] died, message: 'Butcher was slain by Garetexe'
+[27Dec2024 22:01:11.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [An Extra Seedy Place]
+[27Dec2024 22:04:12.243] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [Stone Age]
+[27Dec2024 22:08:24.905] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx fell from a high place
+[27Dec2024 22:08:30.785] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
