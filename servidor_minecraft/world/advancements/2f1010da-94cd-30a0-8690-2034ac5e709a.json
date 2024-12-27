@@ -2975,6 +2975,12 @@
     },
     "done": true
   },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-27 22:32:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -3879,6 +3885,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack": {
     "criteria": {
       "has_backpack": "2024-12-22 01:14:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 22:51:05 +0000"
     },
     "done": true
   },
