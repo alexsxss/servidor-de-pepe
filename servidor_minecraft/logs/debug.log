@@ -11259,3 +11259,48 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 22:53:58.874] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 22:53:58.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Dec2024 22:54:39.032] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [What a Deal!]
+[27Dec2024 22:57:46.880] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Cover Me with Diamonds]
+[27Dec2024 22:58:58.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 22:58:58.869] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 22:59:20.535] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:21.084] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:22.385] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:22.900] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:23.372] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:24.536] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:25.570] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:26.045] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:26.720] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:27.239] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:28.548] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:29.384] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:30.640] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:31.185] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:31.720] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:32.220] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:32.734] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 22:59:33.212] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:14.848] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:15.382] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:19.352] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:20.435] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:20.934] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:21.435] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:22.100] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:22.851] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:23.350] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:24.185] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:24.684] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:25.230] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1362, y=73, z=40}) doesn't have enough leaves around top most log
+[27Dec2024 23:00:26.046] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:26.564] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:00:27.151] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[27Dec2024 23:02:02.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [What a Deal!]
+[27Dec2024 23:03:58.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 23:03:58.873] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 23:07:29.429] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[27Dec2024 23:07:29.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[27Dec2024 23:07:29.431] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of Garetexe
+[27Dec2024 23:07:29.431] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[27Dec2024 23:07:29.431] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[27Dec2024 23:07:29.479] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
