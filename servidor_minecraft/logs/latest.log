@@ -606,3 +606,4 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 20:50:29.542] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
 [27Dec2024 20:50:29.544] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
 [27Dec2024 20:50:29.641] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 21:00:24.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has reached the goal [Flowers of the Savanna]

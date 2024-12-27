@@ -9603,3 +9603,8 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 20:50:29.641] [ForkJoinPool-5-worker-11/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
 [27Dec2024 20:53:58.883] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Dec2024 20:53:58.890] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 20:58:58.885] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 20:58:58.892] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Dec2024 21:00:24.190] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has reached the goal [Flowers of the Savanna]
+[27Dec2024 21:03:58.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Dec2024 21:03:58.888] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
