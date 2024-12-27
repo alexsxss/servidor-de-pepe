@@ -1,4 +1,10 @@
 {
+  "securitycraft:recipes/securitycraft/purple_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/blasting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-22 15:13:34 +0000"
@@ -140,6 +146,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2024-12-22 00:07:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/pink_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -567,6 +579,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2024-12-22 00:02:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/black_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -1227,6 +1245,12 @@
   "securitycraft:recipes/securitycraft/reinforced_pink_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/red_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -1956,6 +1980,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
@@ -1989,6 +2019,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/chipped/glassblower_workbench_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/cyan_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -2334,6 +2370,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/lime_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
@@ -2415,6 +2457,12 @@
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2024-12-22 15:44:10 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/orange_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -2971,6 +3019,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2024-12-22 00:15:16 +0000"
@@ -3438,6 +3492,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/light_gray_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-23 03:20:54 +0000"
@@ -3549,6 +3609,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/light_blue_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -4158,6 +4224,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/white_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_black_dye": "2024-12-22 00:30:32 +0000"
@@ -4480,6 +4552,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/magenta_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2024-12-22 00:03:42 +0000"
@@ -4507,6 +4585,12 @@
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/brown_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -4591,6 +4675,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },
@@ -5140,6 +5230,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/yellow_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-23 03:19:14 +0000"
@@ -5275,6 +5371,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/green_lens": {
+    "criteria": {
+      "has_glass_pane": "2024-12-27 19:59:22 +0000"
     },
     "done": true
   },

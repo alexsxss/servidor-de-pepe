@@ -525,3 +525,8 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 19:34:42.117] [ForkJoinPool-5-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
 [27Dec2024 19:34:42.237] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
 [27Dec2024 19:34:42.238] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
+[27Dec2024 20:01:10.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> -249 67 -1269
+[27Dec2024 20:02:24.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [What a Deal!]
+[27Dec2024 20:04:13.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[27Dec2024 20:04:13.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[27Dec2024 20:04:13.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
