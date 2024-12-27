@@ -41,15 +41,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_bricks": {
-    "criteria": {
-      "has_stone": "2024-12-23 03:17:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-23 03:17:33 +0000"
     },
     "done": true
   },
@@ -498,15 +498,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/diamond_leggings": {
-    "criteria": {
-      "has_diamond": "2024-12-23 04:06:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/pork_and_beans": {
     "criteria": {
       "has_beans": "2024-12-23 04:02:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:06:55 +0000"
     },
     "done": true
   },
@@ -648,15 +648,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/diamond_pickaxe": {
-    "criteria": {
-      "has_diamond": "2024-12-23 04:06:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/small_andesite_brick_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:06:55 +0000"
     },
     "done": true
   },
@@ -796,15 +796,15 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_green_from_white": {
-    "criteria": {
-      "has_sleeping_bag": "2024-12-23 03:04:23 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2024-12-23 03:04:23 +0000"
     },
     "done": true
   },
@@ -905,15 +905,15 @@
     },
     "done": true
   },
-  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
-    "criteria": {
-      "has_wool": "2024-12-23 03:27:03 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/materials/andesite_alloy": {
     "criteria": {
       "has_item": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat": {
+    "criteria": {
+      "has_wool": "2024-12-23 03:27:03 +0000"
     },
     "done": true
   },
@@ -932,6 +932,12 @@
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-23 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-12-27 18:42:25 +0000"
     },
     "done": true
   },
@@ -959,15 +965,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/golden_axe": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 03:50:42 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-23 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2024-12-23 03:50:42 +0000"
     },
     "done": true
   },
@@ -1031,15 +1037,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sand_mine": {
-    "criteria": {
-      "has_mine": "2024-12-23 03:16:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2024-12-23 03:14:07 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sand_mine": {
+    "criteria": {
+      "has_mine": "2024-12-23 03:16:36 +0000"
     },
     "done": true
   },
@@ -1104,15 +1110,15 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
-    "criteria": {
-      "has_leather": "2024-12-23 03:25:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-23 03:25:40 +0000"
     },
     "done": true
   },
@@ -1122,15 +1128,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-23 03:38:47 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/crafting/kinetics/orange_seat": {
     "criteria": {
       "has_wool": "2024-12-23 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 03:38:47 +0000"
     },
     "done": true
   },
@@ -1155,6 +1161,12 @@
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/molasses_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 18:39:57 +0000"
     },
     "done": true
   },
@@ -1227,6 +1239,12 @@
   "create:recipes/create.palettes/small_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2024-12-27 18:40:51 +0000"
     },
     "done": true
   },
@@ -1333,15 +1351,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/brewing/fermented_spider_eye": {
-    "criteria": {
-      "has_spider_eye": "2024-12-23 03:05:19 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2024-12-23 02:59:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2024-12-23 03:05:19 +0000"
     },
     "done": true
   },
@@ -1375,6 +1393,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_molasses": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 18:39:57 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
@@ -1399,15 +1423,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/diamond_block": {
-    "criteria": {
-      "has_diamond": "2024-12-23 04:06:55 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-23 03:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2024-12-23 04:06:55 +0000"
     },
     "done": true
   },
@@ -1465,15 +1489,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-23 03:38:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 03:38:47 +0000"
     },
     "done": true
   },
@@ -1519,11 +1543,11 @@
     },
     "done": true
   },
-  "croptopia:gather_forest": {
+  "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
-      "blackbean_seed": "2024-12-23 04:02:12 +0000"
+      "has_iron": "2024-12-23 03:03:33 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/white_dye_from_lily_of_the_valley": {
     "criteria": {
@@ -1531,11 +1555,11 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/disguise_module": {
+  "croptopia:gather_forest": {
     "criteria": {
-      "has_iron": "2024-12-23 03:03:33 +0000"
+      "blackbean_seed": "2024-12-23 04:02:12 +0000"
     },
-    "done": true
+    "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
@@ -1651,15 +1675,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brown_concrete_powder": {
-    "criteria": {
-      "has_sand": "2024-12-23 03:23:43 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2024-12-23 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2024-12-23 03:23:43 +0000"
     },
     "done": true
   },
@@ -1783,9 +1807,16 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 18:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "chicken": "2024-12-22 20:49:47 +0000",
+      "beef": "2024-12-27 18:40:16 +0000",
       "apple": "2024-12-22 20:49:39 +0000",
       "bread": "2024-12-23 03:04:38 +0000"
     },
@@ -2085,15 +2116,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-23 03:03:33 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/small_diorite_bricks_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-23 03:03:33 +0000"
     },
     "done": true
   },
@@ -2235,9 +2266,9 @@
     },
     "done": true
   },
-  "betterdungeons:spider_dungeon": {
+  "securitycraft:recipes/securitycraft/redstone_mine": {
     "criteria": {
-      "in_better_spider_dungeon": "2024-12-23 03:51:32 +0000"
+      "has_mine": "2024-12-23 03:16:36 +0000"
     },
     "done": true
   },
@@ -2247,9 +2278,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/redstone_mine": {
+  "betterdungeons:spider_dungeon": {
     "criteria": {
-      "has_mine": "2024-12-23 03:16:36 +0000"
+      "in_better_spider_dungeon": "2024-12-23 03:51:32 +0000"
     },
     "done": true
   },
@@ -2277,27 +2308,27 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/golden_boots": {
-    "criteria": {
-      "has_gold_ingot": "2024-12-23 03:50:42 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2024-12-23 03:19:04 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+  "minecraft:recipes/combat/golden_boots": {
     "criteria": {
-      "has_mine": "2024-12-23 03:16:36 +0000"
+      "has_gold_ingot": "2024-12-23 03:50:42 +0000"
     },
     "done": true
   },
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/gilded_blackstone_mine": {
+    "criteria": {
+      "has_mine": "2024-12-23 03:16:36 +0000"
     },
     "done": true
   },
@@ -2325,6 +2356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-12-27 18:39:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-23 02:59:05 +0000"
@@ -2349,15 +2386,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/green_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-23 03:38:47 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 03:38:47 +0000"
     },
     "done": true
   },
@@ -2427,9 +2464,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone_slab": {
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
     "criteria": {
-      "has_stone": "2024-12-23 03:17:33 +0000"
+      "has_andesite": "2024-12-23 02:59:34 +0000"
     },
     "done": true
   },
@@ -2439,9 +2476,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+  "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
-      "has_andesite": "2024-12-23 02:59:34 +0000"
+      "has_stone": "2024-12-23 03:17:33 +0000"
     },
     "done": true
   },
@@ -2529,6 +2566,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/molasses_from_smoking_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2024-12-27 18:39:57 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
       "has_chicken": "2024-12-22 20:46:49 +0000"
@@ -2562,6 +2605,12 @@
   "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
     "criteria": {
       "has_diamonds": "2024-12-23 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-12-27 18:42:25 +0000"
     },
     "done": true
   },
@@ -2625,15 +2674,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
-    "criteria": {
-      "has_mine": "2024-12-23 03:16:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
+    "criteria": {
+      "has_mine": "2024-12-23 03:16:36 +0000"
     },
     "done": true
   },
@@ -2769,15 +2818,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/pink_wool": {
-    "criteria": {
-      "has_white_wool": "2024-12-23 03:38:47 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2024-12-23 03:38:47 +0000"
     },
     "done": true
   },
@@ -2811,15 +2860,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/lemon_chicken": {
-    "criteria": {
-      "has_lemon": "2024-12-23 03:56:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-23 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/lemon_chicken": {
+    "criteria": {
+      "has_lemon": "2024-12-23 03:56:04 +0000"
     },
     "done": true
   },
