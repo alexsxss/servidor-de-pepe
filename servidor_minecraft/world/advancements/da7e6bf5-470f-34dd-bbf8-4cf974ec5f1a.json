@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2024-12-27 20:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
@@ -481,6 +487,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "toast": "2024-12-27 20:17:52 +0000",
       "calamari": "2024-12-22 00:07:22 +0000",
       "glowing_calamari": "2024-12-22 15:41:14 +0000"
     },
@@ -648,6 +655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-27 20:21:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -699,6 +712,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2024-12-23 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/egg_roll": {
+    "criteria": {
+      "has_egg": "2024-12-27 20:23:17 +0000"
     },
     "done": true
   },
@@ -2292,6 +2311,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/scrambled_eggs": {
+    "criteria": {
+      "has_egg": "2024-12-27 20:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2024-12-21 17:22:51 +0000"
@@ -2508,6 +2533,12 @@
     },
     "done": true
   },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-12-27 20:21:07 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
@@ -2652,6 +2683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2024-12-27 20:08:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 00:02:56 +0000"
@@ -2715,6 +2752,12 @@
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-22 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-27 20:17:54 +0000"
     },
     "done": true
   },
@@ -2904,6 +2947,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/meringue": {
+    "criteria": {
+      "has_egg": "2024-12-27 20:23:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2024-12-21 17:18:43 +0000"
@@ -3049,6 +3098,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/ornate_iron_window": {
+    "criteria": {
+      "has_ingredient": "2024-12-27 20:21:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
@@ -3085,6 +3140,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 20:21:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobbled_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 01:05:51 +0000"
@@ -3106,6 +3167,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-27 20:17:52 +0000"
     },
     "done": true
   },
@@ -3974,6 +4041,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-27 20:17:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-22 00:30:32 +0000"
@@ -4386,6 +4459,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/chilli_relleno": {
+    "criteria": {
+      "has_egg": "2024-12-27 20:23:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -4452,7 +4531,8 @@
       "cooked_mutton": "2024-12-22 01:26:41 +0000",
       "cooked_beef": "2024-12-22 00:07:12 +0000",
       "golden_apple": "2024-12-22 00:01:05 +0000",
-      "bread": "2024-12-23 03:17:02 +0000"
+      "bread": "2024-12-23 03:17:02 +0000",
+      "carrot": "2024-12-27 20:13:20 +0000"
     },
     "done": false
   },
@@ -4489,6 +4569,12 @@
   "securitycraft:recipes/securitycraft/reinforced_deepslate_tiles_from_reinforced_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_reinforced_cobbled_deepslate": "2024-12-27 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/flour": {
+    "criteria": {
+      "has_grain": "2024-12-27 20:08:47 +0000"
     },
     "done": true
   },
@@ -4564,6 +4650,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2024-12-27 20:08:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-22 15:33:32 +0000"
@@ -4633,6 +4725,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2024-12-21 17:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-12-27 20:21:07 +0000"
     },
     "done": true
   },
@@ -5281,6 +5379,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-27 20:21:05 +0000"
     },
     "done": true
   },

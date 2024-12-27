@@ -530,3 +530,49 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [27Dec2024 20:04:13.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
 [27Dec2024 20:04:13.186] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
 [27Dec2024 20:04:13.188] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[27Dec2024 20:07:45.444] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3dccfa9a
+[27Dec2024 20:07:45.452] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:59517] logged in with entity id 55423 at (1247.103546445523, 77.0, -4.4308195372954495)
+[27Dec2024 20:07:45.458] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[27Dec2024 20:07:45.490] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[27Dec2024 20:07:45.491] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[27Dec2024 20:07:45.508] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:07:45.801] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[27Dec2024 20:07:45.802] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[27Dec2024 20:07:46.476] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:07:46.477] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:07:46.567] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:11:50.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Not Today, Thank You]
+[27Dec2024 20:12:58.396] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[27Dec2024 20:12:58.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[27Dec2024 20:12:58.398] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[27Dec2024 20:13:15.539] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1fe84e33
+[27Dec2024 20:13:15.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:55645] logged in with entity id 59452 at (800.3050072819776, 126.0, -369.6002949310235)
+[27Dec2024 20:13:15.554] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[27Dec2024 20:13:15.564] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[27Dec2024 20:13:15.565] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[27Dec2024 20:13:15.566] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:13:15.718] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[27Dec2024 20:13:15.719] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[27Dec2024 20:13:16.419] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:13:16.419] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:13:16.657] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:17:35.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael drowned
+[27Dec2024 20:17:39.964] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[27Dec2024 20:17:54.888] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Hearty Meal]
+[27Dec2024 20:21:07.058] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Ice Bucket Challenge]
+[27Dec2024 20:24:25.235] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[27Dec2024 20:24:25.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[27Dec2024 20:24:25.237] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[27Dec2024 20:24:56.941] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3f2b5354
+[27Dec2024 20:24:56.951] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:50411] logged in with entity id 68884 at (477.52504479678726, 61.523370153158005, -548.77448490434)
+[27Dec2024 20:24:56.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[27Dec2024 20:24:56.963] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[27Dec2024 20:24:56.964] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[27Dec2024 20:24:56.971] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:24:57.151] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[27Dec2024 20:24:57.151] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[27Dec2024 20:24:58.004] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:24:58.004] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:24:58.139] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[27Dec2024 20:26:51.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Chest Slayer]
+[27Dec2024 20:26:52.884] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Amateur Archaeologist]
