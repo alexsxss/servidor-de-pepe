@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-22 00:52:54 +0000"
@@ -68,6 +74,12 @@
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2024-12-22 00:03:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:48 +0000"
     },
     "done": true
   },
@@ -140,6 +152,12 @@
   "securitycraft:recipes/securitycraft/reinforced_orange_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
@@ -218,6 +236,12 @@
   "croptopia:recipes/veggie_salad": {
     "criteria": {
       "has_the_recipe": "2024-12-22 00:15:44 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-27 19:49:25 +0000"
     },
     "done": true
   },
@@ -471,6 +495,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2024-12-22 15:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
@@ -894,6 +924,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_calcite_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-22 01:05:47 +0000"
@@ -939,6 +975,12 @@
   "minecraft:recipes/decorations/light_blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone": {
+    "criteria": {
+      "has_item": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -1188,6 +1230,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_boots": "2024-12-21 17:22:49 +0000"
@@ -1275,6 +1323,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -1392,6 +1446,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_slab_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
@@ -1455,6 +1515,12 @@
   "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 00:02:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -1533,6 +1599,12 @@
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -1830,6 +1902,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
@@ -1947,6 +2025,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-27 19:21:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
     },
     "done": true
   },
@@ -2100,9 +2184,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
     },
     "done": true
   },
@@ -2169,6 +2265,12 @@
   "ironchest:recipes/ironchest/chests/iron_gold_chest": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_slab": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
@@ -2724,6 +2826,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2024-12-27 19:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
@@ -2769,6 +2877,18 @@
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_stone_from_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
     },
     "done": true
   },
@@ -2953,6 +3073,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2024-12-22 15:41:14 +0000"
@@ -3004,6 +3130,12 @@
   "minecraft:recipes/decorations/acacia_fence": {
     "criteria": {
       "has_planks": "2024-12-22 13:30:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
@@ -3191,6 +3323,12 @@
       "minecraft:drowned": "2024-12-27 18:38:03 +0000"
     },
     "done": false
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
   },
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
@@ -3384,6 +3522,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
@@ -3411,6 +3555,12 @@
   "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
     },
     "done": true
   },
@@ -3584,6 +3734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/stone_button": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -3746,6 +3902,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stonecutter": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gray_dye": {
     "criteria": {
       "has_black_dye": "2024-12-22 00:30:32 +0000"
@@ -3806,6 +3968,12 @@
   "croptopia:recipes/croptopia.croptopia/peach_sapling": {
     "criteria": {
       "has_peach": "2024-12-27 19:06:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/stone_pressure_plate": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
@@ -4110,6 +4278,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_tuff_brick_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 15:11:57 +0000"
@@ -4216,6 +4390,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -4291,6 +4471,12 @@
   "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_the_recipe": "2024-12-27 19:51:28 +0000"
     },
     "done": true
   },
@@ -4468,9 +4654,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/refill_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -4624,6 +4822,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keycard_lv2": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
@@ -4726,6 +4930,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2024-12-27 19:49:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2024-12-21 16:46:16 +0000"
@@ -4777,6 +4987,12 @@
   "create:recipes/create.palettes/small_limestone_brick_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2024-12-27 19:50:26 +0000"
     },
     "done": true
   },
@@ -5002,6 +5218,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
@@ -5053,6 +5275,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_stairs": {
+    "criteria": {
+      "has_stone": "2024-12-27 19:50:42 +0000"
     },
     "done": true
   },
