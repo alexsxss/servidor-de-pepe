@@ -294,3 +294,23 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [28Dec2024 22:23:37.237] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
 [28Dec2024 22:23:38.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
 [28Dec2024 22:23:38.239] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
+[28Dec2024 22:28:08.357] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[28Dec2024 22:28:08.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[28Dec2024 22:28:08.362] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[28Dec2024 22:28:08.363] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[28Dec2024 22:28:12.169] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1bc38536
+[28Dec2024 22:28:12.183] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Garetexe[/127.96.160.164:53867] logged in with entity id 3755 at (1364.2509474119554, 60.0, 9.465222761866745)
+[28Dec2024 22:28:12.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe joined the game
+[28Dec2024 22:28:12.266] [Server thread/INFO] [Waila/]: Syncing config to Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640)
+[28Dec2024 22:28:12.269] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Garetexe just logged in with id e6153624-6ec9-3768-bf1f-51eb9dc95640
+[28Dec2024 22:28:12.290] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[28Dec2024 22:28:12.292] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[28Dec2024 22:28:12.362] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
+[28Dec2024 22:28:12.363] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
+[28Dec2024 22:28:13.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[28Dec2024 22:28:14.754] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[28Dec2024 22:28:14.755] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640) successfully connected to voice chat
+[28Dec2024 22:29:18.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> entra al grupo
+[28Dec2024 22:29:40.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si te salite
+[28Dec2024 22:32:18.417] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> te silensiate
+[28Dec2024 22:32:48.677] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> sigueme
