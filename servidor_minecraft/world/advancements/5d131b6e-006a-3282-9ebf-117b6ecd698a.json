@@ -1,4 +1,10 @@
 {
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2024-12-27 22:28:43 +0000"
@@ -53,6 +59,12 @@
     },
     "done": true
   },
+  "toolbelt:recipes/pouch": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
@@ -95,6 +107,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-27 21:22:02 +0000"
@@ -116,6 +134,12 @@
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-27 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
     },
     "done": true
   },
@@ -158,6 +182,12 @@
   "create:recipes/create.palettes/crafting/kinetics/blue_seat": {
     "criteria": {
       "has_wool": "2024-12-27 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/burrito": {
+    "criteria": {
+      "has_the_recipe": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -294,6 +324,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/ornate_iron_window": {
     "criteria": {
       "has_ingredient": "2024-12-27 22:32:38 +0000"
@@ -410,6 +446,12 @@
     },
     "done": true
   },
+  "toolbelt:recipes/belt": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/fried_calamari": {
     "criteria": {
       "has_calamari": "2024-12-27 21:44:03 +0000"
@@ -446,9 +488,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-27 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
     },
     "done": true
   },
@@ -481,6 +541,12 @@
       "has_planks": "2024-12-28 00:13:41 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:cow": "2024-12-28 02:45:08 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
     "criteria": {
@@ -705,9 +771,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
     },
     "done": true
   },
@@ -768,6 +846,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_potato": "2024-12-27 21:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -873,6 +957,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-27 21:43:45 +0000"
@@ -882,6 +972,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2024-12-28 02:23:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_string": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
     },
     "done": true
   },
@@ -957,6 +1053,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/leather_longbow": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/orange_sapling": {
     "criteria": {
       "has_orange": "2024-12-27 22:26:46 +0000"
@@ -966,6 +1068,12 @@
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/hamburger": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -984,6 +1092,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-27 22:28:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
     },
     "done": true
   },
@@ -1191,6 +1305,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2024-12-28 02:48:59 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:38 +0000"
@@ -1287,9 +1407,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/stuffed_poblanos": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -1389,6 +1521,18 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/backpack": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:04:12 +0000"
@@ -1455,6 +1599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-27 22:50:10 +0000",
@@ -1500,6 +1650,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_javelin": {
     "criteria": {
       "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-28 02:47:22 +0000"
     },
     "done": true
   },
@@ -1563,6 +1719,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2024-12-28 02:45:29 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
@@ -1572,6 +1734,12 @@
   "minecraft:recipes/misc/purple_dye": {
     "criteria": {
       "has_the_recipe": "2024-12-27 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -1689,6 +1857,18 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2024-12-28 02:45:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
+    "criteria": {
+      "has_meat": "2024-12-28 02:47:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-27 21:22:02 +0000"
@@ -1716,6 +1896,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_beef_stew": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },
@@ -1747,6 +1933,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
     "criteria": {
       "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2024-12-28 02:47:16 +0000"
     },
     "done": true
   },

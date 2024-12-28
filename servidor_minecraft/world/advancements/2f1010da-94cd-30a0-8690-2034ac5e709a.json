@@ -2903,6 +2903,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2024-12-28 02:46:33 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cashew_chicken": {
     "criteria": {
       "has_cooked_chicken": "2024-12-21 17:04:51 +0000"
@@ -5167,6 +5173,12 @@
   "create:recipes/create.base/crafting/kinetics/smart_fluid_pipe": {
     "criteria": {
       "has_item": "2024-12-27 22:12:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/grease_ball": {
+    "criteria": {
+      "has_meat": "2024-12-28 02:39:43 +0000"
     },
     "done": true
   },
