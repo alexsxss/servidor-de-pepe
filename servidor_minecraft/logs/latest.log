@@ -320,3 +320,5 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [28Dec2024 22:39:28.981] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Hammer Time!]
 [28Dec2024 22:39:35.753] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Hammer Time!]
 [28Dec2024 22:40:13.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [...And My Axe!]
+[28Dec2024 22:46:50.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Ice Bucket Challenge]
+[28Dec2024 22:50:35.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1939, y=64, z=-33} BlockPos{x=1938, y=62, z=-33}

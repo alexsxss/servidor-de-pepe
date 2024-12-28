@@ -3161,6 +3161,12 @@
     },
     "done": true
   },
+  "spartanweaponry:battle_hammer": {
+    "criteria": {
+      "has_battle_hammer": "2024-12-28 22:39:35 +0000"
+    },
+    "done": true
+  },
   "ironchest:recipes/ironchest/upgrades/iron_to_gold_chest_upgrade": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:29:12 +0000"
@@ -4647,6 +4653,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 14:35:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2024-12-28 22:39:24 +0000"
     },
     "done": true
   },
