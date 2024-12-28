@@ -35,6 +35,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/campfire_toast": {
+    "criteria": {
+      "has_bread": "2024-12-28 02:23:40 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:04:12 +0000"
@@ -65,9 +71,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_quarterstaff": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -228,6 +246,18 @@
     },
     "done": true
   },
+  "betterdungeons:all_dungeons": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-28 02:23:59 +0000"
+    },
+    "done": false
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-27 23:02:05 +0000"
@@ -283,6 +313,7 @@
       "apple": "2024-12-28 00:16:06 +0000",
       "potato": "2024-12-27 21:51:38 +0000",
       "mutton": "2024-12-27 22:47:49 +0000",
+      "bread": "2024-12-28 02:23:49 +0000",
       "rotten_flesh": "2024-12-28 00:12:41 +0000",
       "cod": "2024-12-27 21:49:28 +0000",
       "carrot": "2024-12-27 21:51:45 +0000"
@@ -313,6 +344,18 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheeseburger": {
+    "criteria": {
+      "has_bread": "2024-12-28 02:23:40 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_glaive": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:04:12 +0000"
@@ -328,6 +371,12 @@
   "ironchest:recipes/ironchest/chests/diamond_obsidian_chest": {
     "criteria": {
       "has_obsidian": "2024-12-27 22:32:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_rapier": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -373,9 +422,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_flanged_mace": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_glowing_calamari": {
     "criteria": {
       "has_glowing_calamari": "2024-12-28 00:14:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_boomerang": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -421,6 +482,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_warhammer": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:38 +0000"
@@ -436,6 +509,12 @@
   "croptopia:recipes/croptopia.croptopia/plum_sapling": {
     "criteria": {
       "has_plum": "2024-12-27 22:30:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -457,6 +536,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_spear": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/furnace": {
     "criteria": {
       "has_cobblestone": "2024-12-27 22:04:12 +0000"
@@ -472,6 +557,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -592,6 +683,12 @@
   "minecraft:adventure/root": {
     "criteria": {
       "killed_by_something": "2024-12-27 22:26:21 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -734,6 +831,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/toast_from_bread": {
+    "criteria": {
+      "has_bread": "2024-12-28 02:23:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_nugget": "2024-12-27 22:32:38 +0000"
@@ -773,6 +876,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2024-12-27 21:43:45 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:spider_dungeon": {
+    "criteria": {
+      "in_better_spider_dungeon": "2024-12-28 02:23:59 +0000"
     },
     "done": true
   },
@@ -842,6 +951,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/handle_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/orange_sapling": {
     "criteria": {
       "has_orange": "2024-12-27 22:26:46 +0000"
@@ -902,6 +1017,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battleaxe": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/documentation": {
     "criteria": {
       "has_crop": "2024-12-27 21:50:26 +0000"
@@ -947,6 +1074,12 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-27 21:13:06 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_club": {
+    "criteria": {
+      "has_wood_log": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1028,9 +1161,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/toast_from_smoking_bread": {
+    "criteria": {
+      "has_bread": "2024-12-28 02:23:40 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1136,9 +1281,21 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_wool": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1321,6 +1478,12 @@
     },
     "done": false
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_scythe": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/raspberry_seed": {
     "criteria": {
       "has_raspberry": "2024-12-27 22:01:11 +0000"
@@ -1331,6 +1494,12 @@
     "criteria": {
       "has_the_recipe": "2024-12-27 23:03:32 +0000",
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_javelin": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1388,6 +1557,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/motion_activated_light": {
     "criteria": {
       "has_stick": "2024-12-27 22:03:39 +0000"
@@ -1415,6 +1590,12 @@
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2024-12-27 21:48:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_saber": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1448,6 +1629,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_dagger": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_yellow_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
@@ -1478,6 +1665,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/acacia_sign": {
     "criteria": {
       "has_planks": "2024-12-28 00:13:41 +0000"
@@ -1490,9 +1683,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_tomahawk": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-27 21:22:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_heavy_crossbow": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1520,6 +1725,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/pole_from_string": {
+    "criteria": {
+      "has_stick": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-27 22:40:47 +0000"
@@ -1533,9 +1744,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2024-12-27 23:01:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_battle_hammer": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },
@@ -1603,6 +1832,12 @@
   "croptopia:recipes/fruit_salad": {
     "criteria": {
       "has_grapes": "2024-12-27 22:49:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
+    "criteria": {
+      "has_wood": "2024-12-28 02:03:51 +0000"
     },
     "done": true
   },

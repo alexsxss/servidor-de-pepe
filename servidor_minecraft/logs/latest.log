@@ -1345,3 +1345,36 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [28Dec2024 01:46:03.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 is bleeding. elblak004 fell from a high place
 [28Dec2024 01:46:20.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 fell from a high place
 [28Dec2024 01:46:21.450] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Dec2024 02:00:46.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Backpack Full of Ammo!]
+[28Dec2024 02:03:51.915] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@74baf06b
+[28Dec2024 02:03:51.932] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xcoxx[/127.109.63.68:46193] logged in with entity id 15257 at (941.3688194296919, 22.0, 123.6057889621908)
+[28Dec2024 02:03:51.943] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx joined the game
+[28Dec2024 02:03:51.985] [Server thread/INFO] [Waila/]: Syncing config to xcoxx (5d131b6e-006a-3282-9ebf-117b6ecd698a)
+[28Dec2024 02:03:51.987] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player xcoxx just logged in with id 5d131b6e-006a-3282-9ebf-117b6ecd698a
+[28Dec2024 02:03:51.991] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player xcoxx[5d131b6e-006a-3282-9ebf-117b6ecd698a]
+[28Dec2024 02:03:51.993] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player xcoxx[5d131b6e-006a-3282-9ebf-117b6ecd698a]
+[28Dec2024 02:03:56.480] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of xcoxx (18)
+[28Dec2024 02:03:56.481] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to xcoxx
+[28Dec2024 02:04:19.409] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 5d131b6e-006a-3282-9ebf-117b6ecd698a
+[28Dec2024 02:04:20.413] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 5d131b6e-006a-3282-9ebf-117b6ecd698a
+[28Dec2024 02:04:20.414] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player xcoxx (5d131b6e-006a-3282-9ebf-117b6ecd698a) successfully connected to voice chat
+[28Dec2024 02:07:58.590] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Hammer Time!]
+[28Dec2024 02:22:52.592] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [We Need to Go Deeper]
+[28Dec2024 02:22:55.780] [IO-Worker-54/ERROR] [net.minecraft.world.level.chunk.storage.IOWorker/]: Failed to store chunk [-36, -76]
+java.util.ConcurrentModificationException: null
+	at java.util.HashMap$HashIterator.nextNode(HashMap.java:1605) ~[?:?]
+	at java.util.HashMap$KeyIterator.next(HashMap.java:1628) ~[?:?]
+	at net.minecraft.nbt.CompoundTag.m_6434_(CompoundTag.java:132) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.nbt.NbtIo.m_128950_(NbtIo.java:265) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.nbt.NbtIo.m_128941_(NbtIo.java:234) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.world.level.chunk.storage.RegionFileStorage.m_63708_(RegionFileStorage.java:79) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63535_(IOWorker.java:174) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.world.level.chunk.storage.IOWorker.m_63553_(IOWorker.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.StrictQueue$IntRunnable.run(StrictQueue.java:59) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18759_(ProcessorMailbox.java:91) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.m_18747_(ProcessorMailbox.java:146) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.ProcessorMailbox.run(ProcessorMailbox.java:102) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1583) [?:?]
+[28Dec2024 02:23:59.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [Cobweb Entanglement]
