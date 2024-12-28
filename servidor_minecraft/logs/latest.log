@@ -1383,3 +1383,20 @@ java.util.ConcurrentModificationException: null
 [28Dec2024 02:45:08.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [The Parrots and the Bats]
 [28Dec2024 02:45:29.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [A Seedy Place]
 [28Dec2024 02:58:51.917] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50328, l='ServerLevel[world]', x=469.50, y=50.00, z=-530.50]
+[28Dec2024 03:10:12.426] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[28Dec2024 03:10:12.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[28Dec2024 03:10:12.427] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[28Dec2024 03:10:12.428] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[28Dec2024 03:10:17.470] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5f25167e
+[28Dec2024 03:10:17.489] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.168.255.178:36861] logged in with entity id 56217 at (940.8621260982628, 22.0, 121.20235582467821)
+[28Dec2024 03:10:17.499] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[28Dec2024 03:10:17.507] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[28Dec2024 03:10:17.509] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[28Dec2024 03:10:17.541] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[28Dec2024 03:10:17.542] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[28Dec2024 03:10:17.633] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[28Dec2024 03:10:17.634] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[28Dec2024 03:10:18.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[28Dec2024 03:10:19.471] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[28Dec2024 03:10:19.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[28Dec2024 03:10:45.942] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xcoxx> edy

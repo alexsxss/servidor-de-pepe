@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-28 03:04:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -880,6 +886,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_longbow": {
     "criteria": {
       "has_leather": "2024-12-28 02:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2024-12-28 03:04:00 +0000"
     },
     "done": true
   },
@@ -2731,6 +2743,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-22 15:44:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-12-28 03:01:41 +0000"
     },
     "done": true
   },
@@ -5822,6 +5840,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-28 03:04:01 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 02:11:31 +0000"
@@ -6215,6 +6239,12 @@
   "create:recipes/create.palettes/cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2024-12-28 03:04:01 +0000"
     },
     "done": true
   },
@@ -6677,6 +6707,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2024-12-23 03:15:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-12-28 03:01:41 +0000"
     },
     "done": true
   },
