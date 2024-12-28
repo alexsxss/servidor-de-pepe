@@ -9540,3 +9540,17 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [28Dec2024 01:46:03.600] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 is bleeding. elblak004 fell from a high place
 [28Dec2024 01:46:20.297] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 fell from a high place
 [28Dec2024 01:46:21.450] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[28Dec2024 01:49:15.057] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 01:49:15.066] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 01:49:35.097] [Server thread/DEBUG] [mixin/]: Mixing item.AccessorCooldownInstance from bookshelf.common.mixins.json into net.minecraft.world.item.ItemCooldowns$CooldownInstance
+[28Dec2024 01:54:15.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 01:54:15.042] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 01:58:53.644] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_3
+[28Dec2024 01:58:53.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_2
+[28Dec2024 01:58:53.645] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_wood
+[28Dec2024 01:58:53.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_1
+[28Dec2024 01:58:53.646] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_9
+[28Dec2024 01:58:53.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_10
+[28Dec2024 01:58:53.647] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_8
+[28Dec2024 01:58:53.648] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_3
+[28Dec2024 01:58:53.649] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_9
