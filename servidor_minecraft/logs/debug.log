@@ -9940,3 +9940,28 @@ java.util.ConcurrentModificationException: null
 [28Dec2024 02:47:25.083] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1329, y=73, z=6}) doesn't have enough leaves around top most log
 [28Dec2024 02:49:15.025] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [28Dec2024 02:49:15.032] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:51:47.389] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EddyChael: {disabled=true, disconnected=false, uuid=2f1010da-94cd-30a0-8690-2034ac5e709a, name=EddyChael, group=e84794f1-52eb-4f1a-a189-0cd967e595b1}
+[28Dec2024 02:52:14.351] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EddyChael: {disabled=false, disconnected=false, uuid=2f1010da-94cd-30a0-8690-2034ac5e709a, name=EddyChael, group=e84794f1-52eb-4f1a-a189-0cd967e595b1}
+[28Dec2024 02:52:48.444] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EddyChael: {disabled=true, disconnected=false, uuid=2f1010da-94cd-30a0-8690-2034ac5e709a, name=EddyChael, group=e84794f1-52eb-4f1a-a189-0cd967e595b1}
+[28Dec2024 02:54:15.040] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:54:15.047] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:54:15.384] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of EddyChael: {disabled=false, disconnected=false, uuid=2f1010da-94cd-30a0-8690-2034ac5e709a, name=EddyChael, group=e84794f1-52eb-4f1a-a189-0cd967e595b1}
+[28Dec2024 02:54:25.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:54:25.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:50.505] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:51.035] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:53.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:55.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:56.434] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:57.537] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:56:58.814] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:58:51.917] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50328, l='ServerLevel[world]', x=469.50, y=50.00, z=-530.50]
+[28Dec2024 02:59:15.034] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[28Dec2024 02:59:15.041] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[28Dec2024 02:59:28.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 02:59:28.328] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[28Dec2024 03:00:08.315] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_5
+[28Dec2024 03:00:08.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_1
+[28Dec2024 03:00:08.316] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/arches/arch_7
+[28Dec2024 03:00:08.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_4
+[28Dec2024 03:00:08.317] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_5

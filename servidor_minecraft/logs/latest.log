@@ -1382,3 +1382,4 @@ java.util.ConcurrentModificationException: null
 [28Dec2024 02:44:55.759] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <xcoxx> uww
 [28Dec2024 02:45:08.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [The Parrots and the Bats]
 [28Dec2024 02:45:29.198] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [A Seedy Place]
+[28Dec2024 02:58:51.917] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/50328, l='ServerLevel[world]', x=469.50, y=50.00, z=-530.50]

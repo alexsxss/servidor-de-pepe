@@ -281,6 +281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 02:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
@@ -350,6 +356,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cherry_sapling": {
+    "criteria": {
+      "has_cherry": "2024-12-28 02:54:49 +0000"
     },
     "done": true
   },
@@ -560,6 +572,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_dagger": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2024-12-28 02:57:30 +0000"
     },
     "done": true
   },
@@ -1513,6 +1531,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2024-12-28 02:57:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-22 00:58:58 +0000"
@@ -2422,6 +2446,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-28 02:51:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stone_button": {
     "criteria": {
       "has_block": "2024-12-27 19:50:48 +0000"
@@ -2953,6 +2983,12 @@
   "minecraft:recipes/building_blocks/blue_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-23 03:18:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2024-12-28 02:51:13 +0000"
     },
     "done": true
   },
@@ -5408,6 +5444,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cherry_jam": {
+    "criteria": {
+      "has_cherry": "2024-12-28 02:54:49 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_sandstone": {
     "criteria": {
       "has_block": "2024-12-23 03:24:29 +0000"
@@ -5579,6 +5621,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2024-12-28 02:44:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2024-12-28 02:51:13 +0000"
     },
     "done": true
   },
@@ -6449,6 +6497,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 01:05:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cherry_pie": {
+    "criteria": {
+      "has_cherry": "2024-12-28 02:54:49 +0000"
     },
     "done": true
   },
