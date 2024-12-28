@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2024-12-28 23:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_sword": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:03:33 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2024-12-27 20:42:10 +0000"
@@ -560,6 +572,12 @@
   "paraglider:root": {
     "criteria": {
       "crafting_table": "2024-12-28 23:16:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2024-12-28 23:26:47 +0000"
     },
     "done": true
   },
@@ -1338,6 +1356,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
@@ -1458,6 +1482,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_calcite_brick_slab_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 22:55:18 +0000"
@@ -1530,6 +1560,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2024-12-28 23:26:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:03:33 +0000"
@@ -1545,6 +1581,12 @@
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
     },
     "done": true
   },
@@ -1800,6 +1842,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:26:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-12-23 03:50:42 +0000"
@@ -2010,6 +2058,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:26:44 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -2085,6 +2139,12 @@
   "securitycraft:recipes/securitycraft/nether_gold_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
     },
     "done": true
   },
@@ -2649,6 +2709,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 19:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-28 23:26:44 +0000"
     },
     "done": true
   },
@@ -3828,6 +3894,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 03:45:26 +0000",
+      "minecraft:eroded_badlands": "2024-12-28 23:32:49 +0000",
       "minecraft:birch_forest": "2024-12-22 20:00:54 +0000",
       "minecraft:wooded_badlands": "2024-12-28 23:05:01 +0000",
       "minecraft:badlands": "2024-12-28 23:06:17 +0000",
@@ -3841,6 +3908,7 @@
       "minecraft:forest": "2024-12-23 03:55:33 +0000",
       "minecraft:lush_caves": "2024-12-28 23:22:10 +0000",
       "minecraft:desert": "2024-12-28 23:02:48 +0000",
+      "minecraft:warm_ocean": "2024-12-28 23:24:18 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 20:15:58 +0000",
       "minecraft:meadow": "2024-12-23 03:34:52 +0000",
       "minecraft:savanna": "2024-12-23 03:48:02 +0000",
@@ -4845,6 +4913,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-28 23:27:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 03:38:47 +0000"
@@ -4878,6 +4952,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-12-28 23:26:44 +0000"
     },
     "done": true
   },
