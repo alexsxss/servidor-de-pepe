@@ -1378,3 +1378,4 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
 [28Dec2024 02:23:59.865] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xcoxx has made the advancement [Cobweb Entanglement]
+[28Dec2024 02:33:40.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:portal para quie quiera:P:-399:65:-1282:4:false:0:Internal-overworld-waypoints
