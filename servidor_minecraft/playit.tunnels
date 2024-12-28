@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "street-refused.gl.at.ply.gg",
+          "assigned_domain": "video-load.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6721bf8d-5615-49ed-9f57-65044ed1579b",
+          "id": "f31894b5-b268-4f41-915d-4eaf875c2102",
           "ip_hostname": "24.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 3217,
-          "port_start": 3216,
+          "port_end": 3181,
+          "port_start": 3180,
           "region": "global",
           "static_ip4": "147.185.221.24",
           "static_ip6": "2602:fbaf:0:1::18",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2024-12-27T23:47:56.010672Z",
+      "created_at": "2024-12-28T00:38:31.820361Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "a1351ba7-7fb0-4fc5-9198-112f06c353fd",
+      "id": "e2733efb-f815-43f7-b2f4-2152800db139",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "da515d43-bcf4-4dd5-81e8-8b6d763dc87b",
           "agent_name": "IpFija",
           "local_ip": "127.0.0.1",
-          "local_port": 38555
+          "local_port": 3180
         },
         "type": "agent"
       },
