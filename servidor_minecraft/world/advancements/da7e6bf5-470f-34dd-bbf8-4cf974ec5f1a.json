@@ -557,15 +557,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
-    "criteria": {
-      "has_iron_ingot": "2024-12-28 02:44:28 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
+    "criteria": {
+      "has_iron_ingot": "2024-12-28 02:44:28 +0000"
     },
     "done": true
   },
@@ -1375,15 +1375,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/diamond_boomerang": {
-    "criteria": {
-      "has_diamond": "2024-12-28 02:44:04 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_javelin": {
     "criteria": {
       "has_wood": "2024-12-28 01:32:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2024-12-28 02:44:04 +0000"
     },
     "done": true
   },
@@ -6932,15 +6932,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2024-12-28 01:49:50 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_halberd": {
     "criteria": {
       "has_wood": "2024-12-28 01:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-28 01:49:50 +0000"
     },
     "done": true
   },

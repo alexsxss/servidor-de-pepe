@@ -434,6 +434,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/buttered_toast": {
+    "criteria": {
+      "has_toast": "2024-12-28 03:12:05 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_light_blue_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-27 23:03:32 +0000"
@@ -760,6 +766,7 @@
   },
   "croptopia:gather_food": {
     "criteria": {
+      "toast": "2024-12-28 03:12:05 +0000",
       "calamari": "2024-12-27 21:44:03 +0000",
       "glowing_calamari": "2024-12-28 00:14:26 +0000"
     },
@@ -1617,6 +1624,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/toast_with_jam": {
+    "criteria": {
+      "has_toast": "2024-12-28 03:12:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-27 22:50:10 +0000",
@@ -1969,6 +1982,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_greatsword": {
     "criteria": {
       "has_wood": "2024-12-28 02:03:51 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2024-12-28 03:12:21 +0000"
     },
     "done": true
   },
