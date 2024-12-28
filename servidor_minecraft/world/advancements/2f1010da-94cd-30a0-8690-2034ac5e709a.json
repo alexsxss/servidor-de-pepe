@@ -3335,6 +3335,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/banner_pattern_new_mexico": {
+    "criteria": {
+      "has_items": "2024-12-28 23:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2024-12-22 17:46:03 +0000"
@@ -4138,6 +4144,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/tarantula_hawk": {
+    "criteria": {
+      "killed_by": "2024-12-28 23:02:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2024-12-22 15:32:15 +0000"
@@ -4837,6 +4849,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/tarantula_hawk_wing": {
+    "criteria": {
+      "has_items": "2024-12-28 23:02:09 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/spruce_window": {
     "criteria": {
       "has_ingredient": "2024-12-22 00:25:27 +0000"
@@ -5384,6 +5402,12 @@
   "croptopia:recipes/croptopia.croptopia/cherry_jam": {
     "criteria": {
       "has_cherry": "2024-12-23 02:12:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/green_dye": {
+    "criteria": {
+      "has_cactus": "2024-12-28 22:56:41 +0000"
     },
     "done": true
   },

@@ -322,3 +322,11 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [28Dec2024 22:40:13.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [...And My Axe!]
 [28Dec2024 22:46:50.160] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Ice Bucket Challenge]
 [28Dec2024 22:50:35.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1939, y=64, z=-33} BlockPos{x=1938, y=62, z=-33}
+[28Dec2024 23:01:08.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> 3099 63 23
+[28Dec2024 23:02:03.382] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Rigged from the Start]
+[28Dec2024 23:03:50.125] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Rigged from the Start]
+[28Dec2024 23:09:42.793] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Eye of The Storm]
+[28Dec2024 23:16:55.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> no se te escucha
+[28Dec2024 23:22:56.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Swashbuckler]
+[28Dec2024 23:24:17.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Pike Off!]
+[28Dec2024 23:24:29.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Swashbuckler]
