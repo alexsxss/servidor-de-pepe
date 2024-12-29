@@ -110,3 +110,4 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 01:09:02.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=245} BlockPos{x=183, y=36, z=246}
 [29Dec2024 01:17:56.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> thol?
 [29Dec2024 01:23:47.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Enchanter]
+[29Dec2024 01:31:16.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [What a Deal!]
