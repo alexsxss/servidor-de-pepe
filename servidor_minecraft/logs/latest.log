@@ -38,3 +38,7 @@ java.util.ConcurrentModificationException: null
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.lang.Thread.run(Thread.java:1583) [?:?]
 [29Dec2024 00:25:23.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Hidden in the Depths]
+[29Dec2024 00:29:30.621] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Those Were the Days]
+[29Dec2024 00:31:32.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe is bleeding. Garetexe tried to swim in lava to escape Piglin
+[29Dec2024 00:31:37.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe tried to swim in lava to escape Piglin
+[29Dec2024 00:31:39.470] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.

@@ -1164,6 +1164,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_netherwart_stew": {
+    "criteria": {
+      "has_nether_wart": "2024-12-29 00:30:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
     "criteria": {
       "has_wood": "2024-12-28 22:27:02 +0000"
@@ -1220,6 +1226,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2024-12-29 00:26:49 +0000",
       "minecraft:nether_wastes": "2024-12-29 00:13:27 +0000"
     },
     "done": false
@@ -1503,6 +1510,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lectern": {
     "criteria": {
       "has_bookshelf": "2024-12-28 23:19:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-29 00:25:23 +0000"
     },
     "done": true
   },
@@ -2128,6 +2141,12 @@
   "create:recipes/create.palettes/polished_cut_granite_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 00:24:57 +0000"
     },
     "done": true
   },
@@ -3087,6 +3106,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2024-12-29 00:24:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-12-29 00:30:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2024-12-22 20:44:30 +0000"
@@ -3480,8 +3511,11 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2024-12-23 03:14:06 +0000",
+      "minecraft:hoglin": "2024-12-29 00:27:43 +0000",
       "minecraft:spider": "2024-12-22 20:49:59 +0000",
+      "minecraft:piglin_brute": "2024-12-29 00:31:26 +0000",
       "minecraft:creeper": "2024-12-23 03:05:24 +0000",
+      "minecraft:zombified_piglin": "2024-12-29 00:24:57 +0000",
       "minecraft:cave_spider": "2024-12-23 03:51:48 +0000",
       "minecraft:enderman": "2024-12-28 23:43:44 +0000",
       "minecraft:zombie": "2024-12-22 20:45:24 +0000",
@@ -3498,6 +3532,12 @@
   "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2024-12-28 23:42:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2024-12-29 00:25:23 +0000"
     },
     "done": true
   },
@@ -4188,6 +4228,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-29 00:29:30 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2024-12-27 18:39:57 +0000"
@@ -4479,6 +4525,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-23 03:17:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2024-12-29 00:25:23 +0000"
     },
     "done": true
   },
@@ -4816,6 +4868,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 22:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-12-29 00:30:35 +0000"
     },
     "done": true
   },
