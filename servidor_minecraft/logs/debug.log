@@ -13910,3 +13910,145 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 01:13:41.934] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=172, y=56, z=3} in ResourceKey[minecraft:dimension / minecraft:the_nether]
 [29Dec2024 01:14:15.420] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [29Dec2024 01:14:15.426] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 01:17:41.533] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Garetexe: {disabled=true, disconnected=false, uuid=e6153624-6ec9-3768-bf1f-51eb9dc95640, name=Garetexe, group=3eed85c0-3880-42df-a7c5-a9d54b0aa5c8}
+[29Dec2024 01:17:56.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> thol?
+[29Dec2024 01:18:03.062] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of Garetexe: {disabled=false, disconnected=false, uuid=e6153624-6ec9-3768-bf1f-51eb9dc95640, name=Garetexe, group=3eed85c0-3880-42df-a7c5-a9d54b0aa5c8}
+[29Dec2024 01:18:54.020] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:18:55.519] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:18:56.570] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:18:57.624] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:18:58.665] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:18:59.717] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:19:00.767] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:19:05.371] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:19:15.424] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 01:19:15.430] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 01:19:16.822] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:19:27.002] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=523, y=70, z=659}) doesn't have enough leaves around top most log
+[29Dec2024 01:19:29.113] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=524, y=69, z=660}) doesn't have enough leaves around top most log
+[29Dec2024 01:19:42.664] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:20:35.415] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=515, y=70, z=638}) doesn't have enough leaves around top most log
+[29Dec2024 01:20:37.666] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=516, y=71, z=638}) doesn't have enough leaves around top most log
+[29Dec2024 01:20:40.469] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:23:23.422] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=458, y=67, z=658}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:24.763] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=458, y=66, z=659}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:25.815] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=459, y=66, z=658}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:26.869] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=459, y=66, z=659}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:27.972] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=458, y=67, z=659}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:29.014] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=458, y=68, z=658}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:30.064] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=459, y=68, z=658}) doesn't have enough leaves around top most log
+[29Dec2024 01:23:36.527] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/floor2/terminator/floor2_room_terminator_3
+[29Dec2024 01:23:36.531] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_flower_open_1
+[29Dec2024 01:23:36.533] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_1
+[29Dec2024 01:23:47.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Enchanter]
+[29Dec2024 01:23:50.811] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:starts/junction_lg
+[29Dec2024 01:23:50.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_2
+[29Dec2024 01:23:50.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_3
+[29Dec2024 01:23:50.814] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_turn
+[29Dec2024 01:23:50.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hallways/hallway_4
+[29Dec2024 01:23:50.815] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:walls/hall_wall
+[29Dec2024 01:23:50.821] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/treasure_room_lg
+[29Dec2024 01:23:50.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway
+[29Dec2024 01:23:50.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_l
+[29Dec2024 01:23:50.823] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hall_wall_terminator
+[29Dec2024 01:23:50.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_small
+[29Dec2024 01:23:50.824] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_r
+[29Dec2024 01:23:50.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_banner
+[29Dec2024 01:23:50.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_iron
+[29Dec2024 01:23:50.825] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_doorway_2torch
+[29Dec2024 01:23:50.827] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/armoury_md
+[29Dec2024 01:23:50.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:hall_doorways/hall_door_wood
+[29Dec2024 01:23:50.828] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_chest_r
+[29Dec2024 01:23:50.829] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_r
+[29Dec2024 01:23:50.830] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_collapse
+[29Dec2024 01:23:50.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/sealed_cell
+[29Dec2024 01:23:50.831] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_3
+[29Dec2024 01:23:50.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_11
+[29Dec2024 01:23:50.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:treasure/corner/treasure_corner_6
+[29Dec2024 01:23:50.832] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_r
+[29Dec2024 01:23:50.833] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_book_l
+[29Dec2024 01:23:50.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_0
+[29Dec2024 01:23:50.834] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_sword
+[29Dec2024 01:23:50.835] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_lantern_l
+[29Dec2024 01:23:50.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/stairs_straight
+[29Dec2024 01:23:50.837] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/bunks_md
+[29Dec2024 01:23:50.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/crypt_sm
+[29Dec2024 01:23:50.838] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:statues/statue_shield_l
+[29Dec2024 01:23:50.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_3floor_1
+[29Dec2024 01:23:50.850] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:portal_rooms/portal_room
+[29Dec2024 01:23:50.853] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/library_md
+[29Dec2024 01:23:50.856] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:rooms/storeroom
+[29Dec2024 01:23:50.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:stairs/spiral_stairs_2floor_1
+[29Dec2024 01:23:50.858] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_r
+[29Dec2024 01:23:50.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest
+[29Dec2024 01:23:50.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_chest_trap
+[29Dec2024 01:23:50.859] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_r
+[29Dec2024 01:23:50.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_lantern_l
+[29Dec2024 01:23:50.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_l
+[29Dec2024 01:23:50.860] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_book_r
+[29Dec2024 01:23:50.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_sword
+[29Dec2024 01:23:50.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_l
+[29Dec2024 01:23:50.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_chest_r
+[29Dec2024 01:23:50.862] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end
+[29Dec2024 01:23:50.863] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterstrongholds:terminators/hallway_end_statue_shield_l
+[29Dec2024 01:24:15.432] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Dec2024 01:24:15.439] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Dec2024 01:24:34.115] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:34.172] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:34.215] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:34.265] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.417] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.468] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.767] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.837] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.866] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.917] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:40.967] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.067] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.118] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.167] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.220] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.267] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.320] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.368] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.416] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.465] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.517] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.567] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.617] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.674] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.718] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.771] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.820] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:41.872] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[29Dec2024 01:24:54.876] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.breaking.ToolDamageHandler/]: Tree reached max size of 100
+[29Dec2024 01:26:35.036] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=72, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:35.988] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=72, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:36.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=71, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:38.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=71, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:39.086] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=72, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:39.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=72, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:40.086] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=71, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:40.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=72, z=6}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:41.088] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=71, z=6}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:41.587] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=72, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:42.088] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=71, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:42.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=72, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:43.984] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=71, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:44.486] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=73, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:45.237] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=74, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:45.786] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=73, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:46.286] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=74, z=8}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:46.938] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=73, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:47.435] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=74, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:48.385] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=73, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:48.885] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=74, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:49.586] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1388, y=73, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:50.087] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1388, y=74, z=7}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:50.886] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=73, z=6}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:51.385] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1387, y=73, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:52.138] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=73, z=5}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:52.735] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=73, z=6}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:53.384] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=72, z=6}) doesn't have enough leaves around top most log
+[29Dec2024 01:26:54.134] [Server thread/DEBUG] [fr.raksrinana.fallingtree.common.tree.builder.TreeBuilder/]: Tree at BlockPosWrapper(raw=BlockPos{x=1386, y=71, z=6}) doesn't have enough leaves around top most log
