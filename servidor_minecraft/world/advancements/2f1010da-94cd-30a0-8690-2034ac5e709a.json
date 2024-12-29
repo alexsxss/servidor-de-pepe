@@ -1553,6 +1553,12 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2024-12-29 00:23:38 +0000"
+    },
+    "done": false
+  },
   "create:recipes/create.palettes/small_tuff_brick_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 15:56:25 +0000"
@@ -1799,6 +1805,12 @@
     },
     "done": true
   },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-12-29 00:23:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -2024,6 +2036,12 @@
   "create:recipes/create.palettes/small_tuff_brick_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 15:56:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2024-12-29 00:20:50 +0000"
     },
     "done": true
   },
@@ -2588,6 +2606,12 @@
   "minecraft:recipes/food/baked_potato_from_smoking": {
     "criteria": {
       "has_potato": "2024-12-22 00:26:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-12-29 00:23:37 +0000"
     },
     "done": true
   },
@@ -6733,6 +6757,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 15:53:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2024-12-29 00:22:43 +0000"
     },
     "done": true
   },

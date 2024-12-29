@@ -1037,6 +1037,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2024-12-29 00:21:23 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_gray_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-23 03:04:23 +0000",
@@ -1233,6 +1239,12 @@
   "create:recipes/create.base/crafting/appliances/copper_diving_helmet": {
     "criteria": {
       "has_item": "2024-12-27 20:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-29 00:23:15 +0000"
     },
     "done": true
   },
@@ -2335,6 +2347,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_boots": "2024-12-29 00:23:15 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 22:41:57 +0000"
@@ -2605,6 +2623,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2024-12-29 00:20:47 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/diorite_pillar_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
@@ -2842,6 +2866,12 @@
   "minecraft:recipes/building_blocks/chiseled_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 19:39:43 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-29 00:21:23 +0000"
     },
     "done": true
   },
@@ -3483,6 +3513,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2024-12-29 00:21:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 22:41:57 +0000"
@@ -3754,6 +3790,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2024-12-29 00:21:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
@@ -3866,6 +3908,12 @@
     "criteria": {
       "has_the_recipe": "2024-12-23 03:04:23 +0000",
       "has_sleeping_bag": "2024-12-23 03:04:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2024-12-29 00:21:23 +0000"
     },
     "done": true
   },
@@ -5137,6 +5185,12 @@
     },
     "done": true
   },
+  "create:recipes/create.base/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2024-12-29 00:21:23 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-27 19:39:43 +0000"
@@ -5362,6 +5416,12 @@
   "securitycraft:recipes/securitycraft/deepslate_coal_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2024-12-29 00:20:17 +0000"
     },
     "done": true
   },
