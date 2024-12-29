@@ -84,3 +84,27 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 01:02:08.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:Home:H:1401:64:-47:6:false:0:Internal-overworld-waypoints
 [29Dec2024 01:03:45.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Piglin
 [29Dec2024 01:04:19.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [A Seedy Place]
+[29Dec2024 01:07:15.308] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.408] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.608] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.707] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:15.911] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.010] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.108] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.208] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.307] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.410] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.508] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.607] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.712] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.811] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:07:16.910] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:08:46.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=203, y=38, z=221} BlockPos{x=203, y=37, z=223}
+[29Dec2024 01:08:53.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=193, y=37, z=214} BlockPos{x=194, y=36, z=215}
+[29Dec2024 01:08:59.910] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=38, z=236} BlockPos{x=181, y=36, z=238}
+[29Dec2024 01:08:59.968] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=38, z=236} BlockPos{x=181, y=36, z=238}
+[29Dec2024 01:09:00.013] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=181, y=38, z=236} BlockPos{x=181, y=36, z=238}
+[29Dec2024 01:09:02.113] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=245} BlockPos{x=183, y=36, z=246}
+[29Dec2024 01:09:02.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=182, y=38, z=245} BlockPos{x=183, y=36, z=246}

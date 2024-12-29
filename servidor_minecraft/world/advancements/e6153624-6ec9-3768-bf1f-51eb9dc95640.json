@@ -5779,6 +5779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/warped_fungus_on_a_stick": {
+    "criteria": {
+      "has_warped_fungus": "2024-12-29 01:09:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
