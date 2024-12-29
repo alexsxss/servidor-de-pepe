@@ -111,3 +111,6 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 01:17:56.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> thol?
 [29Dec2024 01:23:47.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Enchanter]
 [29Dec2024 01:31:16.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [What a Deal!]
+[29Dec2024 01:38:06.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Cover Me with Diamonds]
+[29Dec2024 01:42:07.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Enchanter]
+[29Dec2024 01:44:09.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved too quickly! -3.0691563385735208,0.8322033533667508,9.616853800919522
