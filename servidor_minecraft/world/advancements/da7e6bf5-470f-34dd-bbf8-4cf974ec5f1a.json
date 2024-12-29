@@ -2764,6 +2764,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2024-12-29 02:19:49 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/materials/rose_quartz": {
     "criteria": {
       "has_item": "2024-12-22 15:12:54 +0000"
@@ -3043,6 +3049,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2024-12-29 02:23:04 +0000"
     },
     "done": true
   },
@@ -3625,6 +3637,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_javelin": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2024-12-29 02:20:56 +0000"
     },
     "done": true
   },
@@ -5882,6 +5900,12 @@
     },
     "done": true
   },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2024-12-29 02:23:04 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 20:58:07 +0000"
@@ -6863,6 +6887,12 @@
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-12-28 02:22:59 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:boomerang": {
+    "criteria": {
+      "has_boomerang": "2024-12-29 02:20:39 +0000"
     },
     "done": true
   },
