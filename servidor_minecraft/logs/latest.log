@@ -114,3 +114,4 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 01:38:06.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Cover Me with Diamonds]
 [29Dec2024 01:42:07.581] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Enchanter]
 [29Dec2024 01:44:09.380] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved too quickly! -3.0691563385735208,0.8322033533667508,9.616853800919522
+[29Dec2024 01:53:31.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Enchanter]
