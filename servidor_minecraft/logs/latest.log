@@ -75,3 +75,7 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 00:45:24.462] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
 [29Dec2024 00:45:31.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale xd
 [29Dec2024 00:45:54.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ve a dis
+[29Dec2024 00:49:12.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [War Pigs]
+[29Dec2024 00:51:33.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> alejandro
+[29Dec2024 00:55:12.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 00:55:39.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

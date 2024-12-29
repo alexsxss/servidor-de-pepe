@@ -1269,7 +1269,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 00:26:49 +0000",
-      "minecraft:nether_wastes": "2024-12-29 00:13:27 +0000"
+      "minecraft:nether_wastes": "2024-12-29 00:13:27 +0000",
+      "minecraft:warped_forest": "2024-12-29 00:53:02 +0000"
     },
     "done": false
   },
@@ -2720,6 +2721,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2024-12-29 00:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2024-12-27 18:50:41 +0000"
@@ -3589,6 +3596,7 @@
       "minecraft:creeper": "2024-12-23 03:05:24 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:24:57 +0000",
       "minecraft:cave_spider": "2024-12-23 03:51:48 +0000",
+      "minecraft:piglin": "2024-12-29 00:53:58 +0000",
       "minecraft:enderman": "2024-12-28 23:43:44 +0000",
       "minecraft:zombie": "2024-12-22 20:45:24 +0000",
       "minecraft:drowned": "2024-12-27 20:11:59 +0000"
@@ -4657,6 +4665,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-29 00:49:14 +0000"
     },
     "done": true
   },
