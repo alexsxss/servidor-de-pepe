@@ -79,3 +79,8 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 00:51:33.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> alejandro
 [29Dec2024 00:55:12.817] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [29Dec2024 00:55:39.511] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Dec2024 01:00:38.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Ol' Betsy]
+[29Dec2024 01:00:38.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Take Aim]
+[29Dec2024 01:02:08.939] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:Home:H:1401:64:-47:6:false:0:Internal-overworld-waypoints
+[29Dec2024 01:03:45.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Piglin
+[29Dec2024 01:04:19.962] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [A Seedy Place]

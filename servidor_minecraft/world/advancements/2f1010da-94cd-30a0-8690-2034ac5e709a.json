@@ -149,6 +149,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2024-12-29 01:00:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2024-12-21 16:47:49 +0000"
@@ -434,6 +440,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-12-22 18:13:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:01:27 +0000"
     },
     "done": true
   },
@@ -1556,7 +1568,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 00:26:55 +0000",
-      "minecraft:nether_wastes": "2024-12-29 00:23:38 +0000"
+      "minecraft:nether_wastes": "2024-12-29 00:23:38 +0000",
+      "minecraft:warped_forest": "2024-12-29 00:55:01 +0000"
     },
     "done": false
   },
@@ -4361,6 +4374,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:01:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
       "has_iron": "2024-12-22 00:29:12 +0000"
@@ -5334,6 +5353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2024-12-29 01:00:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cut_sandstone_slab": {
     "criteria": {
       "has_cut_sandstone": "2024-12-22 18:13:16 +0000"
@@ -5686,6 +5711,12 @@
   "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
       "has_iron": "2024-12-22 00:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2024-12-29 01:00:00 +0000"
     },
     "done": true
   },
@@ -6687,6 +6718,12 @@
   "create:recipes/create.palettes/acacia_window": {
     "criteria": {
       "has_ingredient": "2024-12-27 21:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2024-12-29 01:01:27 +0000"
     },
     "done": true
   },
