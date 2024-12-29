@@ -1816,6 +1816,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-29 01:58:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -2263,6 +2269,12 @@
   "create:recipes/create.palettes/small_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 02:11:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
     },
     "done": true
   },
@@ -3586,6 +3598,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-29 01:58:00 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -3834,6 +3852,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/yellow_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
@@ -3988,6 +4012,12 @@
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-12-22 15:12:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
     },
     "done": true
   },
@@ -5221,6 +5251,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-29 01:58:00 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/borderless_glass_black_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-22 00:30:32 +0000"
@@ -5843,6 +5879,12 @@
   "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 20:58:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
     },
     "done": true
   },
@@ -6500,6 +6542,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs": {
     "criteria": {
       "has_diorite": "2024-12-22 13:36:16 +0000"
@@ -6533,6 +6581,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/small_arrow_quiver": {
     "criteria": {
       "has_the_recipe": "2024-12-28 01:59:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2024-12-29 01:58:00 +0000"
     },
     "done": true
   },
@@ -6953,6 +7007,12 @@
   "create:recipes/create.palettes/small_asurine_brick_slab_from_stone_types_asurine_stonecutting": {
     "criteria": {
       "has_stone_types_asurine": "2024-12-27 20:59:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
     },
     "done": true
   },
