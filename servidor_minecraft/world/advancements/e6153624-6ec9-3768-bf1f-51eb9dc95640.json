@@ -47,6 +47,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_toast": {
     "criteria": {
       "has_bread": "2024-12-23 03:04:36 +0000"
@@ -368,6 +374,12 @@
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2024-12-23 03:08:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
     },
     "done": true
   },
@@ -713,6 +725,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/roasted_nuts": {
     "criteria": {
       "has_nut": "2024-12-23 02:54:57 +0000"
@@ -761,6 +779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_tuff_wall_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-28 22:46:18 +0000"
@@ -788,6 +812,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_observer": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
     },
     "done": true
   },
@@ -869,6 +899,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/stuffed_poblanos": {
     "criteria": {
       "has_beef": "2024-12-23 03:25:26 +0000"
@@ -884,6 +920,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-23 03:25:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -2024,6 +2066,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/combat/emu_leggings": {
     "criteria": {
       "has_items": "2024-12-28 23:37:15 +0000"
@@ -2486,6 +2534,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -2501,6 +2555,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -2741,6 +2801,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2024-12-22 20:44:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -3127,6 +3193,12 @@
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -3583,6 +3655,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chain": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:03:33 +0000"
@@ -3616,6 +3694,12 @@
   "create:recipes/create.palettes/cut_tuff_stairs_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-28 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -3754,6 +3838,12 @@
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -4450,6 +4540,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_granite": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/writable_book": {
     "criteria": {
       "has_book": "2024-12-27 20:27:12 +0000"
@@ -4594,6 +4690,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/speed_module": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
@@ -4727,6 +4829,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
@@ -4790,6 +4898,12 @@
   "create:recipes/create.palettes/cut_granite_brick_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
     },
     "done": true
   },
@@ -5345,6 +5459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 22:55:18 +0000"
@@ -5477,6 +5597,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:boomerang": {
     "criteria": {
       "has_boomerang": "2024-12-29 00:20:17 +0000"
@@ -5513,6 +5639,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2024-12-23 03:55:16 +0000"
@@ -5528,6 +5660,12 @@
   "create:recipes/create.palettes/crafting/kinetics/pink_seat": {
     "criteria": {
       "has_wool": "2024-12-23 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-12-29 00:43:03 +0000"
     },
     "done": true
   },
@@ -5588,6 +5726,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2024-12-22 20:00:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-12-29 00:35:03 +0000"
     },
     "done": true
   },

@@ -5292,6 +5292,12 @@
     },
     "done": true
   },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2024-12-29 00:38:34 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/campfire_molasses": {
     "criteria": {
       "has_sugar_cane": "2024-12-22 00:25:17 +0000"

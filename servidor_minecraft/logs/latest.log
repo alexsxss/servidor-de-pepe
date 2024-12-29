@@ -42,3 +42,36 @@ java.util.ConcurrentModificationException: null
 [29Dec2024 00:31:32.516] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe is bleeding. Garetexe tried to swim in lava to escape Piglin
 [29Dec2024 00:31:37.016] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe tried to swim in lava to escape Piglin
 [29Dec2024 00:31:39.470] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 00:38:34.551] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Those Were the Days]
+[29Dec2024 00:39:57.348] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6f8d8729
+[29Dec2024 00:39:57.363] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.108.170.63:41017] logged in with entity id 48872 at (954.5551078441958, 24.0, 142.78494565065435)
+[29Dec2024 00:39:57.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[29Dec2024 00:39:57.380] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[29Dec2024 00:39:57.382] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[29Dec2024 00:39:57.391] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[29Dec2024 00:39:57.393] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[29Dec2024 00:39:57.940] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[29Dec2024 00:39:57.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[29Dec2024 00:39:59.739] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[29Dec2024 00:40:00.740] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[29Dec2024 00:40:00.741] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[29Dec2024 00:40:27.764] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no voy a poder usar el voice chat
+[29Dec2024 00:40:36.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> d locos
+[29Dec2024 00:40:46.208] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe is bleeding. Garetexe burned to death
+[29Dec2024 00:41:23.465] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> alejandro
+[29Dec2024 00:41:28.757] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> si rompo mi tumba
+[29Dec2024 00:41:32.238] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> dime
+[29Dec2024 00:41:45.109] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> cuando la rompes todo va a tu inventario
+[29Dec2024 00:42:00.761] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> aunque
+[29Dec2024 00:42:18.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> te advierto de que es mejor que no tenga lava cerca
+[29Dec2024 00:42:24.164] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> :(/
+[29Dec2024 00:42:24.810] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> bobo
+[29Dec2024 00:42:35.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> pos la mia tiene lava abajo xdd
+[29Dec2024 00:44:05.110] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe is bleeding. Garetexe burned to death
+[29Dec2024 00:44:21.507] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael is bleeding. EddyChael was slain by Piglin Brute
+[29Dec2024 00:44:54.040] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe burned to death
+[29Dec2024 00:44:55.202] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 00:45:21.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael was slain by Piglin Brute
+[29Dec2024 00:45:24.462] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[29Dec2024 00:45:31.017] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale xd
+[29Dec2024 00:45:54.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ve a dis
