@@ -257,6 +257,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-01-11 18:03:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/lime_seat": {
     "criteria": {
       "has_wool": "2024-12-23 03:27:03 +0000"
@@ -596,6 +602,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 19:39:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:greatsword": {
+    "criteria": {
+      "has_greatsword": "2025-01-11 18:07:46 +0000"
     },
     "done": true
   },
@@ -5489,6 +5501,12 @@
   "croptopia:recipes/shaped_lemon_coconut_bar": {
     "criteria": {
       "has_lemon": "2024-12-23 03:56:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-01-11 18:08:49 +0000"
     },
     "done": true
   },
