@@ -919,6 +919,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_light_blue1": {
+    "criteria": {
+      "recipe_condition": "2025-01-11 02:35:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_salmon_from_smoking": {
     "criteria": {
       "has_salmon": "2024-12-22 00:53:00 +0000"
@@ -4685,6 +4691,12 @@
   "securitycraft:recipes/securitycraft/light_gray_lens": {
     "criteria": {
       "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_light_blue_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-01-11 02:35:32 +0000"
     },
     "done": true
   },

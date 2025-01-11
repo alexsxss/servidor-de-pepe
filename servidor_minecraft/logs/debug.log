@@ -8161,3 +8161,30 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 02:32:41.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:CASA:C:-254:53:-1251:1:false:0:Internal-overworld-waypoints
 [11Jan2025 02:33:54.626] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jan2025 02:33:54.633] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:34:06.692] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 02:35:31.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has reached the goal [Flowers of the Savanna]
+[11Jan2025 02:36:36.712] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_bow_open_0
+[11Jan2025 02:36:36.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_empty_open_0
+[11Jan2025 02:36:36.949] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:zombie_dungeon/tombstone/tombstone_skull_open_0
+[11Jan2025 02:36:41.420] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/campfire_prop/campfire_prop_1
+[11Jan2025 02:36:41.422] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair1/stair1_1
+[11Jan2025 02:36:41.423] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/2x3/2x3_8
+[11Jan2025 02:36:41.424] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/bridges/bridge_wood
+[11Jan2025 02:36:41.427] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_5
+[11Jan2025 02:36:41.429] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/3x3/3x3_10
+[11Jan2025 02:36:41.432] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of betterdungeons:skeleton_dungeon/stair2/stair2_3
+[11Jan2025 02:38:27.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 02:38:29.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 02:38:54.634] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:38:54.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 02:39:09.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 02:40:41.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[11Jan2025 02:40:41.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 02:40:41.696] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elblak004
+[11Jan2025 02:40:41.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 02:40:41.696] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set GhostSaintRD's game mode to Survival Mode
+[11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set EddyChael's game mode to Survival Mode
+[11Jan2025 02:41:49.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Hearty Meal]
+[11Jan2025 02:43:54.612] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 02:43:54.620] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
