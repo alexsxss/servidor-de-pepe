@@ -823,6 +823,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-11 02:28:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-27 20:21:02 +0000"
@@ -1321,6 +1327,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_deposit_upgrade": {
+    "criteria": {
+      "has_deposit_upgrade": "2025-01-11 02:26:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/granite_pillar_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-23 02:11:31 +0000"
@@ -1348,6 +1360,12 @@
   "comforts:sleeping_bag_magenta_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-01-11 02:28:28 +0000"
     },
     "done": true
   },
@@ -1939,6 +1957,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/cosmetic/paraglider": {
+    "criteria": {
+      "has_paragliders": "2025-01-11 02:32:17 +0000"
     },
     "done": true
   },
@@ -3007,6 +3031,12 @@
   "croptopia:recipes/scrambled_eggs": {
     "criteria": {
       "has_egg": "2024-12-27 20:23:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-01-11 02:29:35 +0000"
     },
     "done": true
   },
@@ -4141,6 +4171,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
+    "criteria": {
+      "has_restock_upgrade": "2025-01-11 02:26:14 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -4490,6 +4526,12 @@
     },
     "done": true
   },
+  "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
+    "criteria": {
+      "has_paragliders": "2025-01-11 02:32:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2024-12-28 02:44:04 +0000"
@@ -4757,6 +4799,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-01-11 02:28:28 +0000"
     },
     "done": true
   },
@@ -6134,6 +6182,12 @@
     },
     "done": true
   },
+  "paraglider:paraglider": {
+    "criteria": {
+      "paraglider": "2025-01-11 02:32:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_parrying_dagger": {
     "criteria": {
       "has_diamond": "2024-12-28 02:44:04 +0000"
@@ -6731,6 +6785,12 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-01-11 02:28:28 +0000"
     },
     "done": true
   },
