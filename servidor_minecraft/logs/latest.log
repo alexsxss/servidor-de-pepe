@@ -371,3 +371,23 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 03:32:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Survival Mode
 [11Jan2025 03:33:22.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Creative Mode
 [11Jan2025 03:33:25.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has completed the challenge [Praise the Sun]
+[11Jan2025 03:35:48.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Survival Mode
+[11Jan2025 03:36:02.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[11Jan2025 03:36:02.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[11Jan2025 03:36:02.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 03:36:12.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[11Jan2025 03:36:12.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 03:36:12.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 03:36:12.193] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 03:36:16.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@505f59b3
+[11Jan2025 03:36:16.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:38625] logged in with entity id 28432 at (6.061436062010392, 80.0, -1111.9709364697314)
+[11Jan2025 03:36:16.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[11Jan2025 03:36:16.514] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[11Jan2025 03:36:16.515] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:36:16.517] [ForkJoinPool-5-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 03:36:16.519] [ForkJoinPool-5-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 03:36:16.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[11Jan2025 03:36:16.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 03:36:17.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:36:18.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:36:18.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
