@@ -623,6 +623,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-11 18:25:53 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_brick_wall_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
@@ -1739,6 +1745,12 @@
   "create:recipes/create.palettes/cut_limestone_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-27 19:39:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-01-11 18:25:53 +0000"
     },
     "done": true
   },
@@ -3326,6 +3338,12 @@
   "alexsmobs:recipes/food/boiled_emu_egg_smoke": {
     "criteria": {
       "has_items": "2024-12-28 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-01-11 18:25:53 +0000"
     },
     "done": true
   },
