@@ -35,15 +35,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
-    "criteria": {
-      "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-01-11 02:42:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_with_vanilla_diorite": {
+    "criteria": {
+      "has_cobblestone": "2025-01-11 02:50:23 +0000"
     },
     "done": true
   },
@@ -83,9 +83,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/crafting_table": {
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
-      "has_planks": "2025-01-11 02:42:22 +0000"
+      "has_iron_ingot": "2025-01-11 02:31:13 +0000"
     },
     "done": true
   },
@@ -95,9 +95,9 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
+  "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
-      "has_iron_ingot": "2025-01-11 02:31:13 +0000"
+      "has_planks": "2025-01-11 02:42:22 +0000"
     },
     "done": true
   },
@@ -149,15 +149,15 @@
     },
     "done": false
   },
-  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-11 02:41:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/vanilla_dirt_chest": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 02:41:11 +0000"
     },
     "done": true
   },
@@ -215,15 +215,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
-    "criteria": {
-      "has_stick": "2025-01-11 02:37:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "in_water": "2025-01-11 02:12:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
+    "criteria": {
+      "has_stick": "2025-01-11 02:37:22 +0000"
     },
     "done": true
   },
@@ -266,6 +266,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-01-11 04:50:08 +0000"
     },
     "done": true
   },
@@ -365,15 +371,15 @@
     },
     "done": true
   },
-  "croptopia:recipes/croptopia.croptopia/fried_calamari": {
-    "criteria": {
-      "has_calamari": "2025-01-11 04:16:43 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-11 04:16:43 +0000"
     },
     "done": true
   },
@@ -425,15 +431,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
-    "criteria": {
-      "has_stick": "2025-01-11 02:37:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
+    "criteria": {
+      "has_stick": "2025-01-11 02:37:22 +0000"
     },
     "done": true
   },
@@ -479,15 +485,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-01-11 02:50:23 +0000"
     },
     "done": true
   },
@@ -509,21 +515,27 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
-    "criteria": {
-      "has_wood": "2025-01-11 02:42:22 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/wooden_longbow": {
+    "criteria": {
+      "has_wood": "2025-01-11 02:42:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-01-11 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-11 02:25:46 +0000"
     },
     "done": true
   },
@@ -536,12 +548,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_glaive": {
     "criteria": {
       "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_planks": {
-    "criteria": {
-      "has_logs": "2025-01-11 02:25:46 +0000"
     },
     "done": true
   },
@@ -566,6 +572,12 @@
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-01-11 04:57:45 +0000"
     },
     "done": true
   },
@@ -599,15 +611,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/iron_shovel": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-01-11 02:12:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_shovel": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
     },
     "done": true
   },
@@ -660,15 +672,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-11 02:42:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2025-01-11 02:50:23 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/spruce_fence": {
+  "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
-      "has_planks": "2025-01-11 02:42:22 +0000"
+      "has_rail": "2025-01-11 04:50:08 +0000"
     },
     "done": true
   },
@@ -733,15 +751,15 @@
     },
     "done": true
   },
-  "croptopia:getseeds": {
-    "criteria": {
-      "has_seeds": "2025-01-11 03:09:30 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_warped_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "croptopia:getseeds": {
+    "criteria": {
+      "has_seeds": "2025-01-11 03:09:30 +0000"
     },
     "done": true
   },
@@ -859,15 +877,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/stone_lance": {
-    "criteria": {
-      "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/iron_block": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/stone_lance": {
+    "criteria": {
+      "has_cobblestone": "2025-01-11 02:50:23 +0000"
     },
     "done": true
   },
@@ -883,15 +901,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/keycard_lv4": {
-    "criteria": {
-      "has_iron": "2025-01-11 02:31:14 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-01-11 02:25:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-01-11 02:31:14 +0000"
     },
     "done": true
   },
@@ -949,6 +967,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
@@ -958,12 +982,6 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
     },
     "done": true
   },
@@ -1069,15 +1087,15 @@
     },
     "done": true
   },
-  "paraglider:recipes/paraglider/paraglider": {
-    "criteria": {
-      "has_stick": "2025-01-11 02:37:22 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2025-01-11 02:33:04 +0000"
+    },
+    "done": true
+  },
+  "paraglider:recipes/paraglider/paraglider": {
+    "criteria": {
+      "has_stick": "2025-01-11 02:37:22 +0000"
     },
     "done": true
   },
@@ -1147,15 +1165,15 @@
     },
     "done": true
   },
-  "spartanweaponry:recipes/spartanweaponry.basic/iron_halberd": {
-    "criteria": {
-      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
-    },
-    "done": true
-  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-01-11 02:12:25 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/iron_halberd": {
+    "criteria": {
+      "has_iron_ingot": "2025-01-11 02:31:14 +0000"
     },
     "done": true
   },
@@ -1219,15 +1237,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-01-11 02:50:23 +0000"
-    },
-    "done": true
-  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2025-01-11 02:35:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-01-11 02:50:23 +0000"
     },
     "done": true
   },
@@ -1289,6 +1307,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+    "criteria": {
+      "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-01-11 02:42:22 +0000"
@@ -1301,9 +1325,9 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_warped_fence": {
+  "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
-      "has_stick": "2025-01-11 02:37:22 +0000"
+      "has_rail": "2025-01-11 04:50:08 +0000"
     },
     "done": true
   },
@@ -1343,15 +1367,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-01-11 02:12:43 +0000"
-    },
-    "done": true
-  },
   "ironfurnaces:coal": {
     "criteria": {
       "rainbowcoal": "2025-01-11 02:12:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-01-11 02:12:43 +0000"
     },
     "done": true
   },
@@ -1373,15 +1397,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/black_dye": {
-    "criteria": {
-      "has_ink_sac": "2025-01-11 04:16:43 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_dagger": {
     "criteria": {
       "has_wood": "2025-01-11 02:42:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-11 04:16:43 +0000"
     },
     "done": true
   },
@@ -1457,6 +1481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/rail": {
+    "criteria": {
+      "has_the_recipe": "2025-01-11 04:50:07 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_lance": {
     "criteria": {
       "has_wood": "2025-01-11 02:42:22 +0000"
@@ -1475,15 +1505,15 @@
     },
     "done": true
   },
-  "croptopia:eatcrafted": {
-    "criteria": {
-      "eat_crafted": "2025-01-11 02:41:49 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:eatcrafted": {
+    "criteria": {
+      "eat_crafted": "2025-01-11 02:41:49 +0000"
     },
     "done": true
   },

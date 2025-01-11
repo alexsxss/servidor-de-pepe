@@ -1,157 +1,157 @@
-[11Jan2025 02:03:30.516] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.26, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[11Jan2025 02:03:30.521] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
-[11Jan2025 02:03:30.849] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[11Jan2025 02:03:31.294] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.26/fmlcore-1.18.2-40.2.26.jar is missing mods.toml file
-[11Jan2025 02:03:31.296] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.26/javafmllanguage-1.18.2-40.2.26.jar is missing mods.toml file
-[11Jan2025 02:03:31.297] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.26/lowcodelanguage-1.18.2-40.2.26.jar is missing mods.toml file
-[11Jan2025 02:03:31.299] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.26/mclanguage-1.18.2-40.2.26.jar is missing mods.toml file
-[11Jan2025 02:03:31.496] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
-[11Jan2025 02:03:35.289] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[11Jan2025 02:03:35.379] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
-[11Jan2025 02:03:35.527] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
-[11Jan2025 02:03:35.528] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
-[11Jan2025 02:03:35.528] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
-[11Jan2025 02:03:35.534] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[11Jan2025 02:03:35.684] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
-[11Jan2025 02:03:35.685] [main/INFO] [ModernFix/]: Applying Nashorn fix
-[11Jan2025 02:03:35.698] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
-[11Jan2025 02:03:35.749] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 116 options available, 0 override(s) found
-[11Jan2025 02:03:35.761] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jan2025 02:03:35.763] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges_forge.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jan2025 02:03:35.780] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
-[11Jan2025 02:03:36.717] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
-[11Jan2025 02:03:36.718] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
-[11Jan2025 02:03:37.007] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER
-[11Jan2025 02:03:37.008] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/TextureAtlas (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER)
-[11Jan2025 02:03:37.008] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.TextureAtlas was not found fusion.mixins.json:modernfix.TextureAtlasMixinModernFix
-[11Jan2025 02:03:37.043] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
-[11Jan2025 02:03:37.560] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.034 s after launch)
-[11Jan2025 02:03:37.811] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[11Jan2025 02:03:37.811] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
-[11Jan2025 02:03:38.425] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
-[11Jan2025 02:03:39.399] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1835 milliseconds
-[11Jan2025 02:03:41.880] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
-[11Jan2025 02:03:41.926] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
-[11Jan2025 02:03:41.926] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
-[11Jan2025 02:03:41.927] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
-[11Jan2025 02:03:41.927] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
-[11Jan2025 02:03:41.927] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
-[11Jan2025 02:03:41.927] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
-[11Jan2025 02:03:42.001] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
-[11Jan2025 02:03:42.061] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.26, for MC 1.18.2 with MCP 20220404.173914
-[11Jan2025 02:03:42.062] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.26 Initialized
-[11Jan2025 02:03:42.148] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
-[11Jan2025 02:03:42.251] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[11Jan2025 02:03:42.255] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
-[11Jan2025 02:03:42.267] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
-[11Jan2025 02:03:42.378] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
-[11Jan2025 02:03:42.378] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
-[11Jan2025 02:03:42.384] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
-[11Jan2025 02:03:42.704] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
-[11Jan2025 02:03:42.799] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
-[11Jan2025 02:03:42.935] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
-[11Jan2025 02:03:42.997] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
-[11Jan2025 02:03:43.000] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_generate_path
-[11Jan2025 02:03:43.004] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_clear_trains
-[11Jan2025 02:03:43.005] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_sign_types
-[11Jan2025 02:03:43.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_add_balance
-[11Jan2025 02:03:43.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_pids_update
-[11Jan2025 02:03:43.006] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_arrival_projector_update
-[11Jan2025 02:03:43.007] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_use_time_and_wind_sync
-[11Jan2025 02:03:43.009] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_station
-[11Jan2025 02:03:43.009] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_platform
-[11Jan2025 02:03:43.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_siding
-[11Jan2025 02:03:43.010] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_route
-[11Jan2025 02:03:43.011] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_depot
-[11Jan2025 02:03:43.013] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_lift
-[11Jan2025 02:03:43.015] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_lift_track_floor
-[11Jan2025 02:03:43.016] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_station
-[11Jan2025 02:03:43.020] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_platform
-[11Jan2025 02:03:43.020] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_siding
-[11Jan2025 02:03:43.021] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_route
-[11Jan2025 02:03:43.021] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_depot
-[11Jan2025 02:03:43.021] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_train_announcer
-[11Jan2025 02:03:43.022] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_remove_rail_action
-[11Jan2025 02:03:43.022] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_train_passenger_position
-[11Jan2025 02:03:43.022] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_lift_passenger_position
-[11Jan2025 02:03:43.026] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_entity_seat_position
-[11Jan2025 02:03:43.026] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_drive_train
-[11Jan2025 02:03:43.027] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_press_lift_button
-[11Jan2025 02:03:43.084] [modloading-worker-0/INFO] [mtr.libraries.org.eclipse.jetty.util.log/]: Logging initialized @14558ms to mtr.libraries.org.eclipse.jetty.util.log.Slf4jLog
-[11Jan2025 02:03:43.115] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
-[11Jan2025 02:03:43.115] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
-[11Jan2025 02:03:44.736] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:block for mod id enchantinginfuser
-[11Jan2025 02:03:44.987] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:item for mod id enchantinginfuser
-[11Jan2025 02:03:45.077] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id enchantinginfuser
-[11Jan2025 02:03:45.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[11Jan2025 02:03:45.338] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
-[11Jan2025 02:03:45.378] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:menu for mod id enchantinginfuser
-[11Jan2025 02:03:45.482] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
-[11Jan2025 02:03:45.602] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[11Jan2025 02:03:45.603] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[11Jan2025 02:03:45.751] [main/INFO] [Puzzles Lib/]: Loading common config for enchantinginfuser
-[11Jan2025 02:03:45.832] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[11Jan2025 02:03:45.848] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
-[11Jan2025 02:03:45.850] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading config
-[11Jan2025 02:03:45.850] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading reverb parameters
-[11Jan2025 02:03:45.857] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
-[11Jan2025 02:03:45.862] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
-[11Jan2025 02:03:45.873] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
-[11Jan2025 02:03:45.904] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
-[11Jan2025 02:03:45.944] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[11Jan2025 02:03:45.954] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
-[11Jan2025 02:03:45.954] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[11Jan2025 02:03:45.959] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
-[11Jan2025 02:03:45.962] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
-[11Jan2025 02:03:45.962] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
-[11Jan2025 02:03:45.964] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
-[11Jan2025 02:03:46.156] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
-[11Jan2025 02:03:46.157] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[11Jan2025 02:03:46.181] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
-[11Jan2025 02:03:46.182] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[11Jan2025 02:03:46.371] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
-[11Jan2025 02:03:46.377] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
-[11Jan2025 02:03:46.385] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
-[11Jan2025 02:03:46.388] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
-[11Jan2025 02:03:46.389] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
-[11Jan2025 02:03:46.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
-[11Jan2025 02:03:46.408] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
-[11Jan2025 02:03:46.631] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[11Jan2025 02:03:46.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.1 Target: null
-[11Jan2025 02:03:46.649] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.18/update.json
-[11Jan2025 02:03:46.731] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.18.2-1.6.2 Target: 1.7.1
-[11Jan2025 02:03:46.732] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.18.2
-[11Jan2025 02:03:46.744] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
-[11Jan2025 02:03:46.835] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Found status: BETA_OUTDATED Current: 5.0.4 Target: 5.0.5
-[11Jan2025 02:03:46.836] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
-[11Jan2025 02:03:46.938] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 13.3.56 Target: 13.3.56
-[11Jan2025 02:03:46.939] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[11Jan2025 02:03:47.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.26 Target: 40.3.0
-[11Jan2025 02:03:47.035] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[11Jan2025 02:03:47.077] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
-[11Jan2025 02:03:47.078] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
-[11Jan2025 02:03:47.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.27
-[11Jan2025 02:03:47.493] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://maxhenkel.de/update/sound_physics_remastered.json
-[11Jan2025 02:03:48.097] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
-[11Jan2025 02:03:48.098] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
-[11Jan2025 02:03:48.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 10.0.12 Target: 10.0.17
-[11Jan2025 02:03:48.201] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://maxhenkel.de/update/easy_villagers.json
-[11Jan2025 02:03:48.402] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: UP_TO_DATE Current: 1.18.2-1.0.11 Target: null
-[11Jan2025 02:03:48.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
-[11Jan2025 02:03:48.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
-[11Jan2025 02:03:48.431] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
-[11Jan2025 02:03:48.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
-[11Jan2025 02:03:48.567] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[11Jan2025 02:03:48.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.18.2-1.0.1 Target: 1.18.2-1.0.2
-[11Jan2025 02:03:48.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[11Jan2025 02:03:48.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
-[11Jan2025 02:03:48.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
-[11Jan2025 02:03:48.873] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
-[11Jan2025 02:03:48.874] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
-[11Jan2025 02:03:48.883] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
-[11Jan2025 02:03:48.884] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
-[11Jan2025 02:03:48.925] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
-[11Jan2025 02:03:48.959] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[11Jan2025 04:35:27.873] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.26, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[11Jan2025 04:35:27.876] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.13 by Ubuntu
+[11Jan2025 04:35:28.271] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[11Jan2025 04:35:28.811] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.26/fmlcore-1.18.2-40.2.26.jar is missing mods.toml file
+[11Jan2025 04:35:28.817] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.26/javafmllanguage-1.18.2-40.2.26.jar is missing mods.toml file
+[11Jan2025 04:35:28.820] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.26/lowcodelanguage-1.18.2-40.2.26.jar is missing mods.toml file
+[11Jan2025 04:35:28.822] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.26/mclanguage-1.18.2-40.2.26.jar is missing mods.toml file
+[11Jan2025 04:35:29.053] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 4 dependencies adding them to mods collection
+[11Jan2025 04:35:32.910] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[11Jan2025 04:35:33.107] [main/ERROR] [mixin/]: Mixin config necronomicon.forge.mixins.json does not specify "minVersion" property
+[11Jan2025 04:35:33.283] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [com.sonicether.soundphysics.MixinConnector]
+[11Jan2025 04:35:33.284] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [ca.spottedleaf.starlight.mixin.MixinConnector]
+[11Jan2025 04:35:33.285] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[11Jan2025 04:35:33.290] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[11Jan2025 04:35:33.431] [main/INFO] [ModernFix/]: Loaded configuration file for ModernFix 5.18.0+mc1.18.2: 80 options available, 0 override(s) found
+[11Jan2025 04:35:33.434] [main/INFO] [ModernFix/]: Applying Nashorn fix
+[11Jan2025 04:35:33.465] [main/INFO] [ModernFix/]: Applied Forge config corruption patch
+[11Jan2025 04:35:33.529] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 116 options available, 0 override(s) found
+[11Jan2025 04:35:33.541] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jan2025 04:35:33.543] [main/WARN] [mixin/]: Reference map 'yungsbridges.refmap.json' for yungsbridges_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jan2025 04:35:33.565] [main/WARN] [mixin/]: Reference map 'coroutil.refmap.json' for coroutil.mixins.json could not be read. If this is a development environment you can ignore this message
+[11Jan2025 04:35:34.482] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/multiplayer/resolver/ServerAddressResolver (java.lang.ClassNotFoundException: net.minecraft.client.multiplayer.resolver.ServerAddressResolver)
+[11Jan2025 04:35:34.482] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.multiplayer.resolver.ServerAddressResolver was not found fastipping.mixins.json:AddressResolverMixin
+[11Jan2025 04:35:34.832] [main/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER
+[11Jan2025 04:35:34.833] [main/WARN] [mixin/]: Error loading class: net/minecraft/client/renderer/texture/TextureAtlas (java.lang.RuntimeException: Attempted to load class net/minecraft/client/renderer/texture/TextureAtlas for invalid dist DEDICATED_SERVER)
+[11Jan2025 04:35:34.833] [main/WARN] [mixin/]: @Mixin target net.minecraft.client.renderer.texture.TextureAtlas was not found fusion.mixins.json:modernfix.TextureAtlasMixinModernFix
+[11Jan2025 04:35:34.874] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[11Jan2025 04:35:35.405] [main/INFO] [net.minecraft.server.Bootstrap/]: ModernFix reached bootstrap stage (9.688 s after launch)
+[11Jan2025 04:35:35.637] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into getOpacityIfCached from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jan2025 04:35:35.637] [main/INFO] [ModernFix/]: Injecting BlockStateBase cache population hook into isConditionallyFullOpaque from ca.spottedleaf.starlight.mixin.common.blockstate.BlockStateBaseMixin
+[11Jan2025 04:35:36.178] [main/WARN] [mixin/]: Static binding violation: PRIVATE @Overwrite method m_47505_ in modernfix-common.mixins.json:perf.remove_biome_temperature_cache.BiomeMixin cannot reduce visibiliy of PUBLIC target method, visibility will be upgraded.
+[11Jan2025 04:35:37.277] [main/INFO] [net.minecraft.server.Bootstrap/]: Vanilla bootstrap took 1869 milliseconds
+[11Jan2025 04:35:40.145] [modloading-worker-0/INFO] [MaxHealthFix/]: Loaded maxhealthfix for Forge.
+[11Jan2025 04:35:40.233] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:pufferfish_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.238] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:salmon_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.243] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:cod_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.244] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:tropical_fish_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.244] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:axolotl_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.245] [modloading-worker-0/INFO] [Bookshelf/]: Fixing MC-151457. Crafting remainder for minecraft:powder_snow_bucket is now minecraft:bucket.
+[11Jan2025 04:35:40.338] [modloading-worker-0/INFO] [coroutil/]: forge loader environment detected
+[11Jan2025 04:35:40.404] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.26, for MC 1.18.2 with MCP 20220404.173914
+[11Jan2025 04:35:40.405] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.26 Initialized
+[11Jan2025 04:35:40.528] [modloading-worker-0/INFO] [me.fallenbreath.fastipping.FastIpPingMod/]: ping & connect fast!
+[11Jan2025 04:35:40.651] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[11Jan2025 04:35:40.656] [modloading-worker-0/INFO] [ironfurnaces.IronFurnaces/]: Initializing Update Checker...
+[11Jan2025 04:35:40.704] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Starting Update Check...
+[11Jan2025 04:35:40.753] [modloading-worker-0/INFO] [Spartan Weaponry/]: Constructing Mod: Spartan Weaponry
+[11Jan2025 04:35:40.757] [modloading-worker-0/INFO] [Spartan Weaponry/]: Initialising API! Version: 9
+[11Jan2025 04:35:40.762] [modloading-worker-0/INFO] [Spartan Weaponry/]: Spartan Weaponry API version 9 has been initalized!
+[11Jan2025 04:35:40.984] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[11Jan2025 04:35:41.272] [modloading-worker-0/INFO] [Puzzles Lib/]: Constructing common components for puzzleslib:main
+[11Jan2025 04:35:41.302] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_generate_path
+[11Jan2025 04:35:41.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_clear_trains
+[11Jan2025 04:35:41.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_sign_types
+[11Jan2025 04:35:41.310] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_add_balance
+[11Jan2025 04:35:41.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_pids_update
+[11Jan2025 04:35:41.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_arrival_projector_update
+[11Jan2025 04:35:41.311] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_use_time_and_wind_sync
+[11Jan2025 04:35:41.312] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_station
+[11Jan2025 04:35:41.312] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_platform
+[11Jan2025 04:35:41.312] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_siding
+[11Jan2025 04:35:41.317] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_route
+[11Jan2025 04:35:41.317] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_depot
+[11Jan2025 04:35:41.317] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_lift
+[11Jan2025 04:35:41.318] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_lift_track_floor
+[11Jan2025 04:35:41.318] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_station
+[11Jan2025 04:35:41.318] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_platform
+[11Jan2025 04:35:41.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_siding
+[11Jan2025 04:35:41.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_route
+[11Jan2025 04:35:41.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_delete_depot
+[11Jan2025 04:35:41.319] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_update_train_announcer
+[11Jan2025 04:35:41.324] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_remove_rail_action
+[11Jan2025 04:35:41.324] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_train_passenger_position
+[11Jan2025 04:35:41.324] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_lift_passenger_position
+[11Jan2025 04:35:41.325] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:update_entity_seat_position
+[11Jan2025 04:35:41.325] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_drive_train
+[11Jan2025 04:35:41.325] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id mtr:packet_press_lift_button
+[11Jan2025 04:35:41.369] [modloading-worker-0/INFO] [be.florens.expandability.ExpandAbility/]: ExpandAbility here, who dis?
+[11Jan2025 04:35:41.391] [modloading-worker-0/INFO] [mtr.libraries.org.eclipse.jetty.util.log/]: Logging initialized @15675ms to mtr.libraries.org.eclipse.jetty.util.log.Slf4jLog
+[11Jan2025 04:35:41.409] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Update Check done!
+[11Jan2025 04:35:41.409] [ Iron Furnaces Update Checker/INFO] [ironfurnaces.IronFurnaces/]: Iron Furnaces is up to date!
+[11Jan2025 04:35:41.470] [modloading-worker-0/INFO] [com.tterrag.registrate.AbstractRegistrate/]: Detected new forge version, registering events reflectively.
+[11Jan2025 04:35:43.169] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:block for mod id enchantinginfuser
+[11Jan2025 04:35:43.478] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:item for mod id enchantinginfuser
+[11Jan2025 04:35:43.587] [main/INFO] [Puzzles Lib/]: Registering 1 element(s) to registry of type minecraft:block_entity_type for mod id enchantinginfuser
+[11Jan2025 04:35:43.879] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[11Jan2025 04:35:43.880] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[11Jan2025 04:35:43.947] [main/INFO] [Puzzles Lib/]: Registering 2 element(s) to registry of type minecraft:menu for mod id enchantinginfuser
+[11Jan2025 04:35:44.048] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `betterfortresses` for name `fortress`, expected `yungsapi`. This could be a intended override, but in most cases indicates a broken mod.
+[11Jan2025 04:35:44.222] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[11Jan2025 04:35:44.223] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[11Jan2025 04:35:44.433] [main/INFO] [Puzzles Lib/]: Loading common config for enchantinginfuser
+[11Jan2025 04:35:44.527] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[11Jan2025 04:35:44.545] [modloading-worker-0/INFO] [necronomicon/]: Necronomicon Initialized
+[11Jan2025 04:35:44.548] [modloading-worker-0/INFO] [necronomicon/]: File exists, reading config for elocindev.necronomicon.NecronomiconConfig.
+[11Jan2025 04:35:44.552] [modloading-worker-0/INFO] [necronomicon/]: Config for elocindev.necronomicon.NecronomiconConfig read successfully.
+[11Jan2025 04:35:44.553] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading config
+[11Jan2025 04:35:44.555] [modloading-worker-0/INFO] [Sound Physics - General/]: Reloading reverb parameters
+[11Jan2025 04:35:44.571] [modloading-worker-0/INFO] [necronomicon/]: there is a brick about to fall through your roof at terminal velocity
+[11Jan2025 04:35:44.585] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[11Jan2025 04:35:44.594] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 1 plugin(s)
+[11Jan2025 04:35:44.595] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[11Jan2025 04:35:44.605] [modloading-worker-0/INFO] [Sound Physics - General/]: Initializing Simple Voice Chat integration
+[11Jan2025 04:35:44.605] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 1 plugin(s)
+[11Jan2025 04:35:44.607] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Registering events for 'sound_physics_remastered'
+[11Jan2025 04:35:44.603] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Starting version check at https://updates.blamejared.com/get?n=clumps&gv=1.18.2
+[11Jan2025 04:35:44.635] [modloading-worker-0/INFO] [Spartan Weaponry/]: Setting up Spartan Weaponry!
+[11Jan2025 04:35:44.842] [modloading-worker-0/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[11Jan2025 04:35:44.843] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[11Jan2025 04:35:44.867] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[11Jan2025 04:35:44.867] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[11Jan2025 04:35:45.003] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
+[11Jan2025 04:35:45.057] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at mcp.mobius.waila.addons.core.CorePlugin
+[11Jan2025 04:35:45.062] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at snownee.jade.VanillaPlugin
+[11Jan2025 04:35:45.069] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.easyvillagers.integration.waila.PluginEasyVillagers
+[11Jan2025 04:35:45.072] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at de.maxhenkel.gravestone.integration.waila.PluginGraveStone
+[11Jan2025 04:35:45.073] [modloading-worker-0/INFO] [Waila/]: Start loading plugin at net.geforcemods.securitycraft.compat.hudmods.JadeDataProvider
+[11Jan2025 04:35:45.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [clumps] Found status: BETA Current: 8.0.0+17 Target: 8.0.0+17
+[11Jan2025 04:35:45.086] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Starting version check at https://mc-update-check.anthonyhilyard.com/638111
+[11Jan2025 04:35:45.274] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [prism] Found status: UP_TO_DATE Current: 1.0.1 Target: null
+[11Jan2025 04:35:45.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Starting version check at https://raw.githubusercontent.com/Lothrazar/Storage-Network/trunk/1.18/update.json
+[11Jan2025 04:35:45.315] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[11Jan2025 04:35:45.322] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [storagenetwork] Found status: BETA Current: 1.18.2-1.6.2 Target: 1.7.1
+[11Jan2025 04:35:45.323] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Starting version check at https://updates.blamejared.com/get?n=maxhealthfix&gv=1.18.2
+[11Jan2025 04:35:45.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [maxhealthfix] Found status: BETA_OUTDATED Current: 5.0.4 Target: 5.0.5
+[11Jan2025 04:35:45.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Starting version check at https://updates.blamejared.com/get?n=bookshelf&gv=1.18.2
+[11Jan2025 04:35:45.439] [main/INFO] [ModernFix/]: Bypassed Mojang DFU
+[11Jan2025 04:35:45.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [bookshelf] Found status: BETA Current: 13.3.56 Target: 13.3.56
+[11Jan2025 04:35:45.529] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[11Jan2025 04:35:45.650] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.26 Target: 40.3.0
+[11Jan2025 04:35:45.651] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[11Jan2025 04:35:45.759] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23121!/assets/.mcassetsroot' uses unexpected schema
+[11Jan2025 04:35:45.760] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/servidor-de-pepe/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%23121!/data/.mcassetsroot' uses unexpected schema
+[11Jan2025 04:35:46.165] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.27
+[11Jan2025 04:35:46.166] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Starting version check at https://maxhenkel.de/update/sound_physics_remastered.json
+[11Jan2025 04:35:46.758] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [sound_physics_remastered] Found status: UP_TO_DATE Current: 1.18.2-1.0.6 Target: null
+[11Jan2025 04:35:46.759] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Starting version check at https://updates.blamejared.com/get?n=enchdesc&gv=1.18.2
+[11Jan2025 04:35:46.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchdesc] Found status: BETA_OUTDATED Current: 10.0.12 Target: 10.0.17
+[11Jan2025 04:35:46.862] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Starting version check at https://maxhenkel.de/update/easy_villagers.json
+[11Jan2025 04:35:47.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [easy_villagers] Found status: UP_TO_DATE Current: 1.18.2-1.0.11 Target: null
+[11Jan2025 04:35:47.062] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Starting version check at https://mc-update-check.anthonyhilyard.com/520110
+[11Jan2025 04:35:47.090] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [iceberg] Found status: UP_TO_DATE Current: 1.0.49 Target: null
+[11Jan2025 04:35:47.091] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[11Jan2025 04:35:47.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.11-107 Target: null
+[11Jan2025 04:35:47.178] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[11Jan2025 04:35:47.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: OUTDATED Current: 1.18.2-1.0.1 Target: 1.18.2-1.0.2
+[11Jan2025 04:35:47.379] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[11Jan2025 04:35:47.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: UP_TO_DATE Current: 1.9.12 Target: null
+[11Jan2025 04:35:47.478] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[11Jan2025 04:35:47.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.26 Target: null
+[11Jan2025 04:35:47.494] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/puzzleslib.json
+[11Jan2025 04:35:47.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [puzzleslib] Found status: UP_TO_DATE Current: 3.5.10 Target: null
+[11Jan2025 04:35:47.504] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
+[11Jan2025 04:35:47.586] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2323!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2323!/:?]
@@ -166,85 +166,84 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2323!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2323!/:?]
 	... 6 more
-[11Jan2025 02:03:48.960] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
-[11Jan2025 02:03:48.971] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11Jan2025 02:03:48.972] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11Jan2025 02:03:48.974] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.975] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.976] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[11Jan2025 02:03:48.979] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.979] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.980] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.981] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:48.982] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[11Jan2025 02:03:49.317] [Worker-Main-2/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag createaddition:spools as it is missing following references: createaddition:iron_spool (from createaddition-1.18.2-1.0.0.jar)
-[11Jan2025 02:03:49.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: 28 Target: null
-[11Jan2025 02:03:49.600] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
-[11Jan2025 02:03:49.615] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: AHEAD Current: 3.3.3 Target: null
-[11Jan2025 02:03:50.109] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.151] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.159] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.160] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.172] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.174] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.177] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.179] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.180] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.181] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.185] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.186] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.188] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.194] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.203] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.204] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
-[11Jan2025 02:03:50.208] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.209] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.213] [Worker-Main-2/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
-[11Jan2025 02:03:50.224] [Worker-Main-2/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
-[11Jan2025 02:03:50.414] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
-[11Jan2025 02:03:50.425] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
-[11Jan2025 02:03:50.494] [Worker-Main-2/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
-[11Jan2025 02:03:50.805] [Worker-Main-2/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4334 advancements
-[11Jan2025 02:03:50.883] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 5.151857ms
-[11Jan2025 02:03:51.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[11Jan2025 02:03:51.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[11Jan2025 02:03:51.079] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[11Jan2025 02:03:51.079] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[11Jan2025 02:03:51.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[11Jan2025 02:03:51.283] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[11Jan2025 02:03:51.368] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[11Jan2025 02:03:51.368] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[11Jan2025 02:03:51.369] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[11Jan2025 02:03:51.369] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[11Jan2025 02:03:51.727] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
-[11Jan2025 02:03:51.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[11Jan2025 02:03:51.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[11Jan2025 02:03:52.165] [Thread-0/INFO] [ModernFix/]: Please use /mfsrc to reload any changed mod config files
-[11Jan2025 02:03:53.616] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 02:03:53.616] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 02:03:53.617] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 02:03:53.617] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
-[11Jan2025 02:03:53.947] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 26%
-[11Jan2025 02:03:54.444] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
-[11Jan2025 02:03:54.491] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2549 ms
-[11Jan2025 02:03:54.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (3.114s)! For help, type "help"
-[11Jan2025 02:03:54.540] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[11Jan2025 02:03:54.545] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.Server/]: jetty-9.4.51.v20230217; built: 2023-02-17T08:19:37.309Z; git: b45c405e4544384de066f814ed42ae3dceacdd49; jvm 17.0.13+11-Ubuntu-2ubuntu120.04
-[11Jan2025 02:03:54.584] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Started m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,AVAILABLE}
-[11Jan2025 02:03:54.605] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Started ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
-[11Jan2025 02:03:54.605] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.Server/]: Started @26080ms
-[11Jan2025 02:03:54.617] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[11Jan2025 02:03:54.624] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'video-load.gl.at.ply.gg:3180'
-[11Jan2025 02:03:54.625] [Server thread/WARN] [ModernFix/]: Dedicated server took 26.099 seconds to load
-[11Jan2025 02:03:54.629] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3180
-[11Jan2025 02:08:04.830] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@70e734c4[id=<null>,name=EddyChael,properties={},legacy=false] (/127.215.197.171:48359) lost connection: Disconnected
-[11Jan2025 02:09:36.758] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@79022a80
-[11Jan2025 02:09:36.794] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:48455] logged in with entity id 72 at (947.2635185292758, 22.0, 122.59932900734944)
-[11Jan2025 02:09:36.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 02:09:36.887] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 02:09:36.902] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:09:36.907] [ForkJoinPool-5-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/google/gson/reflect/TypeToken for class me/edoren/skin_changer/server/SkinProviderController$1 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool-5-worker-1,5,SERVER]
-[11Jan2025 02:09:36.908] [ForkJoinPool-5-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
+[11Jan2025 04:35:47.587] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Starting version check at https://www.olafkeijsers.net/fastleafdecay-update.json
+[11Jan2025 04:35:47.591] [main/INFO] [Spartan Weaponry/]: Finished registering commands for Spartan Weaponry!
+[11Jan2025 04:35:47.631] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11Jan2025 04:35:47.632] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11Jan2025 04:35:47.635] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.636] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.637] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[11Jan2025 04:35:47.640] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.640] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.642] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, cart1] and [create, coupling, add, carts] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.643] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [create, coupling, add, carts] and [create, coupling, add, cart1] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:47.644] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[11Jan2025 04:35:48.006] [Worker-Main-1/ERROR] [net.minecraft.tags.TagLoader/]: Couldn't load tag createaddition:spools as it is missing following references: createaddition:iron_spool (from createaddition-1.18.2-1.0.0.jar)
+[11Jan2025 04:35:48.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fastleafdecay] Found status: UP_TO_DATE Current: 28 Target: null
+[11Jan2025 04:35:48.442] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Starting version check at https://raw.githubusercontent.com/Fuzss/modresources/main/update/enchantinginfuser.json
+[11Jan2025 04:35:48.452] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [enchantinginfuser] Found status: AHEAD Current: 3.3.3 Target: null
+[11Jan2025 04:35:48.565] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_ingot recipe (createaddition:rolling/electrum_ingot) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.601] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_1_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.608] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/brass_ingot recipe (createaddition:rolling/brass_ingot) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.609] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/electrum_plate recipe (createaddition:rolling/electrum_plate) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.618] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_3_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.620] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_ingot recipe (createaddition:rolling/iron_ingot) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.624] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_5_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.627] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_ingot recipe (createaddition:rolling/copper_ingot) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.628] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_4_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.629] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/copper_plate recipe (createaddition:rolling/copper_plate) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.631] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:belt_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.633] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_6_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.634] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/iron_plate recipe (createaddition:rolling/iron_plate) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.639] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.649] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_7_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.650] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe toolbelt:pouch_upgrade_2_via_sewing as it's serializer returned null
+[11Jan2025 04:35:48.653] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_ingot recipe (createaddition:rolling/gold_ingot) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.654] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/straw recipe (createaddition:rolling/straw) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.658] [Worker-Main-1/WARN] [com.simibubi.create.Create/]: Your custom createaddition:rolling/gold_plate recipe (createaddition:rolling/gold_plate) specified a duration. Durations have no impact on this type of recipe.
+[11Jan2025 04:35:48.667] [Worker-Main-1/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 26 recipes
+[11Jan2025 04:35:48.840] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Diamond Weapons to the End City Treasure Loot Table!
+[11Jan2025 04:35:48.850] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Iron Weapons to the Village Weaponsmith Loot Table!
+[11Jan2025 04:35:48.902] [Worker-Main-1/INFO] [Spartan Weaponry/]: Adding Longbow and Heavy Crossbow related loot to the Village Fletcher Loot Table!
+[11Jan2025 04:35:49.276] [Worker-Main-1/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 4334 advancements
+[11Jan2025 04:35:49.356] [main/INFO] [Spartan Weaponry/]: Finished initialising Weapon Traits & Attributes! Took 7.436332ms
+[11Jan2025 04:35:49.560] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[11Jan2025 04:35:49.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[11Jan2025 04:35:49.561] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[11Jan2025 04:35:49.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[11Jan2025 04:35:49.698] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[11Jan2025 04:35:49.737] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[11Jan2025 04:35:49.824] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11Jan2025 04:35:49.825] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[11Jan2025 04:35:49.825] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11Jan2025 04:35:49.826] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[11Jan2025 04:35:50.175] [Server thread/INFO] [Puzzles Lib/]: Loading server config for enchantinginfuser
+[11Jan2025 04:35:50.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[11Jan2025 04:35:50.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[11Jan2025 04:35:51.702] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 04:35:51.703] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 04:35:51.703] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[11Jan2025 04:35:51.891] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 7%
+[11Jan2025 04:35:52.206] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[11Jan2025 04:35:52.389] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 47%
+[11Jan2025 04:35:52.768] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 2380 ms
+[11Jan2025 04:35:52.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (2.933s)! For help, type "help"
+[11Jan2025 04:35:52.806] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[11Jan2025 04:35:52.810] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.Server/]: jetty-9.4.51.v20230217; built: 2023-02-17T08:19:37.309Z; git: b45c405e4544384de066f814ed42ae3dceacdd49; jvm 17.0.13+11-Ubuntu-2ubuntu120.04
+[11Jan2025 04:35:52.841] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Started m.l.o.e.j.s.ServletContextHandler@2dd4b646{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,AVAILABLE}
+[11Jan2025 04:35:52.861] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Started ServerConnector@7798eca8{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:35:52.862] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.Server/]: Started @27146ms
+[11Jan2025 04:35:52.873] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[11Jan2025 04:35:52.884] [Server thread/WARN] [ModernFix/]: Dedicated server took 27.168 seconds to load
+[11Jan2025 04:35:52.885] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice host is 'video-load.gl.at.ply.gg:3180'
+[11Jan2025 04:35:52.889] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 3180
+[11Jan2025 04:35:59.387] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7e427bed
+[11Jan2025 04:35:59.426] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:33447] logged in with entity id 74 at (1398.0586733873945, 0.0, -67.03813592020647)
+[11Jan2025 04:35:59.483] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[11Jan2025 04:35:59.538] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[11Jan2025 04:35:59.554] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[11Jan2025 04:35:59.569] [ForkJoinPool-5-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: Could not find parent com/google/gson/reflect/TypeToken for class me/edoren/skin_changer/server/SkinProviderController$1 in classloader jdk.internal.loader.ClassLoaders$AppClassLoader@76ed5528 on thread Thread[ForkJoinPool-5-worker-1,5,SERVER]
+[11Jan2025 04:35:59.573] [ForkJoinPool-5-worker-1/ERROR] [net.minecraftforge.eventbus.EventSubclassTransformer/EVENTBUS]: An error occurred building event handler
 java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 	at jdk.internal.loader.BuiltinClassLoader.loadClass(BuiltinClassLoader.java:641) ~[?:?]
 	at jdk.internal.loader.ClassLoaders$AppClassLoader.loadClass(ClassLoaders.java:188) ~[?:?]
@@ -271,391 +270,220 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1655) [?:?]
 	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1622) [?:?]
 	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:165) [?:?]
-[11Jan2025 02:09:36.921] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:09:36.923] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:09:37.373] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 02:09:37.375] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 02:09:39.438] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:09:40.436] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:09:40.439] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 02:11:01.941] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1f2b5d7c[id=<null>,name=EddyChael,properties={},legacy=false] (/127.215.197.171:45749) lost connection: Disconnected
-[11Jan2025 02:11:10.249] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Creative Mode
-[11Jan2025 02:12:25.733] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@525a70cd
-[11Jan2025 02:12:25.746] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GhostSaintRD[/127.167.223.207:58931] logged in with entity id 734 at (3.5, 64.0, 23.5)
-[11Jan2025 02:12:25.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD joined the game
-[11Jan2025 02:12:25.793] [Server thread/INFO] [Waila/]: Syncing config to GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c)
-[11Jan2025 02:12:25.795] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player GhostSaintRD just logged in with id 109f6a92-377e-3cc5-be0d-ef354efa063c
-[11Jan2025 02:12:25.818] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
-[11Jan2025 02:12:26.723] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
-[11Jan2025 02:12:26.723] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
-[11Jan2025 02:12:26.822] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
-[11Jan2025 02:12:27.047] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GhostSaintRD (18)
-[11Jan2025 02:12:27.048] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GhostSaintRD
-[11Jan2025 02:12:32.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 109f6a92-377e-3cc5-be0d-ef354efa063c
-[11Jan2025 02:12:33.006] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 109f6a92-377e-3cc5-be0d-ef354efa063c
-[11Jan2025 02:12:33.007] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c) successfully connected to voice chat
-[11Jan2025 02:13:02.630] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/1124, l='ServerLevel[world]', x=0.50, y=47.00, z=-67.50]
-[11Jan2025 02:14:13.349] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7a8615be[id=<null>,name=EddyChael,properties={},legacy=false] (/127.215.197.171:52287) lost connection: Disconnected
-[11Jan2025 02:14:33.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Teleported GhostSaintRD to 1370.500000, 70.000000, 15.500000
-[11Jan2025 02:17:23.442] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: A player is required to run this command here
-[11Jan2025 02:17:56.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set GhostSaintRD's game mode to Creative Mode
-[11Jan2025 02:18:17.659] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@45fbfd91
-[11Jan2025 02:18:17.674] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:44371] logged in with entity id 3369 at (700.7157236028544, 64.0, 460.1578344588166)
-[11Jan2025 02:18:17.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
-[11Jan2025 02:18:17.693] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
-[11Jan2025 02:18:17.696] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
-[11Jan2025 02:18:17.704] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
-[11Jan2025 02:18:18.690] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
-[11Jan2025 02:18:18.690] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
-[11Jan2025 02:18:18.801] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
-[11Jan2025 02:18:19.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
-[11Jan2025 02:18:19.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
-[11Jan2025 02:18:29.090] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
-[11Jan2025 02:18:30.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
-[11Jan2025 02:18:30.094] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
-[11Jan2025 02:20:04.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set EddyChael's game mode to Creative Mode
-[11Jan2025 02:23:58.707] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Alex's Mobs]
-[11Jan2025 02:27:14.822] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
-[11Jan2025 02:27:14.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
-[11Jan2025 02:27:14.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 02:27:23.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
-[11Jan2025 02:27:23.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 02:27:23.691] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 02:27:23.692] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:27:23.743] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[11Jan2025 02:27:31.702] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fb2254a
-[11Jan2025 02:27:31.713] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:36937] logged in with entity id 6160 at (1368.460395042932, 70.0, 14.302743452987944)
-[11Jan2025 02:27:31.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 02:27:31.761] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 02:27:31.762] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:27:31.784] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:27:31.788] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:27:31.871] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 02:27:31.872] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 02:27:35.810] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:27:36.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 02:27:36.814] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 02:28:22.990] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Isn't It Iron Pick]
-[11Jan2025 02:29:35.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Take Aim, Chaps!]
-[11Jan2025 02:31:13.999] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Acquire Hardware]
-[11Jan2025 02:32:17.797] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has reached the goal [Half a flight]
-[11Jan2025 02:32:41.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:CASA:C:-254:53:-1251:1:false:0:Internal-overworld-waypoints
-[11Jan2025 02:35:31.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has reached the goal [Flowers of the Savanna]
-[11Jan2025 02:40:41.695] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
-[11Jan2025 02:40:41.695] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 02:40:41.696] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 02:40:41.696] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set GhostSaintRD's game mode to Survival Mode
-[11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set EddyChael's game mode to Survival Mode
-[11Jan2025 02:41:49.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Hearty Meal]
-[11Jan2025 02:50:23.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Stone Age]
-[11Jan2025 02:52:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Amateur Archaeologist]
-[11Jan2025 03:07:33.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:EXP Skeleton:ES:964:69:103:8:false:0:Internal-overworld-waypoints
-[11Jan2025 03:09:30.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [An Extra Seedy Place]
-[11Jan2025 03:20:22.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was burnt to a crisp whilst fighting Umvuthana
-[11Jan2025 03:21:20.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was slain by Umvuthi, the Sunbird
-[11Jan2025 03:21:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Monster Hunter]
-[11Jan2025 03:31:50.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b223d52
-[11Jan2025 03:31:50.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:46933] logged in with entity id 25752 at (5.208489950795823, 80.0, -1110.0049472430285)
-[11Jan2025 03:31:50.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 03:31:50.064] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 03:31:50.065] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:31:50.066] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:31:50.067] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:31:50.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 03:31:50.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 03:31:52.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:31:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:31:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 03:31:55.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Birds of a Feather]
-[11Jan2025 03:32:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Survival Mode
-[11Jan2025 03:33:22.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Creative Mode
-[11Jan2025 03:33:25.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has completed the challenge [Praise the Sun]
-[11Jan2025 03:35:48.454] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Survival Mode
-[11Jan2025 03:36:02.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
-[11Jan2025 03:36:02.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
-[11Jan2025 03:36:02.710] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 03:36:12.192] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
-[11Jan2025 03:36:12.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 03:36:12.192] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 03:36:12.193] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:36:16.497] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@505f59b3
-[11Jan2025 03:36:16.506] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:38625] logged in with entity id 28432 at (6.061436062010392, 80.0, -1111.9709364697314)
-[11Jan2025 03:36:16.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 03:36:16.514] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 03:36:16.515] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:36:16.517] [ForkJoinPool-5-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:36:16.519] [ForkJoinPool-5-worker-6/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:36:16.649] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 03:36:16.650] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 03:36:17.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:36:18.472] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:36:18.473] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 03:46:31.439] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Cover Me with Diamonds]
-[11Jan2025 03:48:05.401] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
-[11Jan2025 03:48:05.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
-[11Jan2025 03:48:05.402] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 03:48:15.648] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
-[11Jan2025 03:48:15.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 03:48:15.649] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 03:48:15.649] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:48:52.399] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@40371af1
-[11Jan2025 03:48:52.407] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:41285] logged in with entity id 34946 at (-263.03681210509757, 0.0, -1249.3334531924907)
-[11Jan2025 03:48:52.412] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 03:48:52.420] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 03:48:52.421] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:48:52.424] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:48:52.425] [ForkJoinPool-5-worker-7/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 03:48:52.554] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 03:48:52.555] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 03:48:53.641] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:48:54.573] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 03:48:54.574] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 03:49:08.965] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-265, y=-1, z=-1249} BlockPos{x=-265, y=0, z=-1248}
-[11Jan2025 03:53:12.652] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Those Were the Days]
-[11Jan2025 03:54:48.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [War Pigs]
-[11Jan2025 03:55:31.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Who is Cutting Onions?]
-[11Jan2025 04:01:49.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-128, y=45, z=-240} BlockPos{x=-127, y=44, z=-240}
-[11Jan2025 04:01:50.067] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=43, z=-240} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.100] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=43, z=-240} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.305] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.352] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.403] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-241} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.459] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-243} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.512] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-243} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:50.572] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-126, y=41, z=-243} BlockPos{x=-124, y=42, z=-240}
-[11Jan2025 04:01:52.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=37, z=-244} BlockPos{x=-124, y=35, z=-244}
-[11Jan2025 04:01:52.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=35, z=-244} BlockPos{x=-124, y=35, z=-244}
-[11Jan2025 04:01:52.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=34, z=-244} BlockPos{x=-124, y=35, z=-244}
-[11Jan2025 04:01:52.703] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-124, y=33, z=-244} BlockPos{x=-124, y=35, z=-244}
-[11Jan2025 04:01:56.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=24, z=-243} BlockPos{x=-120, y=25, z=-243}
-[11Jan2025 04:01:56.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=24, z=-243} BlockPos{x=-120, y=25, z=-243}
-[11Jan2025 04:01:57.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=23, z=-243} BlockPos{x=-120, y=25, z=-243}
-[11Jan2025 04:01:57.203] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=23, z=-243} BlockPos{x=-118, y=22, z=-243}
-[11Jan2025 04:01:57.251] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-119, y=23, z=-243} BlockPos{x=-118, y=22, z=-243}
-[11Jan2025 04:01:57.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-118, y=23, z=-243} BlockPos{x=-118, y=22, z=-243}
-[11Jan2025 04:02:10.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=18, z=-234} BlockPos{x=-108, y=18, z=-233}
-[11Jan2025 04:02:10.315] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-109, y=18, z=-234} BlockPos{x=-108, y=18, z=-233}
-[11Jan2025 04:02:10.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-108, y=17, z=-233} BlockPos{x=-108, y=18, z=-233}
-[11Jan2025 04:02:10.412] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-107, y=17, z=-233} BlockPos{x=-108, y=18, z=-233}
-[11Jan2025 04:02:12.662] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=14, z=-232} BlockPos{x=-105, y=12, z=-232}
-[11Jan2025 04:02:12.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-106, y=12, z=-232} BlockPos{x=-105, y=12, z=-232}
-[11Jan2025 04:02:12.755] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=12, z=-231} BlockPos{x=-105, y=12, z=-232}
-[11Jan2025 04:02:12.821] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-105, y=12, z=-231} BlockPos{x=-105, y=12, z=-232}
-[11Jan2025 04:02:12.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-104, y=11, z=-231} BlockPos{x=-105, y=12, z=-232}
-[11Jan2025 04:03:38.901] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.204] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.304] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.604] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:41.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.194] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.301] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.498] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.600] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.696] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.802] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:42.996] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.098] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.795] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:43.909] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.001] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.461] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.505] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.644] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.701] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.798] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.848] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.899] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.946] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:44.999] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.102] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.198] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.299] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.400] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.447] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.496] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.543] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.596] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.722] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.772] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.803] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.844] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.945] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:45.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.043] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.094] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.195] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.243] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.296] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.397] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.497] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.598] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.700] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.749] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.800] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.852] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.900] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:46.995] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.049] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.101] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.201] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.248] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.347] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.399] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.450] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.503] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.646] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.697] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.747] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.799] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.846] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.898] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.944] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:47.997] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.096] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.143] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.197] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.295] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.344] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.398] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.446] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.501] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.545] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.645] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.698] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.746] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:48.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
-[11Jan2025 04:03:49.397] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD fell from a high place
-[11Jan2025 04:04:49.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD fell from a high place
-[11Jan2025 04:04:53.804] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
-[11Jan2025 04:09:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=13, z=-143} BlockPos{x=-29, y=12, z=-145}
-[11Jan2025 04:09:24.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=13, z=-142} BlockPos{x=-29, y=12, z=-145}
-[11Jan2025 04:09:30.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=12, z=-133} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=13, z=-132} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=13, z=-132} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:30.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=15, z=-130} BlockPos{x=-32, y=13, z=-133}
-[11Jan2025 04:09:34.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=14, z=-130} BlockPos{x=-33, y=14, z=-130}
-[11Jan2025 04:09:36.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=14, z=-129} BlockPos{x=-34, y=13, z=-130}
-[11Jan2025 04:09:36.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=14, z=-129} BlockPos{x=-34, y=13, z=-130}
-[11Jan2025 04:09:36.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=14, z=-127} BlockPos{x=-34, y=13, z=-128}
-[11Jan2025 04:09:39.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-127} BlockPos{x=-33, y=13, z=-127}
-[11Jan2025 04:09:40.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=14, z=-126} BlockPos{x=-33, y=13, z=-126}
-[11Jan2025 04:09:58.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=16, z=-119} BlockPos{x=-32, y=16, z=-117}
-[11Jan2025 04:12:01.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Hidden in the Depths]
-[11Jan2025 04:15:11.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=16, z=3} BlockPos{x=271, y=16, z=3}
-[11Jan2025 04:15:11.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=15, z=3} BlockPos{x=271, y=16, z=3}
-[11Jan2025 04:16:55.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=16, z=-80} BlockPos{x=364, y=16, z=-79}
-[11Jan2025 04:18:39.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=15, z=-99} BlockPos{x=456, y=16, z=-99}
-[11Jan2025 04:20:54.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=14, z=-38} BlockPos{x=571, y=13, z=-38}
-[11Jan2025 04:21:25.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=527, y=13, z=-34} BlockPos{x=527, y=13, z=-32}
-[11Jan2025 04:22:20.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=394, y=12, z=-41} BlockPos{x=395, y=12, z=-41}
-[11Jan2025 04:23:01.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=11, z=-79} BlockPos{x=338, y=10, z=-79}
-[11Jan2025 04:24:54.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=15, z=-171} BlockPos{x=363, y=14, z=-171}
-[11Jan2025 04:25:24.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has completed the challenge [Hot Tourist Destinations]
-[11Jan2025 04:25:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=16, z=-210} BlockPos{x=387, y=16, z=-210}
-[11Jan2025 04:25:47.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=16, z=-210} BlockPos{x=387, y=16, z=-210}
-[11Jan2025 04:26:04.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=20, z=-209} BlockPos{x=383, y=18, z=-209}
-[11Jan2025 04:27:04.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=434, y=16, z=-216} BlockPos{x=432, y=16, z=-216}
-[11Jan2025 04:28:42.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
-[11Jan2025 04:28:42.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
-[11Jan2025 04:28:43.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
-[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
-[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
-[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 04:31:11.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
-[11Jan2025 04:31:11.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 04:31:11.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 04:31:11.796] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 04:31:21.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@247bba04
-[11Jan2025 04:31:21.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:44443] logged in with entity id 93003 at (225.06055218919255, 19.0, -145.67229741105132)
-[11Jan2025 04:31:21.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
-[11Jan2025 04:31:21.070] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
-[11Jan2025 04:31:21.071] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 04:31:21.072] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 04:31:21.072] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 04:31:21.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
-[11Jan2025 04:31:21.188] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
-[11Jan2025 04:31:21.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 04:31:22.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
-[11Jan2025 04:31:22.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
-[11Jan2025 04:31:32.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
-[11Jan2025 04:31:32.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
-[11Jan2025 04:31:32.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
-[11Jan2025 04:31:32.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=220, y=20, z=-158} BlockPos{x=221, y=20, z=-155}
-[11Jan2025 04:33:33.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=21, z=-143} BlockPos{x=86, y=17, z=-140}
-[11Jan2025 04:33:35.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD was kicked for floating too long!
-[11Jan2025 04:33:35.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD lost connection: Flying is not enabled on this server
-[11Jan2025 04:33:35.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD left the game
-[11Jan2025 04:33:35.858] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GhostSaintRD
-[11Jan2025 04:33:49.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
-[11Jan2025 04:33:49.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
-[11Jan2025 04:33:49.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
-[11Jan2025 04:34:07.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=18, z=-110} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:07.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=-110} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:07.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=-110} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:07.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:08.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:08.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:08.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=18, z=-112} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:08.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=18, z=-112} BlockPos{x=48, y=18, z=-109}
-[11Jan2025 04:34:26.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
-[11Jan2025 04:34:26.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
-[11Jan2025 04:34:26.434] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
-[11Jan2025 04:34:26.434] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
-[11Jan2025 04:34:37.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[11Jan2025 04:34:37.491] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
-[11Jan2025 04:34:37.497] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,STOPPED}
-[11Jan2025 04:34:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[11Jan2025 04:34:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[11Jan2025 04:34:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[11Jan2025 04:34:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[11Jan2025 04:34:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[11Jan2025 04:34:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[11Jan2025 04:34:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2025 04:35:59.576] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[11Jan2025 04:36:00.039] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[11Jan2025 04:36:00.040] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[11Jan2025 04:36:00.269] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[11Jan2025 04:36:00.269] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[11Jan2025 04:36:00.403] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[11Jan2025 04:36:03.854] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[11Jan2025 04:36:04.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4b0dadaa
+[11Jan2025 04:36:04.425] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:48363] logged in with entity id 332 at (38.51482587024153, 16.0, -105.30000001192093)
+[11Jan2025 04:36:04.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[11Jan2025 04:36:04.461] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[11Jan2025 04:36:04.463] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:36:04.464] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:36:04.464] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:36:04.640] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[11Jan2025 04:36:04.641] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 04:36:04.882] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[11Jan2025 04:36:04.886] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
+[11Jan2025 04:36:05.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:36:06.362] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@434d8a03
+[11Jan2025 04:36:06.374] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GhostSaintRD[/127.167.223.207:43115] logged in with entity id 714 at (-66.00179488939636, 77.4124413746286, -1239.5005255937576)
+[11Jan2025 04:36:06.383] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD joined the game
+[11Jan2025 04:36:06.405] [Server thread/INFO] [Waila/]: Syncing config to GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c)
+[11Jan2025 04:36:06.406] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player GhostSaintRD just logged in with id 109f6a92-377e-3cc5-be0d-ef354efa063c
+[11Jan2025 04:36:06.407] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[11Jan2025 04:36:06.468] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:36:06.469] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[11Jan2025 04:36:06.671] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GhostSaintRD (18)
+[11Jan2025 04:36:06.672] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GhostSaintRD
+[11Jan2025 04:36:07.221] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[11Jan2025 04:36:07.221] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[11Jan2025 04:36:07.334] [ForkJoinPool-5-worker-1/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[11Jan2025 04:36:08.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 109f6a92-377e-3cc5-be0d-ef354efa063c
+[11Jan2025 04:36:09.122] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 109f6a92-377e-3cc5-be0d-ef354efa063c
+[11Jan2025 04:36:09.123] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c) successfully connected to voice chat
+[11Jan2025 04:36:57.334] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=18, z=-94} BlockPos{x=24, y=18, z=-94}
+[11Jan2025 04:36:57.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=23, y=18, z=-94} BlockPos{x=24, y=18, z=-94}
+[11Jan2025 04:37:31.211] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=16, z=-129} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.267] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-37, y=16, z=-129} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.319] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=16, z=-130} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.323] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-38, y=16, z=-130} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.379] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=16, z=-129} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.431] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=16, z=-129} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:37:31.483] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-39, y=16, z=-128} BlockPos{x=-37, y=16, z=-130}
+[11Jan2025 04:38:19.952] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 04:38:23.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 16.777771565075227,-1.2142464968477356,0.0
+[11Jan2025 04:38:23.493] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 19.49999087717788,-1.0307220704428204,0.0
+[11Jan2025 04:38:23.645] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 30.555552863880393,-1.3879992855158179,0.0
+[11Jan2025 04:38:23.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 38.88891144503316,-1.546353952916732,0.0
+[11Jan2025 04:38:23.962] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 47.22225836059806,-1.6099348760087793,0.0
+[11Jan2025 04:38:24.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 55.49783151832639,-1.8721271395766195,0.15981432362681858
+[11Jan2025 04:38:24.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 63.81252262118858,-2.7425399728214472,0.7010016708320492
+[11Jan2025 04:38:24.463] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 74.84190964366121,-4.850723700290672,2.017541360030549
+[11Jan2025 04:38:24.619] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 83.07783384192805,-6.870655320030437,3.2781976549447833
+[11Jan2025 04:38:24.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 96.89780348535817,-9.018465920972801,4.621415262085179
+[11Jan2025 04:38:25.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 105.27784851970887,-9.51408011121076,4.930790342637017
+[11Jan2025 04:38:25.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 116.31093383348502,-10.16003816636912,5.495928820409446
+[11Jan2025 04:38:25.374] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 124.53350179154859,-11.637621718527186,6.824760465558477
+[11Jan2025 04:38:25.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 135.2790171659376,-14.963034098906391,9.802502864492673
+[11Jan2025 04:38:25.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 146.05521864089417,-17.928319913303497,12.467367624595205
+[11Jan2025 04:38:25.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 157.02281413105254,-19.35857869536143,13.760232183751313
+[11Jan2025 04:38:26.115] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 165.13476645327887,-19.538230690671625,14.859811748342352
+[11Jan2025 04:38:26.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 171.9609199484571,-19.593549963932873,19.32587283902486
+[11Jan2025 04:38:26.424] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 180.08067460846553,-19.621350626555127,19.814179700411955
+[11Jan2025 04:38:26.573] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 188.2404465086247,-19.625009464236015,19.841084191235986
+[11Jan2025 04:38:26.817] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 201.798998540046,-19.625009464236015,20.0
+[11Jan2025 04:38:26.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 210.0323354655526,-19.625009464236015,20.0
+[11Jan2025 04:38:27.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 221.12678695261695,-19.625009464236015,20.0
+[11Jan2025 04:38:27.311] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 229.46012068331459,-19.625009464236015,20.0
+[11Jan2025 04:38:27.462] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 237.8872107917092,-19.625009464236015,20.0
+[11Jan2025 04:38:27.662] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 248.73489010870674,-19.625009464236015,20.0
+[11Jan2025 04:38:27.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 256.9558779054902,-19.625009464236015,20.0
+[11Jan2025 04:38:27.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 264.8718457871697,-19.625009464236015,20.0
+[11Jan2025 04:38:28.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 275.4297857934258,-19.625009464236015,20.0
+[11Jan2025 04:38:28.314] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 283.24322498381355,-19.625009464236015,20.0
+[11Jan2025 04:38:28.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 290.9666516834519,-19.625009464236015,20.0
+[11Jan2025 04:38:28.668] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 301.12454867899635,-19.625009464236015,20.0
+[11Jan2025 04:38:28.813] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 308.63795948565223,-19.625009464236015,20.0
+[11Jan2025 04:38:28.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 316.0613635832093,-19.625009464236015,20.0
+[11Jan2025 04:38:29.116] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 323.39475721657493,-19.625009464236015,20.0
+[11Jan2025 04:38:29.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 330.63815677702644,-19.625009464236015,20.0
+[11Jan2025 04:38:29.470] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 340.1680486255906,-19.625009464236015,20.0
+[11Jan2025 04:38:29.612] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 347.222498958709,-19.625009464236015,20.0
+[11Jan2025 04:38:29.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 354.1864083462975,-19.625009464236015,20.0
+[11Jan2025 04:38:29.911] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 361.0597729140542,-19.625009464236015,20.0
+[11Jan2025 04:38:30.076] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 367.8425967746995,-19.625009464236015,20.0
+[11Jan2025 04:38:30.259] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 376.74551451742866,-19.625009464236015,20.0
+[11Jan2025 04:38:30.416] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 383.31708992064216,-19.625009464236015,20.0
+[11Jan2025 04:38:30.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 389.7981264644883,-19.625009464236015,20.0
+[11Jan2025 04:38:30.982] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 402.25632912415165,-19.625009464236015,20.019124163424003
+[11Jan2025 04:38:31.218] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 416.08831254225595,-19.54278135900114,20.052232921123505
+[11Jan2025 04:38:31.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 424.14470285023197,-19.286908199533713,20.052232921123505
+[11Jan2025 04:38:31.961] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 439.5759165678329,-18.31522970547374,20.052232921123505
+[11Jan2025 04:38:32.360] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 453.87665036347823,-16.803087216053186,20.089116407667625
+[11Jan2025 04:38:32.759] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 466.36611425663693,-15.017745990756367,19.49007383509742
+[11Jan2025 04:38:33.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 478.20658640663794,-13.530353111571827,20.715517736817155
+[11Jan2025 04:38:33.566] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 496.4253832598823,-11.730940529141137,20.85899078995709
+[11Jan2025 04:38:34.072] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 507.62168188673184,-11.097352542810398,19.67738175392151
+[11Jan2025 04:38:34.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 517.605544083652,-10.815841201067656,19.67738175392151
+[11Jan2025 04:38:34.469] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 521.73355416997,-10.903569677473712,19.67738175392151
+[11Jan2025 04:38:34.659] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 527.0705008719902,-11.380537485824988,19.67738175392151
+[11Jan2025 04:38:34.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 532.9486857957926,-12.222766787896632,19.62654197216034
+[11Jan2025 04:38:35.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 536.821836531254,-12.701526717276693,19.62654197216034
+[11Jan2025 04:38:35.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 541.7429680807116,-13.01313104869196,19.62654197216034
+[11Jan2025 04:38:35.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 546.5207525316175,-13.228069809730712,19.875934958457947
+[11Jan2025 04:38:35.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 550.0184321177444,-13.978742262552856,20.350180625495177
+[11Jan2025 04:38:35.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 553.9651221607071,-15.501678571522774,20.386367572160452
+[11Jan2025 04:38:36.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 558.1499862722895,-16.3745398783618,20.472405671653014
+[11Jan2025 04:38:36.215] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 561.2896482568522,-16.36236554368351,20.540336297295326
+[11Jan2025 04:38:36.367] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 563.5639535397636,-16.296542659921045,20.593265609286064
+[11Jan2025 04:38:36.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 567.159074879077,-16.303434917322832,20.60896331380487
+[11Jan2025 04:38:36.760] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 571.5747378423684,-16.65553168398705,20.537178012414444
+[11Jan2025 04:38:36.971] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 575.0396029173323,-17.087388079204317,20.057944449888474
+[11Jan2025 04:38:37.160] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 578.395073813633,-17.446887644353566,20.057944449888474
+[11Jan2025 04:38:37.363] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 581.5900109748588,-17.609259333086385,20.057944449888474
+[11Jan2025 04:38:37.563] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 584.6244417955611,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:37.810] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 588.19182395241,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:37.966] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 590.2382079740498,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:38.111] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 592.154390015218,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:38.313] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 594.5747793098424,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:38.514] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 596.847423248503,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:38.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 598.959845521066,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:38.864] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 600.4390767594311,-17.625009464236015,20.057944449888474
+[11Jan2025 04:38:39.061] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 602.0252758791181,-17.625009464236015,20.075355443464524
+[11Jan2025 04:38:39.211] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 602.5586206396553,-17.625009464236015,20.127936694132096
+[11Jan2025 04:38:39.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 603.1421734848981,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:39.610] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 604.5350028062229,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:39.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 605.773198232985,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:40.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 606.8545614490275,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:40.214] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 607.7687055328851,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:40.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 608.5218146266405,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:40.616] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 609.1221901075904,-17.625009464236015,20.19621558971383
+[11Jan2025 04:38:40.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 609.5501878732326,-17.625009464236015,20.19758060883165
+[11Jan2025 04:38:41.012] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved too quickly! 609.096363290212,-17.625009464236015,20.248448510837335
+[11Jan2025 04:38:51.479] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-58, y=14, z=-159} BlockPos{x=-59, y=13, z=-161}
+[11Jan2025 04:39:37.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-62, y=33, z=-192} BlockPos{x=-62, y=34, z=-191}
+[11Jan2025 04:39:44.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=42, z=-196} BlockPos{x=-67, y=39, z=-196}
+[11Jan2025 04:40:06.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-64, y=51, z=-193} BlockPos{x=-64, y=51, z=-194}
+[11Jan2025 04:40:26.828] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=52, z=-192} BlockPos{x=-60, y=50, z=-190}
+[11Jan2025 04:40:28.183] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-60, y=50, z=-188} BlockPos{x=-60, y=50, z=-189}
+[11Jan2025 04:43:29.768] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 04:43:30.261] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has completed the challenge [Cover Me in Debris]
+[11Jan2025 04:45:04.454] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 04:45:04.454] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 04:51:09.517] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 04:51:49.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 moved wrongly!
+[11Jan2025 04:54:08.205] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/23982, l='ServerLevel[world]', x=-266.04, y=52.00, z=-1198.41] died, message: 'Nitwit was slain by Zombie'
+[11Jan2025 04:54:53.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:Pillager:P:1384:87:-357:8:false:0:Internal-overworld-waypoints
+[11Jan2025 04:57:45.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Hot Stuff]
+[11Jan2025 05:01:07.823] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[11Jan2025 05:01:07.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[11Jan2025 05:01:07.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 05:01:16.758] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[11Jan2025 05:01:16.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 05:01:16.760] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 05:01:16.761] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 05:01:24.024] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1be64e87
+[11Jan2025 05:01:24.039] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:49355] logged in with entity id 31103 at (-205.13893355769463, 13.001335979112149, -1155.07679529363)
+[11Jan2025 05:01:24.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[11Jan2025 05:01:24.052] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[11Jan2025 05:01:24.053] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 05:01:24.063] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 05:01:24.064] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 05:01:24.192] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[11Jan2025 05:01:24.193] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 05:01:25.027] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 05:01:26.023] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 05:01:26.024] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[11Jan2025 05:01:38.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> yo voy a seguir jugando
+[11Jan2025 05:01:48.462] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> pero no podre estar en llamada
+[11Jan2025 05:02:30.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> ok
+[11Jan2025 05:02:44.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ok tt
+[11Jan2025 05:08:17.619] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 05:09:49.273] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ale toy en tu casa
+[11Jan2025 05:10:00.902] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> si te vi en las camaras
+[11Jan2025 05:10:33.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> me das la arena de alma??
+[11Jan2025 05:10:53.517] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> esta en los cofres
+[11Jan2025 05:10:59.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> agarralo
+[11Jan2025 05:12:20.702] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> en cual de todos??
+[11Jan2025 05:12:29.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> tu busca
+[11Jan2025 05:12:47.511] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> por que ni yo me acuerdo xd
+[11Jan2025 05:15:44.564] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ya la tengo
+[11Jan2025 05:15:54.132] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> gracias
+[11Jan2025 05:17:59.011] [Server thread/WARN] [net.minecraft.server.level.ServerEntity/]: Fetching packet for removed entity ItemEntity['Air'/6955, l='ServerLevel[world]', x=671.73, y=70.00, z=93.80, removed=DISCARDED]
+[11Jan2025 05:28:01.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> este gente
+[11Jan2025 05:28:08.426] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> eo
+[11Jan2025 05:28:09.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si
+[11Jan2025 05:28:18.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> como ya es muy tarde son las 1;28
+[11Jan2025 05:28:28.402] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> voy a apagar el server
+[11Jan2025 05:28:38.675] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> tt
+[11Jan2025 05:28:41.201] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> noooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
+[11Jan2025 05:28:46.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> esta bien
+[11Jan2025 05:28:50.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> aunque mañana lo prendere temprano para ustedes
+[11Jan2025 05:28:58.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> mañana temprano yea
+[11Jan2025 05:29:26.957] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[11Jan2025 05:29:26.957] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[11Jan2025 05:29:26.958] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[11Jan2025 05:29:29.453] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD lost connection: Disconnected
+[11Jan2025 05:29:29.453] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD left the game
+[11Jan2025 05:29:29.454] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GhostSaintRD
+[11Jan2025 05:30:58.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[11Jan2025 05:30:58.244] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 05:30:58.245] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 05:30:58.245] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 05:31:07.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[11Jan2025 05:31:07.194] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@7798eca8{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 05:31:07.196] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@2dd4b646{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,STOPPED}
+[11Jan2025 05:31:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 05:31:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 05:31:07.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 05:31:07.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 05:31:07.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 05:31:07.264] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 05:31:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 05:31:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 05:31:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 05:31:07.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved

@@ -551,6 +551,18 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_dirt_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_diamond_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 17:49:44 +0000"
@@ -620,6 +632,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_flanged_mace": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-01-11 05:19:28 +0000"
     },
     "done": true
   },
@@ -740,6 +758,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:56:28 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-01-11 05:15:34 +0000"
     },
     "done": true
   },
@@ -1244,6 +1268,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:29:12 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_obsidian_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
     },
     "done": true
   },
@@ -1972,6 +2002,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_pocket_manager": {
+    "criteria": {
+      "has_redstone_block": "2025-01-11 04:42:13 +0000"
     },
     "done": true
   },
@@ -4105,6 +4141,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_iron_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_savanna": {
     "criteria": {
       "leek_seed": "2024-12-22 14:26:08 +0000",
@@ -4190,6 +4232,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-23 04:01:25 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_gold_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
     },
     "done": true
   },
@@ -4299,6 +4347,12 @@
   "croptopia:recipes/cheeseburger": {
     "criteria": {
       "has_beef": "2024-12-21 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
     },
     "done": true
   },
@@ -4905,6 +4959,12 @@
     },
     "done": true
   },
+  "ironchest:recipes/ironchest/chests/trapped_crystal_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:pike": {
     "criteria": {
       "has_pike": "2024-12-28 23:24:17 +0000"
@@ -5115,6 +5175,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 05:19:28 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2024-12-21 16:39:26 +0000"
@@ -5299,6 +5365,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 15:53:11 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/trapped_copper_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-11 04:38:41 +0000"
     },
     "done": true
   },
@@ -5888,6 +5960,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-11 05:15:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2024-12-22 13:57:07 +0000"
@@ -6005,6 +6083,12 @@
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2024-12-21 16:51:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-01-11 04:42:13 +0000"
     },
     "done": true
   },
