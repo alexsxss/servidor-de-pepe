@@ -352,3 +352,6 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 02:52:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Amateur Archaeologist]
 [11Jan2025 03:07:33.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> xaero-waypoint:EXP Skeleton:ES:964:69:103:8:false:0:Internal-overworld-waypoints
 [11Jan2025 03:09:30.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [An Extra Seedy Place]
+[11Jan2025 03:20:22.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was burnt to a crisp whilst fighting Umvuthana
+[11Jan2025 03:21:20.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was slain by Umvuthi, the Sunbird
+[11Jan2025 03:21:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Monster Hunter]

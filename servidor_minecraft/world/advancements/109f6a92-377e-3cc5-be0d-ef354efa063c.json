@@ -611,6 +611,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-01-11 03:21:59 +0000"
+    },
+    "done": true
+  },
   "croptopia:gather_food": {
     "criteria": {
       "toast": "2025-01-11 02:41:46 +0000"
@@ -646,6 +652,12 @@
       "has_planks": "2025-01-11 02:42:22 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:drowned": "2025-01-11 03:21:59 +0000"
+    },
+    "done": false
   },
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
@@ -1136,6 +1148,12 @@
   "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
     "criteria": {
       "has_item": "2025-01-11 02:33:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:drowned": "2025-01-11 03:21:59 +0000"
     },
     "done": true
   },
