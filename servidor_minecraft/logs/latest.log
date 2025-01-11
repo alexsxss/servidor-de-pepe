@@ -355,3 +355,19 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 03:20:22.844] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was burnt to a crisp whilst fighting Umvuthana
 [11Jan2025 03:21:20.936] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was slain by Umvuthi, the Sunbird
 [11Jan2025 03:21:59.617] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Monster Hunter]
+[11Jan2025 03:31:50.047] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b223d52
+[11Jan2025 03:31:50.055] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:46933] logged in with entity id 25752 at (5.208489950795823, 80.0, -1110.0049472430285)
+[11Jan2025 03:31:50.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[11Jan2025 03:31:50.064] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[11Jan2025 03:31:50.065] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:31:50.066] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 03:31:50.067] [ForkJoinPool-5-worker-5/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 03:31:50.691] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[11Jan2025 03:31:50.691] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 03:31:52.723] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:31:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 03:31:53.722] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[11Jan2025 03:31:55.281] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Birds of a Feather]
+[11Jan2025 03:32:40.469] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Survival Mode
+[11Jan2025 03:33:22.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set elblak004's game mode to Creative Mode
+[11Jan2025 03:33:25.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has completed the challenge [Praise the Sun]
