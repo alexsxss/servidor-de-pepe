@@ -305,6 +305,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2024-12-23 02:20:48 +0000"
@@ -953,6 +959,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_gray_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:22:52 +0000"
@@ -1151,6 +1163,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2024-12-22 00:29:12 +0000"
@@ -1214,6 +1232,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_spear": {
     "criteria": {
       "has_copper_ingot": "2024-12-28 01:44:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -1370,6 +1394,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_saber": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -1586,6 +1616,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_longsword": {
     "criteria": {
       "has_wood": "2024-12-28 02:06:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -2509,6 +2545,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/saguaro_seed": {
     "criteria": {
       "has_saguaro": "2024-12-22 14:33:55 +0000"
@@ -2683,6 +2725,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:56:28 +0000"
@@ -2758,6 +2806,12 @@
   "minecraft:recipes/decorations/green_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-28 01:44:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -3181,6 +3235,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/cashew_chicken": {
     "criteria": {
       "has_cooked_chicken": "2024-12-21 17:04:51 +0000"
@@ -3559,6 +3619,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:22:52 +0000"
@@ -3616,6 +3682,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_parrying_dagger": {
     "criteria": {
       "has_wood": "2024-12-28 02:06:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -4440,6 +4512,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-22 01:20:04 +0000"
@@ -4491,6 +4569,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -4773,6 +4857,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/universal_block_modifier": {
     "criteria": {
       "has_redstone": "2024-12-22 17:54:13 +0000"
@@ -4803,6 +4893,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:31:55 +0000"
@@ -4812,6 +4908,12 @@
   "spartanweaponry:pike": {
     "criteria": {
       "has_pike": "2024-12-28 23:24:17 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -6451,6 +6553,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_hoe": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:48:34 +0000"
@@ -6541,6 +6649,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2024-12-22 00:07:18 +0000"
@@ -6604,6 +6718,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
     "criteria": {
       "recipe_condition2": "2024-12-22 13:57:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/medium_quiver_upgrade_kit": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -7093,6 +7213,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/compass": {
     "criteria": {
       "has_redstone": "2024-12-22 17:54:13 +0000"
@@ -7180,6 +7306,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-22 15:04:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -7297,9 +7429,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-28 02:12:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },
@@ -7312,6 +7456,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2024-12-21 17:01:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-01-11 02:44:22 +0000"
     },
     "done": true
   },

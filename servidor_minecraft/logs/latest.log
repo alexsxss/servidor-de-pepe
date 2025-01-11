@@ -348,3 +348,5 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set GhostSaintRD's game mode to Survival Mode
 [11Jan2025 02:41:07.495] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Set EddyChael's game mode to Survival Mode
 [11Jan2025 02:41:49.533] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Hearty Meal]
+[11Jan2025 02:50:23.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Stone Age]
+[11Jan2025 02:52:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Amateur Archaeologist]
