@@ -179,6 +179,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-11 04:16:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_spear": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
@@ -356,6 +362,12 @@
   "securitycraft:recipes/securitycraft/redstone_module": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-11 04:16:43 +0000"
     },
     "done": true
   },
@@ -625,7 +637,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2025-01-11 02:41:46 +0000"
+      "toast": "2025-01-11 02:41:46 +0000",
+      "calamari": "2025-01-11 04:16:43 +0000"
     },
     "done": false
   },
@@ -669,6 +682,12 @@
   "croptopia:recipes/croptopia.croptopia/frying_pan": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 04:19:37 +0000"
     },
     "done": true
   },
@@ -948,6 +967,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-01-11 04:19:36 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
@@ -1002,6 +1027,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-01-11 04:19:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_boomerang": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:13 +0000"
@@ -1023,6 +1054,18 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_battleaxe": {
     "criteria": {
       "has_cobblestone": "2025-01-11 02:50:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-11 04:19:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-11 04:16:43 +0000"
     },
     "done": true
   },
@@ -1200,7 +1243,9 @@
       "minecraft:beach": "2025-01-11 02:12:25 +0000",
       "minecraft:river": "2025-01-11 02:12:50 +0000",
       "minecraft:stony_shore": "2025-01-11 02:13:03 +0000",
+      "minecraft:cold_ocean": "2025-01-11 04:12:49 +0000",
       "minecraft:forest": "2025-01-11 02:14:30 +0000",
+      "minecraft:ocean": "2025-01-11 04:10:25 +0000",
       "minecraft:old_growth_birch_forest": "2025-01-11 04:01:05 +0000",
       "minecraft:meadow": "2025-01-11 02:14:10 +0000",
       "minecraft:savanna": "2025-01-11 02:14:33 +0000",
@@ -1325,6 +1370,12 @@
   "securitycraft:recipes/securitycraft/mine": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-11 04:16:43 +0000"
     },
     "done": true
   },

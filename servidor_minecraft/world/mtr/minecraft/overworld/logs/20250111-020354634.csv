@@ -478,3 +478,243 @@ Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Dat
   ""type"": ""QUARTZ"",
   ""one_way"": false
 }"
+"2025-01-11T04:07:53.617Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(252, 106, -62)
+(377, 106, 29)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:07:57.218Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(249, 106, -62)
+(377, 106, 32)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:11:47.473Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(171, 68, -461)
+(252, 106, -62)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:11:49.673Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(168, 68, -461)
+(249, 106, -62)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:13:23.972Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(136, 74, -897)
+(168, 68, -461)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:13:35.472Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(139, 74, -897)
+(171, 68, -461)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:15:59.649Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(136, 74, -897)
+(136, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:16:01.675Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(139, 74, -897)
+(139, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:17:57.123Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1240)
+(136, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:18:01.122Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1243)
+(139, 79, -1114)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:18:57.019Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-181, 73, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:19:02.106Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1243)
+(-181, 73, -1243)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:19:04.817Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-164, 76, -1240)
+(-181, 73, -1240)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:20:29.399Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-181, 73, -1240)
+(-193, 69, -1240)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:20:30.697Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-181, 73, -1243)
+(-193, 69, -1243)","CREATE","{}","{
+  ""type"": ""QUARTZ"",
+  ""one_way"": false
+}"
+"2025-01-11T04:23:15.222Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1243)
+(-196, 69, -1243)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:23:17.522Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1240)
+(-196, 69, -1240)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:27:59.005Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-196, 69, -1240)
+(-221, 69, -1240)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:28:08.554Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-196, 69, -1243)
+(-221, 69, -1243)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:28:41.715Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-7868040485467596162]","","","CREATE","{}","{
+  ""id"": -7868040485467596162,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": """",
+  ""color"": 0,
+  ""x_min"": -220,
+  ""z_min"": -1251,
+  ""x_max"": -191,
+  ""z_max"": -1227,
+  ""zone"": 0,
+  ""exits"": {}
+}"
+"2025-01-11T04:29:00.915Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Station","[-7868040485467596162]","Aldea De Alejandro","","EDIT","{
+  ""name"": """",
+  ""color"": 0
+}","{
+  ""name"": ""Aldea De Alejandro"",
+  ""color"": 14057483
+}"
+"2025-01-11T04:29:29.703Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:29:31.657Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1243)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:29:47.963Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-196, 69, -1242)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:30:03.648Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1240)
+(-198, 69, -1242)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:05.098Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-193, 69, -1243)
+(-198, 69, -1242)","CREATE","{}","{
+  ""type"": ""WOODEN"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:18.047Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Rail","","","(-198, 69, -1242)
+(-221, 69, -1242)","CREATE","{}","{
+  ""type"": ""PLATFORM"",
+  ""one_way"": false
+}"
+"2025-01-11T04:30:21.498Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-221, 69, -1243)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:30:23.347Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.block.BlockNode","","","(-221, 69, -1240)","DELETE","{
+  ""type"": ""TRAIN""
+}","{}"
+"2025-01-11T04:31:05.752Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}"
+"2025-01-11T04:31:06.107Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    8856239137531478106,
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}"
+"2025-01-11T04:31:06.401Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}","{
+  ""platform_ids"": [],
+  ""custom_destinations"": []
+}"
+"2025-01-11T04:31:13.447Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [],
+  ""custom_destinations"": []
+}","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}"
+"2025-01-11T04:31:20.849Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629
+  ],
+  ""custom_destinations"": [
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}"
+"2025-01-11T04:31:27.699Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[3728048057335468304]","1","","EDIT","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106
+  ],
+  ""custom_destinations"": [
+    """",
+    """"
+  ]
+}","{
+  ""platform_ids"": [
+    4112894711324190629,
+    8856239137531478106,
+    7125875103425886793
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """"
+  ]
+}"

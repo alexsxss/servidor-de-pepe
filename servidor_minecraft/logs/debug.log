@@ -13212,3 +13212,470 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [11Jan2025 04:03:54.645] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11Jan2025 04:04:49.400] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD fell from a high place
 [11Jan2025 04:04:53.804] [Server thread/WARN] [dev.gigaherz.toolbelt.slot.BeltExtensionSlot/]: New entity has data, contents assigned.
+[11Jan2025 04:08:54.638] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:08:54.646] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:09:24.061] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=13, z=-143} BlockPos{x=-29, y=12, z=-145}
+[11Jan2025 04:09:24.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=13, z=-142} BlockPos{x=-29, y=12, z=-145}
+[11Jan2025 04:09:30.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-29, y=12, z=-133} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.660] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=13, z=-132} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=13, z=-132} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.766] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.870] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-131} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:30.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=15, z=-130} BlockPos{x=-32, y=13, z=-133}
+[11Jan2025 04:09:34.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-34, y=14, z=-130} BlockPos{x=-33, y=14, z=-130}
+[11Jan2025 04:09:36.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=14, z=-129} BlockPos{x=-34, y=13, z=-130}
+[11Jan2025 04:09:36.166] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-35, y=14, z=-129} BlockPos{x=-34, y=13, z=-130}
+[11Jan2025 04:09:36.967] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=14, z=-127} BlockPos{x=-34, y=13, z=-128}
+[11Jan2025 04:09:39.508] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-32, y=14, z=-127} BlockPos{x=-33, y=13, z=-127}
+[11Jan2025 04:09:40.608] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-33, y=14, z=-126} BlockPos{x=-33, y=13, z=-126}
+[11Jan2025 04:09:58.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-31, y=16, z=-119} BlockPos{x=-32, y=16, z=-117}
+[11Jan2025 04:12:01.500] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Hidden in the Depths]
+[11Jan2025 04:13:54.639] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:13:54.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:13:57.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:13:57.816] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:13:58.065] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:15:11.519] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=16, z=3} BlockPos{x=271, y=16, z=3}
+[11Jan2025 04:15:11.564] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=269, y=15, z=3} BlockPos{x=271, y=16, z=3}
+[11Jan2025 04:16:55.318] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=16, z=-80} BlockPos{x=364, y=16, z=-79}
+[11Jan2025 04:18:13.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:18:14.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:18:14.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAtttack() method!
+[11Jan2025 04:18:39.102] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=457, y=15, z=-99} BlockPos{x=456, y=16, z=-99}
+[11Jan2025 04:18:54.667] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:18:54.676] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:20:54.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=14, z=-38} BlockPos{x=571, y=13, z=-38}
+[11Jan2025 04:21:25.217] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=527, y=13, z=-34} BlockPos{x=527, y=13, z=-32}
+[11Jan2025 04:22:20.065] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=394, y=12, z=-41} BlockPos{x=395, y=12, z=-41}
+[11Jan2025 04:23:01.768] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=11, z=-79} BlockPos{x=338, y=10, z=-79}
+[11Jan2025 04:23:54.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:23:54.668] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:24:54.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=363, y=15, z=-171} BlockPos{x=363, y=14, z=-171}
+[11Jan2025 04:25:24.054] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has completed the challenge [Hot Tourist Destinations]
+[11Jan2025 04:25:47.174] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=16, z=-210} BlockPos{x=387, y=16, z=-210}
+[11Jan2025 04:25:47.219] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=386, y=16, z=-210} BlockPos{x=387, y=16, z=-210}
+[11Jan2025 04:26:04.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=20, z=-209} BlockPos{x=383, y=18, z=-209}
+[11Jan2025 04:27:04.320] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=434, y=16, z=-216} BlockPos{x=432, y=16, z=-216}
+[11Jan2025 04:28:42.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
+[11Jan2025 04:28:42.973] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
+[11Jan2025 04:28:43.018] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=292, y=16, z=-155} BlockPos{x=293, y=16, z=-153}
+[11Jan2025 04:28:54.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:28:54.671] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Sending initial states to elblak004
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with elblak004
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with elblak004
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 04:31:03.343] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a to disconnected: {disabled=false, disconnected=true, uuid=da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a, name=elblak004, group=null}
+[11Jan2025 04:31:11.795] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[11Jan2025 04:31:11.795] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 04:31:11.795] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elblak004
+[11Jan2025 04:31:11.795] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 04:31:11.796] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:31:18.998] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 38 messages to dispatch.
+[11Jan2025 04:31:19.040] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[11Jan2025 04:31:19.089] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[11Jan2025 04:31:19.142] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 2
+[11Jan2025 04:31:19.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 3
+[11Jan2025 04:31:19.225] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[11Jan2025 04:31:19.225] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[11Jan2025 04:31:19.225] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [betterdungeons, mowziesmobs, supermartijn642configlib, skin_changer, netherportalfix, jei, sophisticatedcore, nyfsquiver, clumps, xaeroworldmap, prism, modernfix, comforts, citadel, alexsmobs, artifacts, storagenetwork, yungsapi, maxhealthfix, mixinextras, bookshelf, sophisticatedbackpacks, lazydfu, starlight, balm, fusion, fpsreducer, carryon, chat_heads, watut, betterfortresses, paraglider, cloth_config, forge, ironbows, embeddium, rubidium, durabilitytooltip, simple_hammers, ironchest, minecraft, voicechat, sound_physics_remastered, fastipping, enchdesc, toolbelt, necronomicon, jade, waila, ironfurnaces, creativecore, supermartijn642corelib, yungsbridges, easy_villagers, iceberg, curios, flywheel, create, legendarytooltips, xaerominimap, oculus, gravestone, croptopia, securitycraft, entityculling, elevatorid, inventoryhud, betterstrongholds, coroutil, spartanweaponry, boatbreakfix, architectury, mtr, appleskin, ferritecore, connectedglass, puzzleslib, fallingtree, fastleafdecay, expandability, cosmeticarmorreworked, bettermineshafts, overloadedarmorbar, playerrevive, geckolib3, enchantinginfuser, createaddition, xpbook]
+[11Jan2025 04:31:19.225] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'watut:main' : Version test of '4' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'skin_changer:mbechannel' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:create_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironfurnaces:ironfurnaces_network' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:update_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easy_villagers:default' : Version test of '1.0.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_state' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'playerrevive:main' : Version test of '2' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mowziesmobs:net' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cosmeticarmorreworked:main' : Version test of '2' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'paraglider:master' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'toolbelt:general' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib-1:play' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:add_category' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of '1.0' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'nyfsquiver:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'create:main' : Version test of '3' from client : ACCEPTED
+[11Jan2025 04:31:19.226] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'createaddition:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'comforts:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:leave_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of '1.17.2.15' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'securitycraft:securitycraft' : Version test of 'v1.9.12' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:set_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:joined_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:player_states' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'supermartijn642configlib:sync_configs' : Version test of '1.1.8' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'storagenetwork:main_channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:request_secret' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'enchantinginfuser:play' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'artifacts:main' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ironchest:network' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'voicechat:remove_group' : Version test of 'ALLOWVANILLA 💓💓💓' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waila:networking' : Version test of '1.0.0' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib3:main' : Version test of '0' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'elevatorid:main_channel' : Version test of '1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[11Jan2025 04:31:19.227] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[11Jan2025 04:31:19.243] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 4
+[11Jan2025 04:31:19.250] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[11Jan2025 04:31:19.250] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.250] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.292] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 5
+[11Jan2025 04:31:19.337] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 6
+[11Jan2025 04:31:19.392] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 7
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.439] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.439] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 8
+[11Jan2025 04:31:19.489] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 9
+[11Jan2025 04:31:19.540] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 10
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.558] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.588] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 11
+[11Jan2025 04:31:19.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[11Jan2025 04:31:19.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.588] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.640] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[11Jan2025 04:31:19.641] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.641] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.641] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[11Jan2025 04:31:19.641] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.641] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.642] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:data_serializers' to 'fml:handshake' sequence 12
+[11Jan2025 04:31:19.688] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 13
+[11Jan2025 04:31:19.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[11Jan2025 04:31:19.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.721] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.742] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 14
+[11Jan2025 04:31:19.769] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[11Jan2025 04:31:19.769] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.769] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.790] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 15
+[11Jan2025 04:31:19.802] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[11Jan2025 04:31:19.802] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.802] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.839] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 16
+[11Jan2025 04:31:19.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[11Jan2025 04:31:19.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.871] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.888] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:motive' to 'fml:handshake' sequence 17
+[11Jan2025 04:31:19.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[11Jan2025 04:31:19.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.888] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.945] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 18
+[11Jan2025 04:31:19.962] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[11Jan2025 04:31:19.962] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:19.962] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:19.988] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 19
+[11Jan2025 04:31:20.039] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config securitycraft-server.toml' to 'fml:handshake' sequence 20
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.043] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.088] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config paraglider-server.toml' to 'fml:handshake' sequence 21
+[11Jan2025 04:31:20.137] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config easy_villagers-server.toml' to 'fml:handshake' sequence 22
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.186] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.189] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 23
+[11Jan2025 04:31:20.218] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[11Jan2025 04:31:20.218] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.218] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.236] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config ironfurnaces-server.toml' to 'fml:handshake' sequence 24
+[11Jan2025 04:31:20.251] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[11Jan2025 04:31:20.251] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.251] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.290] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 25
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.332] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.338] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config carryon-server.toml' to 'fml:handshake' sequence 26
+[11Jan2025 04:31:20.387] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config toolbelt-server.toml' to 'fml:handshake' sequence 27
+[11Jan2025 04:31:20.413] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[11Jan2025 04:31:20.413] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.413] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.441] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config artifacts-server.toml' to 'fml:handshake' sequence 28
+[11Jan2025 04:31:20.468] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[11Jan2025 04:31:20.468] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.468] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.491] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config create-server.toml' to 'fml:handshake' sequence 29
+[11Jan2025 04:31:20.493] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[11Jan2025 04:31:20.493] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.493] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.540] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 30
+[11Jan2025 04:31:20.574] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[11Jan2025 04:31:20.574] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.574] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.576] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[11Jan2025 04:31:20.576] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.576] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.589] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config elevatorid-server.toml' to 'fml:handshake' sequence 31
+[11Jan2025 04:31:20.643] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config fastleafdecay-server.toml' to 'fml:handshake' sequence 32
+[11Jan2025 04:31:20.658] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[11Jan2025 04:31:20.658] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.658] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config sophisticatedbackpacks-server.toml' to 'fml:handshake' sequence 33
+[11Jan2025 04:31:20.738] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[11Jan2025 04:31:20.738] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.739] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.739] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[11Jan2025 04:31:20.739] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.739] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.740] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config enchantinginfuser-server.toml' to 'fml:handshake' sequence 34
+[11Jan2025 04:31:20.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config xptome-server.toml' to 'fml:handshake' sequence 35
+[11Jan2025 04:31:20.819] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[11Jan2025 04:31:20.819] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.820] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.838] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config comforts-server.toml' to 'fml:handshake' sequence 36
+[11Jan2025 04:31:20.870] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[11Jan2025 04:31:20.870] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.870] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.889] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 37
+[11Jan2025 04:31:20.900] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[11Jan2025 04:31:20.900] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.900] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.969] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[11Jan2025 04:31:20.970] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.970] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.980] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 37
+[11Jan2025 04:31:20.980] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 37 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[11Jan2025 04:31:20.980] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[11Jan2025 04:31:20.988] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[11Jan2025 04:31:21.049] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@247bba04
+[11Jan2025 04:31:21.057] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.162.60.137:44443] logged in with entity id 93003 at (225.06055218919255, 19.0, -145.67229741105132)
+[11Jan2025 04:31:21.058] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@199539ae into net.minecraft.network.Connection@410d19c9
+[11Jan2025 04:31:21.058] [Server thread/DEBUG] [ModernFix/]: Sending ID correction packet to client with 143 classes
+[11Jan2025 04:31:21.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[11Jan2025 04:31:21.070] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[11Jan2025 04:31:21.071] [Server thread/DEBUG] [voicechat/]: [voicechat] Setting default state of elblak004: {disabled=false, disconnected=true, uuid=da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a, name=elblak004, group=null}
+[11Jan2025 04:31:21.071] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:31:21.072] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:31:21.072] [ForkJoinPool-5-worker-8/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:31:21.186] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[11Jan2025 04:31:21.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Sending initial states to elblak004
+[11Jan2025 04:31:21.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with elblak004
+[11Jan2025 04:31:21.187] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with elblak004
+[11Jan2025 04:31:21.188] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[11Jan2025 04:31:21.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:31:22.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[11Jan2025 04:31:22.928] [VoiceChatPacketProcessingThread/DEBUG] [voicechat/]: [voicechat] Set state of elblak004 to connected: {disabled=false, disconnected=false, uuid=da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a, name=elblak004, group=null}
+[11Jan2025 04:31:22.928] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[11Jan2025 04:31:23.024] [Server thread/DEBUG] [voicechat/]: [voicechat] Got state of elblak004: {disabled=false, disconnected=false, uuid=da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a, name=elblak004, group=null}
+[11Jan2025 04:31:32.201] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
+[11Jan2025 04:31:32.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
+[11Jan2025 04:31:32.270] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=221, y=20, z=-156} BlockPos{x=221, y=20, z=-155}
+[11Jan2025 04:31:32.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=220, y=20, z=-158} BlockPos{x=221, y=20, z=-155}
+[11Jan2025 04:33:33.799] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=92, y=21, z=-143} BlockPos{x=86, y=17, z=-140}
+[11Jan2025 04:33:35.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD was kicked for floating too long!
+[11Jan2025 04:33:35.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD lost connection: Flying is not enabled on this server
+[11Jan2025 04:33:35.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD left the game
+[11Jan2025 04:33:35.858] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of GhostSaintRD
+[11Jan2025 04:33:35.858] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GhostSaintRD
+[11Jan2025 04:33:49.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[11Jan2025 04:33:49.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[11Jan2025 04:33:49.246] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of EddyChael
+[11Jan2025 04:33:49.247] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[11Jan2025 04:33:54.609] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:33:54.616] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:34:07.838] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=18, z=-110} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:07.891] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=-110} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:07.946] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=48, y=17, z=-110} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:07.972] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=49, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:08.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:08.087] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=47, y=18, z=-111} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:08.143] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=18, z=-112} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:08.172] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=46, y=18, z=-112} BlockPos{x=48, y=18, z=-109}
+[11Jan2025 04:34:26.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[11Jan2025 04:34:26.433] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[11Jan2025 04:34:26.434] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of elblak004
+[11Jan2025 04:34:26.434] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[11Jan2025 04:34:26.434] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[11Jan2025 04:34:37.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[11Jan2025 04:34:37.477] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping Server@4dfe872e{STARTED}[9.4.51.v20230217]
+[11Jan2025 04:34:37.477] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.Server/]: doStop Server@4dfe872e{STOPPING}[9.4.51.v20230217]
+[11Jan2025 04:34:37.479] [qtp94803290-59/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran qtp94803290-59-acceptor-0@102e3f47-ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888} in QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=7,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}]
+[11Jan2025 04:34:37.482] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandlerContainer/]: Graceful shutdown Server@4dfe872e{STOPPING}[9.4.51.v20230217] by 
+[11Jan2025 04:34:37.482] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:34:37.482] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping SelectorManager@ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:34:37.482] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ManagedSelector@55f2f6fe{STARTED} id=1 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.483] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Queued change lazy=false mtr.libraries.org.eclipse.jetty.io.ManagedSelector$CloseConnections@674e854b on ManagedSelector@55f2f6fe{STOPPING} id=1 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.483] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Wakeup on submit ManagedSelector@55f2f6fe{STOPPING} id=1 keys=0 selected=0 updates=1
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b woken with none selected
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b woken up from select, 0/0/0 selected
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b processing 0 keys, 1 updates
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updateable 1
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: update mtr.libraries.org.eclipse.jetty.io.ManagedSelector$CloseConnections@674e854b
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Closing 0 connections on ManagedSelector@55f2f6fe{STOPPING} id=1 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updates 0
+[11Jan2025 04:34:37.483] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b waiting with 0 keys
+[11Jan2025 04:34:37.484] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Queued change lazy=false mtr.libraries.org.eclipse.jetty.io.ManagedSelector$StopSelector@10da480c on ManagedSelector@55f2f6fe{STOPPING} id=1 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.484] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Wakeup on submit ManagedSelector@55f2f6fe{STOPPING} id=1 keys=0 selected=0 updates=1
+[11Jan2025 04:34:37.484] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b woken with none selected
+[11Jan2025 04:34:37.484] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b woken up from select, 0/0/0 selected
+[11Jan2025 04:34:37.484] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@4e2f353b processing 0 keys, 1 updates
+[11Jan2025 04:34:37.484] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updateable 1
+[11Jan2025 04:34:37.484] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: update mtr.libraries.org.eclipse.jetty.io.ManagedSelector$StopSelector@10da480c
+[11Jan2025 04:34:37.487] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updates 0
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping EatWhatYouKill@2f97876/SelectorProducer@20af2572/PRODUCING/p=false/QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=8,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}][pc=0,pic=0,pec=0,epc=0]@2025-01-11T04:34:37.487977132Z
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED EatWhatYouKill@2f97876/SelectorProducer@20af2572/PRODUCING/p=false/QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=8,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}][pc=0,pic=0,pec=0,epc=0]@2025-01-11T04:34:37.488293101Z
+[11Jan2025 04:34:37.488] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.io.ManagedSelector$$Lambda$13725/0x000071dcc18e9dd8@40e8c356 in QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=8,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}]
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ManagedSelector@55f2f6fe{STOPPED} id=1 keys=-1 selected=-1 updates=0
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ManagedSelector@48c140df{STARTED} id=0 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Queued change lazy=false mtr.libraries.org.eclipse.jetty.io.ManagedSelector$CloseConnections@fc364a4 on ManagedSelector@48c140df{STOPPING} id=0 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.488] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Wakeup on submit ManagedSelector@48c140df{STOPPING} id=0 keys=0 selected=0 updates=1
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 woken with none selected
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 woken up from select, 0/0/0 selected
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 processing 0 keys, 1 updates
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updateable 1
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: update mtr.libraries.org.eclipse.jetty.io.ManagedSelector$CloseConnections@fc364a4
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Closing 0 connections on ManagedSelector@48c140df{STOPPING} id=0 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updates 0
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 waiting with 0 keys
+[11Jan2025 04:34:37.489] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Queued change lazy=false mtr.libraries.org.eclipse.jetty.io.ManagedSelector$StopSelector@471e39db on ManagedSelector@48c140df{STOPPING} id=0 keys=0 selected=0 updates=0
+[11Jan2025 04:34:37.489] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Wakeup on submit ManagedSelector@48c140df{STOPPING} id=0 keys=0 selected=0 updates=1
+[11Jan2025 04:34:37.489] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 woken with none selected
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 woken up from select, 0/0/0 selected
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: Selector sun.nio.ch.EPollSelectorImpl@66bafa22 processing 0 keys, 1 updates
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updateable 1
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: update mtr.libraries.org.eclipse.jetty.io.ManagedSelector$StopSelector@471e39db
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.io.ManagedSelector/]: updates 0
+[11Jan2025 04:34:37.490] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.io.ManagedSelector$$Lambda$13725/0x000071dcc18e9dd8@45de1a63 in QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=9,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}]
+[11Jan2025 04:34:37.490] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping EatWhatYouKill@695372/SelectorProducer@5b3f2962/IDLE/p=false/QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=10,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}][pc=0,pic=0,pec=0,epc=0]@2025-01-11T04:34:37.490564988Z
+[11Jan2025 04:34:37.490] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED EatWhatYouKill@695372/SelectorProducer@5b3f2962/IDLE/p=false/QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=10,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}][pc=0,pic=0,pec=0,epc=0]@2025-01-11T04:34:37.490757286Z
+[11Jan2025 04:34:37.490] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ManagedSelector@48c140df{STOPPED} id=0 keys=-1 selected=-1 updates=0
+[11Jan2025 04:34:37.491] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED SelectorManager@ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:34:37.491] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping HttpConnectionFactory@4f08b352[HTTP/1.1]
+[11Jan2025 04:34:37.491] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED HttpConnectionFactory@4f08b352[HTTP/1.1]
+[11Jan2025 04:34:37.491] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ScheduledExecutorScheduler@4d510adb{STARTED}
+[11Jan2025 04:34:37.491] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ScheduledExecutorScheduler@4d510adb{STOPPED}
+[11Jan2025 04:34:37.491] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ServerConnector@2f589965{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandler/]: stopping Server@4dfe872e{STOPPING}[9.4.51.v20230217]
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ErrorHandler@783c52db{STARTED}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandler/]: stopping ErrorHandler@783c52db{STOPPING}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ErrorHandler@783c52db{STOPPED}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,SHUTDOWN}
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandlerContainer/]: Graceful shutdown m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,SHUTDOWN} by 
+[11Jan2025 04:34:37.492] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandler/]: stopping m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,STOPPED}
+[11Jan2025 04:34:37.493] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ServletHandler@12ea0aef{STARTED}
+[11Jan2025 04:34:37.493] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.server.handler.AbstractHandler/]: stopping ServletHandler@12ea0aef{STOPPING}
+[11Jan2025 04:34:37.494] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping mtr.servlet.RouteFinderServletHandler-5f321286==mtr.servlet.RouteFinderServletHandler@5082f14{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.494] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED mtr.servlet.RouteFinderServletHandler-5f321286==mtr.servlet.RouteFinderServletHandler@5082f14{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping mtr.servlet.DelaysServletHandler-4c2fcb8f==mtr.servlet.DelaysServletHandler@d04143bc{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED mtr.servlet.DelaysServletHandler-4c2fcb8f==mtr.servlet.DelaysServletHandler@d04143bc{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping mtr.servlet.ArrivalsServletHandler-76e3491c==mtr.servlet.ArrivalsServletHandler@3786dc26{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED mtr.servlet.ArrivalsServletHandler-76e3491c==mtr.servlet.ArrivalsServletHandler@3786dc26{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping mtr.servlet.InfoServletHandler-5660b076==mtr.servlet.InfoServletHandler@905118f6{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED mtr.servlet.InfoServletHandler-5660b076==mtr.servlet.InfoServletHandler@905118f6{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping mtr.servlet.DataServletHandler-73e5fc83==mtr.servlet.DataServletHandler@4dcd6636{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED mtr.servlet.DataServletHandler-73e5fc83==mtr.servlet.DataServletHandler@4dcd6636{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.495] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping default==mtr.libraries.org.eclipse.jetty.servlet.DefaultServlet@5c13d641{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STARTED}
+[11Jan2025 04:34:37.496] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED default==mtr.libraries.org.eclipse.jetty.servlet.DefaultServlet@5c13d641{jsp=null,order=-1,inst=false,async=true,src=EMBEDDED:null,STOPPED}
+[11Jan2025 04:34:37.496] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ServletHandler@12ea0aef{STOPPED}
+[11Jan2025 04:34:37.496] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping SymlinkAllowedResourceAliasChecker@5f9b0fb0{base=null,protected=null}
+[11Jan2025 04:34:37.496] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED SymlinkAllowedResourceAliasChecker@5f9b0fb0{base=null,protected=null}
+[11Jan2025 04:34:37.497] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,STOPPED}
+[11Jan2025 04:34:37.497] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED m.l.o.e.j.s.ServletContextHandler@4b95f29d{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/assets/mtr/website,STOPPED}
+[11Jan2025 04:34:37.497] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping QueuedThreadPool[qtp94803290]@5a6955a{STARTED,10<=10<=100,i=10,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}]
+[11Jan2025 04:34:37.497] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Stopping QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=10<=100,i=10,r=-1,q=0}[ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}]
+[11Jan2025 04:34:37.497] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: stopping ReservedThreadExecutor@55a6766{reserved=0/4,pending=0}
+[11Jan2025 04:34:37.500] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED ReservedThreadExecutor@55a6766{reserved=-1/4,pending=0}
+[11Jan2025 04:34:37.500] [qtp94803290-60/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.500] [qtp94803290-60/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.500] [qtp94803290-60/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-60,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Waiting for Thread[qtp94803290-57,5,SERVER] for 14999
+[11Jan2025 04:34:37.501] [qtp94803290-61/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-61/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-61/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-61,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-62/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-62/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-62/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-62,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-59/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-59/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-59/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-59,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-63/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-65/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-65/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-65/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-65,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-66/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-66/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-66/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-66,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.501] [qtp94803290-64/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-64/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-57/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-57,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: run mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-64/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-64,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-63/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.503] [qtp94803290-63/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-63,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.502] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: ran mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool$$Lambda$7383/0x000071dcc0fe56a0@31e2c61e in QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.503] [qtp94803290-58/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Thread[qtp94803290-58,5,SERVER] exited for QueuedThreadPool[qtp94803290]@5a6955a{STOPPING,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.503] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.thread.QueuedThreadPool/]: Waiting for Thread[qtp94803290-61,5,] for 14997
+[11Jan2025 04:34:37.503] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED QueuedThreadPool[qtp94803290]@5a6955a{STOPPED,10<=0<=100,i=10,r=-1,q=0}[NO_TRY]
+[11Jan2025 04:34:37.503] [Server thread/DEBUG] [mtr.libraries.org.eclipse.jetty.util.component.AbstractLifeCycle/]: STOPPED Server@4dfe872e{STOPPED}[9.4.51.v20230217]
+[11Jan2025 04:34:37.506] [Server thread/DEBUG] [lain.mods.cos.init.forge.ForgeCosmeticArmorReworked/]: Server is stopping... try to save all still loaded CosmeticArmor data
+[11Jan2025 04:34:37.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[11Jan2025 04:34:37.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[11Jan2025 04:34:37.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[11Jan2025 04:34:37.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[11Jan2025 04:34:37.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[11Jan2025 04:34:37.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[11Jan2025 04:34:37.583] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jan2025 04:34:37.593] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jan2025 04:34:37.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[11Jan2025 04:34:37.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[11Jan2025 04:34:37.629] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:overworld
+[11Jan2025 04:34:37.629] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:overworld
+[11Jan2025 04:34:37.665] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_nether
+[11Jan2025 04:34:37.665] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_nether
+[11Jan2025 04:34:37.680] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Redstone Network Space for minecraft:the_end
+[11Jan2025 04:34:37.680] [Server thread/DEBUG] [com.simibubi.create.Create/]: Removed Kinetic Network Space for minecraft:the_end
+[11Jan2025 04:34:37.681] [Server thread/DEBUG] [net.minecraftforge.fml.loading.FileUtils/CORE]: Found existing serverconfig directory : ./world/serverconfig
+[11Jan2025 04:34:37.681] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
