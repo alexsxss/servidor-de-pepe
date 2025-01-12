@@ -1152,6 +1152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_glazed_terracotta": {
+    "criteria": {
+      "has_light_gray_terracotta": "2025-01-12 17:34:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2024-12-21 16:42:35 +0000"
@@ -1239,6 +1245,12 @@
   "croptopia:recipes/croptopia.croptopia/radish_seed": {
     "criteria": {
       "has_radish": "2024-12-22 00:03:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_glazed_terracotta": {
+    "criteria": {
+      "has_yellow_terracotta": "2025-01-12 17:36:57 +0000"
     },
     "done": true
   },
@@ -2606,6 +2618,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-01-12 17:34:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/white_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:07:18 +0000"
@@ -2724,6 +2742,12 @@
   "croptopia:recipes/shaped_avocado_toast": {
     "criteria": {
       "has_avocado": "2024-12-22 00:20:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_glazed_terracotta": {
+    "criteria": {
+      "has_orange_terracotta": "2025-01-12 17:42:38 +0000"
     },
     "done": true
   },
@@ -3012,6 +3036,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_battleaxe": {
     "criteria": {
       "has_gold_ingot": "2025-01-11 02:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_glazed_terracotta": {
+    "criteria": {
+      "has_red_terracotta": "2025-01-12 17:42:51 +0000"
     },
     "done": true
   },

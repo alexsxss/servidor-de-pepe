@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_dripstone_wall_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-12 00:29:27 +0000"
@@ -287,6 +293,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:05:46 +0000"
@@ -347,6 +359,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dropper": {
     "criteria": {
       "has_redstone": "2025-01-12 01:29:24 +0000"
@@ -386,6 +404,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -531,6 +555,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-12 00:32:38 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -852,6 +882,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-01-11 21:49:43 +0000"
@@ -1045,6 +1081,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:13 +0000"
@@ -1213,6 +1255,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-01-12 17:35:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-12 00:32:38 +0000"
@@ -1285,9 +1333,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_lime_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-01-11 21:49:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -1405,6 +1465,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/melon_juice": {
     "criteria": {
       "has_melon": "2025-01-11 02:48:59 +0000"
@@ -1441,6 +1507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/blacklist_module": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
@@ -1456,6 +1528,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-01-12 00:10:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -1504,6 +1582,12 @@
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-01-12 03:30:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/flying_fish_boots": {
+    "criteria": {
+      "has_items": "2025-01-12 17:41:56 +0000"
     },
     "done": true
   },
@@ -1663,9 +1747,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
     "criteria": {
       "has_stick": "2025-01-11 02:37:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -1795,6 +1891,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:05:46 +0000"
@@ -1918,6 +2020,12 @@
   "alexsmobs:alexsmobs/root": {
     "criteria": {
       "useitem": "2025-01-11 02:23:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -2227,9 +2335,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "connectedglass:recipes/connectedglass/clear_glass_light_gray2": {
     "criteria": {
       "recipe_condition1": "2025-01-12 04:02:02 +0000"
+    },
+    "done": true
+  },
+  "ironchest:recipes/ironchest/chests/gold_diamond_chest": {
+    "criteria": {
+      "has_diamonds": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -2248,6 +2368,12 @@
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_calamari": {
     "criteria": {
       "has_calamari": "2025-01-11 04:16:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -2290,6 +2416,12 @@
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-01-11 21:49:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -2713,6 +2845,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2025-01-11 22:34:31 +0000"
@@ -2795,6 +2933,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -3056,6 +3200,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-12 00:38:05 +0000",
@@ -3085,6 +3235,12 @@
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-12 05:47:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -3755,6 +3911,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_stairs_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2025-01-12 04:27:07 +0000"
@@ -3917,6 +4079,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-01-11 22:43:46 +0000"
@@ -3956,6 +4124,18 @@
   "create:recipes/create.palettes/cut_deepslate_bricks_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-12 00:36:05 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/large_quiver_upgrade_kit": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4028,6 +4208,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4229,6 +4415,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
@@ -4262,6 +4454,12 @@
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
       "in_water": "2025-01-11 02:12:43 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4313,6 +4511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-01-11 04:50:08 +0000"
@@ -4322,6 +4526,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-01-11 22:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4346,6 +4556,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-01-11 02:42:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4376,6 +4592,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-11 18:05:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4412,6 +4634,12 @@
   "betterdungeons:spider_dungeon": {
     "criteria": {
       "in_better_spider_dungeon": "2025-01-11 23:38:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.basic/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4478,6 +4706,12 @@
   "connectedglass:recipes/connectedglass/borderless_glass_cyan_pane2": {
     "criteria": {
       "recipe_condition1": "2025-01-12 05:57:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
@@ -4892,6 +5126,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2025-01-11 22:34:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-01-12 17:27:39 +0000"
     },
     "done": true
   },
