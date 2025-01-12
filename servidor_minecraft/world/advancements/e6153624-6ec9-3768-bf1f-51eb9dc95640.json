@@ -143,6 +143,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-01-12 18:13:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blast_furnace": {
     "criteria": {
       "has_smooth_stone": "2024-12-23 03:19:04 +0000"
@@ -687,6 +693,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2024-12-22 20:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-01-12 18:13:02 +0000"
     },
     "done": true
   },
@@ -1914,6 +1926,12 @@
   "securitycraft:recipes/securitycraft/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/melon_juice": {
+    "criteria": {
+      "has_melon": "2025-01-12 18:13:02 +0000"
     },
     "done": true
   },
@@ -3553,6 +3571,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-01-12 18:13:02 +0000"
     },
     "done": true
   },
