@@ -1333,6 +1333,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_4": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-12 19:08:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_acacia_fence": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -1351,9 +1357,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_2": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-12 19:07:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/stack_upgrade_tier_3": {
+    "criteria": {
+      "has_upgrade_base": "2025-01-12 19:08:11 +0000"
     },
     "done": true
   },
