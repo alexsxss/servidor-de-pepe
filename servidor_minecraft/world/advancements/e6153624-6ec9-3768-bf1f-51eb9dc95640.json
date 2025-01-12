@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 03:38:47 +0000"
@@ -648,6 +654,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_scythe": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -831,6 +843,12 @@
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2024-12-28 23:26:47 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-12 19:56:07 +0000"
     },
     "done": true
   },
@@ -1637,10 +1655,11 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 00:26:49 +0000",
       "minecraft:nether_wastes": "2024-12-29 00:13:27 +0000",
+      "minecraft:soul_sand_valley": "2025-01-12 19:56:58 +0000",
       "minecraft:warped_forest": "2024-12-29 00:53:02 +0000",
       "minecraft:basalt_deltas": "2025-01-12 19:35:26 +0000"
     },
-    "done": false
+    "done": true
   },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_pike": {
     "criteria": {
@@ -3413,6 +3432,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-12 20:10:54 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/acacia_blossom": {
     "criteria": {
       "acacia_blossom": "2024-12-27 18:44:12 +0000"
@@ -3671,6 +3696,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:04 +0000"
@@ -3812,6 +3843,12 @@
   "create:recipes/create.base/crafting/materials/sand_paper": {
     "criteria": {
       "has_item": "2024-12-29 00:21:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
     },
     "done": true
   },
@@ -3963,6 +4000,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-27 20:15:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
     },
     "done": true
   },
@@ -4570,15 +4613,18 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-12 01:55:32 +0000",
+      "minecraft:blaze": "2025-01-12 20:10:53 +0000",
       "minecraft:skeleton": "2024-12-23 03:14:06 +0000",
       "minecraft:elder_guardian": "2025-01-12 02:37:17 +0000",
       "minecraft:hoglin": "2024-12-29 00:27:43 +0000",
       "minecraft:guardian": "2025-01-12 02:38:06 +0000",
+      "minecraft:magma_cube": "2025-01-12 19:48:52 +0000",
       "minecraft:spider": "2024-12-22 20:49:59 +0000",
       "minecraft:piglin_brute": "2024-12-29 00:31:26 +0000",
       "minecraft:creeper": "2024-12-23 03:05:24 +0000",
       "minecraft:phantom": "2025-01-12 16:57:34 +0000",
       "minecraft:zombified_piglin": "2024-12-29 00:24:57 +0000",
+      "minecraft:wither_skeleton": "2025-01-12 20:02:09 +0000",
       "minecraft:cave_spider": "2024-12-23 03:51:48 +0000",
       "minecraft:piglin": "2024-12-29 00:53:58 +0000",
       "minecraft:enderman": "2024-12-28 23:43:44 +0000",
@@ -4839,6 +4885,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-12 20:10:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 03:38:47 +0000"
@@ -4987,6 +5039,12 @@
     "criteria": {
       "has_nuts": "2024-12-23 02:54:57 +0000",
       "has_the_recipe": "2024-12-23 02:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
     },
     "done": true
   },
@@ -6676,6 +6734,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-12 19:52:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2024-12-22 20:00:08 +0000"
@@ -6847,6 +6911,12 @@
   "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-12 20:01:35 +0000"
     },
     "done": true
   },
@@ -7093,6 +7163,12 @@
   "paraglider:recipes/paraglider/cosmetic/goron_goddess_statue": {
     "criteria": {
       "has_goddess_statue": "2025-01-12 00:55:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-12 20:10:54 +0000"
     },
     "done": true
   },

@@ -1663,6 +1663,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-12 20:20:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-22 01:05:51 +0000"
@@ -2242,6 +2248,12 @@
   "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_arrow": {
     "criteria": {
       "has_bow": "2024-12-28 02:43:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/protecto": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 20:20:52 +0000"
     },
     "done": true
   },
@@ -3148,6 +3160,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2024-12-28 02:22:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 20:20:52 +0000"
     },
     "done": true
   },
@@ -5186,14 +5204,17 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-01-12 02:00:51 +0000",
+      "minecraft:blaze": "2025-01-12 19:50:41 +0000",
       "minecraft:skeleton": "2024-12-22 01:15:59 +0000",
       "minecraft:ravager": "2025-01-12 02:02:46 +0000",
       "minecraft:hoglin": "2025-01-12 19:32:17 +0000",
       "minecraft:vindicator": "2025-01-12 02:01:12 +0000",
+      "minecraft:magma_cube": "2025-01-12 19:50:40 +0000",
       "minecraft:spider": "2024-12-22 00:15:21 +0000",
       "minecraft:piglin_brute": "2025-01-11 03:54:29 +0000",
       "minecraft:creeper": "2024-12-27 21:12:22 +0000",
       "minecraft:witch": "2025-01-11 23:07:54 +0000",
+      "minecraft:wither_skeleton": "2025-01-12 19:50:28 +0000",
       "minecraft:cave_spider": "2024-12-22 01:32:03 +0000",
       "minecraft:piglin": "2024-12-28 02:25:20 +0000",
       "minecraft:enderman": "2024-12-27 19:14:15 +0000",
@@ -5218,6 +5239,12 @@
   "paraglider:recipes/paraglider/cosmetic/deku_leaf": {
     "criteria": {
       "has_paragliders": "2025-01-11 02:32:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-12 20:20:30 +0000"
     },
     "done": true
   },
@@ -5494,6 +5521,12 @@
   "croptopia:recipes/croptopia.croptopia/knife": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_the_recipe": "2025-01-12 20:20:29 +0000"
     },
     "done": true
   },
@@ -6462,6 +6495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-12 20:20:30 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -6830,6 +6869,7 @@
       "porkchop": "2024-12-28 00:13:59 +0000",
       "golden_apple": "2024-12-22 00:01:05 +0000",
       "bread": "2024-12-23 03:17:02 +0000",
+      "enchanted_golden_apple": "2025-01-12 19:50:35 +0000",
       "carrot": "2024-12-27 20:13:20 +0000"
     },
     "done": false
@@ -7392,6 +7432,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-12 20:20:52 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_slab_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
@@ -7665,6 +7711,12 @@
   "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
     "criteria": {
       "recipe_condition2": "2025-01-11 04:55:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-01-12 19:50:13 +0000"
     },
     "done": true
   },

@@ -630,3 +630,62 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 19:47:34.714] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> eddy
 [12Jan2025 19:47:39.917] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> eddy
 [12Jan2025 19:47:45.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> eddy contreras
+[12Jan2025 19:50:13.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [A Terrible Fortress]
+[12Jan2025 19:51:07.154] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:fortrees:F:-275:59:136:10:false:0:Internal-the-nether-waypoints
+[12Jan2025 19:56:07.914] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Nightmare Fuel]
+[12Jan2025 19:56:58.601] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has completed the challenge [Hot Tourist Destinations]
+[12Jan2025 19:57:15.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xaero-waypoint:balzes:B:-454:74:150:7:false:0:Internal-the-nether-waypoints
+[12Jan2025 19:58:54.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[12Jan2025 19:58:54.649] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[12Jan2025 19:58:54.650] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 19:59:04.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[12Jan2025 19:59:04.156] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[12Jan2025 19:59:04.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[12Jan2025 19:59:04.157] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 19:59:08.159] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6eb34dab
+[12Jan2025 19:59:08.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:38107] logged in with entity id 173240 at (-453.335506923601, 74.0, 145.30000001192093)
+[12Jan2025 19:59:08.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 19:59:08.180] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 19:59:08.181] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 19:59:08.184] [ForkJoinPool-5-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 19:59:08.185] [ForkJoinPool-5-worker-15/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 19:59:08.325] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 19:59:08.326] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 19:59:09.030] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 19:59:10.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 19:59:10.031] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 19:59:16.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=709, y=78, z=37} BlockPos{x=708, y=77, z=36}
+[12Jan2025 20:01:35.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [A Terrible Fortress]
+[12Jan2025 20:03:57.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=378, y=102, z=31} BlockPos{x=378, y=101, z=31}
+[12Jan2025 20:04:56.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=548, y=97, z=25} BlockPos{x=549, y=95, z=23}
+[12Jan2025 20:09:22.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [A Throwaway Joke]
+[12Jan2025 20:10:54.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Into Fire]
+[12Jan2025 20:15:28.192] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Into Fire]
+[12Jan2025 20:15:34.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GhostSaintRD) moved wrongly! 0.3034536224250489
+[12Jan2025 20:15:34.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GhostSaintRD) moved wrongly! 0.33583005651132075
+[12Jan2025 20:15:34.943] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GhostSaintRD) moved wrongly! 0.3655488194028919
+[12Jan2025 20:15:34.989] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of GhostSaintRD) moved wrongly! 0.39265854045341725
+[12Jan2025 20:18:24.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Pic-A-Nic Basket?]
+[12Jan2025 20:24:09.751] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[12Jan2025 20:24:09.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[12Jan2025 20:24:09.752] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 20:24:20.201] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[12Jan2025 20:24:20.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[12Jan2025 20:24:20.202] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[12Jan2025 20:24:20.202] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 20:24:23.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2cf8a80a
+[12Jan2025 20:24:23.877] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:46317] logged in with entity id 211474 at (-268.67815796916307, 0.0, -1249.4267074089612)
+[12Jan2025 20:24:23.883] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 20:24:23.888] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 20:24:23.889] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 20:24:23.891] [ForkJoinPool-5-worker-16/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 20:24:23.892] [ForkJoinPool-5-worker-16/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 20:24:24.020] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 20:24:24.021] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 20:24:24.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 20:24:25.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 20:24:25.728] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 20:25:44.680] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/215438, l='ServerLevel[world]', x=1330.50, y=53.00, z=475.50]
+[12Jan2025 20:25:57.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/216295, l='ServerLevel[world]', x=1215.50, y=57.00, z=973.50]
+[12Jan2025 20:28:49.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Reaping What You Sow]
+[12Jan2025 20:29:13.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved wrongly!
