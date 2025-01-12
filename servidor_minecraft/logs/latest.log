@@ -342,3 +342,30 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 17:13:47.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
 [12Jan2025 17:13:47.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
 [12Jan2025 17:15:48.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> metete a la llamada
+[12Jan2025 17:17:41.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/12663, l='ServerLevel[world]', x=34.50, y=52.00, z=-685.50]
+[12Jan2025 17:19:44.013] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3dcfdf2c
+[12Jan2025 17:19:44.030] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:51963] logged in with entity id 15557 at (-367.17913479848835, 65.0, -1490.6331412389113)
+[12Jan2025 17:19:44.041] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 17:19:44.065] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 17:19:44.069] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 17:19:44.085] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 17:19:44.088] [ForkJoinPool-5-worker-3/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 17:19:44.592] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 17:19:44.592] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 17:19:46.559] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 17:19:47.562] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 17:19:47.564] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 17:23:06.304] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2bdd28e9
+[12Jan2025 17:23:06.316] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:55973] logged in with entity id 17809 at (940.2604870140707, 22.0, 120.3637095307979)
+[12Jan2025 17:23:06.322] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[12Jan2025 17:23:06.368] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[12Jan2025 17:23:06.370] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 17:23:06.377] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 17:23:07.912] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 17:23:07.913] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 17:23:07.992] [ForkJoinPool-5-worker-4/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 17:23:08.401] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[12Jan2025 17:23:08.403] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 17:23:16.772] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 17:23:17.775] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 17:23:17.776] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat

@@ -185,6 +185,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-12 17:21:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_battleaxe": {
     "criteria": {
       "has_copper_ingot": "2025-01-12 04:04:32 +0000"
@@ -601,7 +607,8 @@
   },
   "croptopia:gather_food": {
     "criteria": {
-      "toast": "2024-12-27 21:54:10 +0000"
+      "toast": "2024-12-27 21:54:10 +0000",
+      "calamari": "2025-01-12 17:21:00 +0000"
     },
     "done": false
   },
@@ -1467,6 +1474,12 @@
   "create:recipes/create.palettes/cut_calcite_wall_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-28 22:55:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/black_dye": {
+    "criteria": {
+      "has_ink_sac": "2025-01-12 17:21:00 +0000"
     },
     "done": true
   },
@@ -3141,6 +3154,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-12 17:21:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
@@ -4040,6 +4059,12 @@
   "securitycraft:recipes/securitycraft/reinforced_spruce_fence_gate": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/fried_calamari": {
+    "criteria": {
+      "has_calamari": "2025-01-12 17:21:00 +0000"
     },
     "done": true
   },
