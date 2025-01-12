@@ -1741,6 +1741,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_glazed_terracotta": {
+    "criteria": {
+      "has_white_terracotta": "2025-01-12 23:15:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
@@ -1884,6 +1890,12 @@
   "minecraft:recipes/redstone/redstone_torch": {
     "criteria": {
       "has_redstone": "2025-01-12 01:29:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-01-12 22:31:41 +0000"
     },
     "done": true
   },
@@ -2265,6 +2277,12 @@
     },
     "done": true
   },
+  "spartanweaponry:saber": {
+    "criteria": {
+      "has_saber": "2025-01-12 22:24:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-01-11 02:31:14 +0000"
@@ -2298,6 +2316,12 @@
   "create:recipes/create.palettes/cut_dripstone_from_stone_types_dripstone_stonecutting": {
     "criteria": {
       "has_stone_types_dripstone": "2025-01-12 00:29:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/bolt": {
+    "criteria": {
+      "has_feather": "2025-01-12 22:31:41 +0000"
     },
     "done": true
   },
@@ -3301,6 +3325,7 @@
       "minecraft:creeper": "2025-01-11 18:26:11 +0000",
       "minecraft:phantom": "2025-01-12 03:44:35 +0000",
       "minecraft:witch": "2025-01-12 00:28:16 +0000",
+      "minecraft:endermite": "2025-01-12 22:40:14 +0000",
       "minecraft:zombie": "2025-01-11 03:25:30 +0000",
       "minecraft:drowned": "2025-01-11 03:21:59 +0000"
     },
@@ -4369,6 +4394,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-01-12 22:31:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-01-12 04:27:07 +0000"
@@ -4385,6 +4416,7 @@
     "criteria": {
       "cooked_porkchop": "2025-01-12 20:12:14 +0000",
       "porkchop": "2025-01-12 20:09:51 +0000",
+      "potato": "2025-01-12 22:32:39 +0000",
       "melon_slice": "2025-01-12 02:13:44 +0000"
     },
     "done": false
@@ -4416,6 +4448,12 @@
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-01-12 20:13:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-01-12 22:24:42 +0000"
     },
     "done": true
   },

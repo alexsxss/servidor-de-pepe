@@ -545,6 +545,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-01-12 22:27:32 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 00:06:26 +0000"
@@ -4069,6 +4081,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -4078,6 +4096,12 @@
   "create:recipes/create.palettes/cut_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-01-12 22:33:01 +0000"
     },
     "done": true
   },
@@ -4261,6 +4285,12 @@
     },
     "done": true
   },
+  "paraglider:pray_to_the_goddess": {
+    "criteria": {
+      "bargain": "2025-01-12 22:39:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2024-12-23 02:11:31 +0000"
@@ -4333,6 +4363,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/layered_calcite_from_stone_types_calcite_stonecutting": {
     "criteria": {
       "has_stone_types_calcite": "2024-12-22 01:05:47 +0000"
@@ -4363,6 +4399,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_pink_dye": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2024-12-22 14:03:33 +0000"
@@ -4384,6 +4426,12 @@
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/clear_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
     },
     "done": true
   },
@@ -4865,6 +4913,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
@@ -5027,6 +5081,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2024-12-22 15:04:01 +0000"
@@ -5132,6 +5192,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_throwing_knife": {
     "criteria": {
       "has_wood": "2024-12-28 01:32:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_purple_and_pink": {
+    "criteria": {
+      "has_pink_dye": "2025-01-12 22:26:55 +0000"
     },
     "done": true
   },
@@ -5849,6 +5915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-01-12 22:26:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
     "criteria": {
       "has_reinforced_stone": "2024-12-27 19:50:48 +0000"
@@ -6193,6 +6265,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-22 00:47:00 +0000"
@@ -6298,6 +6376,12 @@
   "securitycraft:recipes/securitycraft/limited_use_keycard": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_pink_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
     },
     "done": true
   },
@@ -7373,6 +7457,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2025-01-12 23:24:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
@@ -7424,6 +7514,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:44:28 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 22:26:55 +0000"
     },
     "done": true
   },
@@ -8276,6 +8372,12 @@
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
       "has_netherite_ingot": "2025-01-11 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-01-12 22:33:01 +0000"
     },
     "done": true
   },

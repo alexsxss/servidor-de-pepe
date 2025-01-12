@@ -853,3 +853,190 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 22:17:31.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
 [12Jan2025 22:17:31.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
 [12Jan2025 22:18:24.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was shot by Garetexe
+[12Jan2025 22:23:44.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 22:23:44.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 22:24:42.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Smash And Bash!]
+[12Jan2025 22:24:43.199] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Swashbuckler]
+[12Jan2025 22:25:19.051] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:25:19.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:26:05.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> con el aguante que roba vida y el collar que te hace invencible temporalmente estas rotisimo d
+[12Jan2025 22:26:08.155] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> d
+[12Jan2025 22:26:19.550] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> xd por eso mate a todos los withers
+[12Jan2025 22:28:25.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=77, z=-182} BlockPos{x=1232, y=77, z=-183}
+[12Jan2025 22:28:25.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=77, z=-182} BlockPos{x=1232, y=77, z=-183}
+[12Jan2025 22:28:25.956] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1232, y=77, z=-182} BlockPos{x=1232, y=77, z=-183}
+[12Jan2025 22:33:01.504] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Into Fire]
+[12Jan2025 22:35:35.457] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 22:35:43.261] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:35:43.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:35:43.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:35:45.162] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 22:39:26.787] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has reached the goal [Pray to the Goddess]
+[12Jan2025 22:40:02.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ale
+[12Jan2025 22:40:04.741] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> hirro
+[12Jan2025 22:40:07.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> hierro
+[12Jan2025 22:40:09.301] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> ?
+[12Jan2025 22:40:09.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> dame
+[12Jan2025 22:40:15.588] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> pls
+[12Jan2025 22:40:26.693] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> no tengo
+[12Jan2025 22:40:29.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ;c
+[12Jan2025 22:40:30.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> esta en mi casa
+[12Jan2025 22:40:39.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> pero eddy tiene en su granja
+[12Jan2025 22:40:45.435] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> sigueme
+[12Jan2025 22:40:47.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ya lo cogi
+[12Jan2025 22:40:54.343] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> coji
+[12Jan2025 22:41:01.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> nesecito mas
+[12Jan2025 22:46:50.195] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[12Jan2025 22:46:50.196] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[12Jan2025 22:46:50.196] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[12Jan2025 22:46:50.197] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 22:50:34.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=16, z=-186} BlockPos{x=-89, y=16, z=-186}
+[12Jan2025 22:50:34.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-91, y=16, z=-186} BlockPos{x=-89, y=16, z=-186}
+[12Jan2025 22:50:34.348] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=17, z=-186} BlockPos{x=-89, y=16, z=-186}
+[12Jan2025 22:50:34.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=17, z=-185} BlockPos{x=-89, y=16, z=-186}
+[12Jan2025 22:50:34.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-92, y=17, z=-185} BlockPos{x=-89, y=16, z=-186}
+[12Jan2025 22:50:38.496] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=13, z=-189} BlockPos{x=-96, y=15, z=-188}
+[12Jan2025 22:50:38.546] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=13, z=-189} BlockPos{x=-96, y=15, z=-188}
+[12Jan2025 22:50:38.595] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=13, z=-189} BlockPos{x=-96, y=15, z=-188}
+[12Jan2025 22:50:38.645] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=13, z=-189} BlockPos{x=-96, y=15, z=-188}
+[12Jan2025 22:50:38.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-98, y=13, z=-189} BlockPos{x=-96, y=15, z=-188}
+[12Jan2025 22:50:42.048] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-97, y=13, z=-185} BlockPos{x=-97, y=10, z=-184}
+[12Jan2025 22:50:57.062] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6c88ce6a
+[12Jan2025 22:50:57.073] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Garetexe[/127.96.160.164:42385] logged in with entity id 342350 at (1327.531395291568, 73.0, 33.8395701583459)
+[12Jan2025 22:50:57.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe joined the game
+[12Jan2025 22:50:57.107] [Server thread/INFO] [Waila/]: Syncing config to Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640)
+[12Jan2025 22:50:57.108] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Garetexe just logged in with id e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 22:50:57.110] [ForkJoinPool-5-worker-22/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 22:50:57.113] [ForkJoinPool-5-worker-22/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 22:50:57.250] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
+[12Jan2025 22:50:57.250] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
+[12Jan2025 22:50:58.760] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 22:50:59.761] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 22:50:59.762] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640) successfully connected to voice chat
+[12Jan2025 22:52:27.249] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=16, z=-106} BlockPos{x=-140, y=16, z=-107}
+[12Jan2025 22:52:27.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=16, z=-106} BlockPos{x=-140, y=16, z=-107}
+[12Jan2025 22:52:27.354] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-140, y=16, z=-106} BlockPos{x=-140, y=16, z=-107}
+[12Jan2025 22:52:27.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=16, z=-104} BlockPos{x=-140, y=16, z=-107}
+[12Jan2025 22:52:27.449] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-139, y=16, z=-104} BlockPos{x=-140, y=16, z=-107}
+[12Jan2025 22:54:59.550] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-239, y=17, z=-46} BlockPos{x=-239, y=17, z=-47}
+[12Jan2025 22:54:59.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-239, y=17, z=-46} BlockPos{x=-239, y=17, z=-47}
+[12Jan2025 22:56:07.702] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-281, y=16, z=10} BlockPos{x=-281, y=15, z=10}
+[12Jan2025 22:56:07.744] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=15, z=10} BlockPos{x=-281, y=15, z=10}
+[12Jan2025 22:56:07.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=16, z=10} BlockPos{x=-281, y=15, z=10}
+[12Jan2025 22:56:07.853] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-280, y=16, z=10} BlockPos{x=-281, y=15, z=10}
+[12Jan2025 22:56:07.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-283, y=16, z=11} BlockPos{x=-281, y=15, z=10}
+[12Jan2025 22:57:09.295] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-303, y=20, z=86} BlockPos{x=-303, y=19, z=86}
+[12Jan2025 22:57:31.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[12Jan2025 23:01:13.771] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved wrongly!
+[12Jan2025 23:04:15.461] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [You're Coming With Me]
+[12Jan2025 23:10:46.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[12Jan2025 23:10:46.960] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[12Jan2025 23:10:46.961] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 23:10:53.743] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[12Jan2025 23:10:53.743] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[12Jan2025 23:10:53.744] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[12Jan2025 23:10:53.744] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:12:45.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Bring Home the Beacon]
+[12Jan2025 23:13:46.786] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/361952, l='ServerLevel[world]', x=1364.86, y=72.00, z=31.91] died, message: 'Unemployed was slain by Zombie'
+[12Jan2025 23:14:43.998] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@167b448b
+[12Jan2025 23:14:44.005] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:53005] logged in with entity id 362810 at (-333.69999998807907, 16.0, 51.30000001192093)
+[12Jan2025 23:14:44.009] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 23:14:44.013] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 23:14:44.013] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:14:44.015] [ForkJoinPool-5-worker-23/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:14:44.017] [ForkJoinPool-5-worker-23/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:14:44.141] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 23:14:44.141] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 23:14:44.996] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:14:45.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:14:45.991] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 23:17:55.107] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 23:18:08.307] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 23:18:13.765] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 23:18:37.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-355, y=11, z=63} BlockPos{x=-354, y=10, z=63}
+[12Jan2025 23:18:40.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-360, y=13, z=61} BlockPos{x=-362, y=13, z=61}
+[12Jan2025 23:18:42.696] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-363, y=14, z=58} BlockPos{x=-362, y=14, z=58}
+[12Jan2025 23:20:17.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD fell from a high place
+[12Jan2025 23:24:34.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD lost connection: Disconnected
+[12Jan2025 23:24:34.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD left the game
+[12Jan2025 23:24:34.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client GhostSaintRD
+[12Jan2025 23:24:45.751] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has reached the goal [Upgrade Me with Debris]
+[12Jan2025 23:25:22.117] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-467, y=16, z=-81} BlockPos{x=-467, y=17, z=-80}
+[12Jan2025 23:25:22.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-467, y=16, z=-81} BlockPos{x=-467, y=17, z=-80}
+[12Jan2025 23:25:22.200] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-467, y=16, z=-81} BlockPos{x=-467, y=17, z=-80}
+[12Jan2025 23:25:22.250] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-468, y=16, z=-82} BlockPos{x=-467, y=17, z=-80}
+[12Jan2025 23:25:28.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-470, y=14, z=-77} BlockPos{x=-470, y=13, z=-77}
+[12Jan2025 23:25:35.853] [Server thread/ERROR] [net.minecraft.util.thread.BlockableEventLoop/FATAL]: Error executing task on Server
+com.google.gson.JsonSyntaxException: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 29 path $.floor_description
+	at com.google.gson.internal.Streams.parse(Streams.java:60) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:85) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.JsonParser.parseReader(JsonParser.java:60) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.JsonParser.parseString(JsonParser.java:47) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.JsonParser.parse(JsonParser.java:98) ~[gson-2.8.9.jar%2323!/:?]
+	at mtr.data.RailwayDataLoggingModule.addEvent(RailwayDataLoggingModule.java:105) ~[MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/:?]
+	at mtr.data.RailwayDataLoggingModule.addEvent(RailwayDataLoggingModule.java:62) ~[MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/:?]
+	at mtr.packet.PacketTrainDataGuiServer.setTileEntityDataAndWriteUpdate(PacketTrainDataGuiServer.java:525) ~[MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/:?]
+	at mtr.packet.PacketTrainDataGuiServer.lambda$receiveLiftTrackFloorC2S$19(PacketTrainDataGuiServer.java:295) ~[MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2389!/:?]
+	at net.minecraft.server.TickTask.run(TickTask.java:18) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_6367_(BlockableEventLoop.java:157) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.ReentrantBlockableEventLoop.m_6367_(ReentrantBlockableEventLoop.java:23) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:799) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_6367_(MinecraftServer.java:164) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_7245_(BlockableEventLoop.java:131) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_129961_(MinecraftServer.java:782) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_7245_(MinecraftServer.java:776) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.util.thread.BlockableEventLoop.m_18699_(BlockableEventLoop.java:116) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_130012_(MinecraftServer.java:761) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:689) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at net.minecraft.server.MinecraftServer.m_177918_(MinecraftServer.java:261) ~[server-1.18.2-20220404.173914-srg.jar%23121!/:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: com.google.gson.stream.MalformedJsonException: Unterminated object at line 1 column 29 path $.floor_description
+	at com.google.gson.stream.JsonReader.syntaxError(JsonReader.java:1562) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.stream.JsonReader.doPeek(JsonReader.java:490) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.stream.JsonReader.hasNext(JsonReader.java:413) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:683) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.internal.bind.TypeAdapters$27.read(TypeAdapters.java:655) ~[gson-2.8.9.jar%2323!/:?]
+	at com.google.gson.internal.Streams.parse(Streams.java:48) ~[gson-2.8.9.jar%2323!/:?]
+	... 21 more
+[12Jan2025 23:27:31.150] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-503, y=15, z=-170} BlockPos{x=-503, y=16, z=-169}
+[12Jan2025 23:27:52.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-509, y=20, z=-211} BlockPos{x=-510, y=18, z=-211}
+[12Jan2025 23:28:00.498] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=13, z=-216} BlockPos{x=-513, y=13, z=-216}
+[12Jan2025 23:28:00.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=12, z=-216} BlockPos{x=-513, y=13, z=-216}
+[12Jan2025 23:28:00.598] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-516, y=12, z=-216} BlockPos{x=-513, y=13, z=-216}
+[12Jan2025 23:28:08.796] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=18, z=-226} BlockPos{x=-518, y=17, z=-224}
+[12Jan2025 23:28:08.846] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=18, z=-227} BlockPos{x=-518, y=17, z=-224}
+[12Jan2025 23:28:08.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-515, y=18, z=-227} BlockPos{x=-518, y=17, z=-224}
+[12Jan2025 23:28:36.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-525, y=4, z=-242} BlockPos{x=-525, y=3, z=-242}
+[12Jan2025 23:29:10.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a timed out
+[12Jan2025 23:29:10.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player elblak004
+[12Jan2025 23:29:10.013] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 23:29:15.498] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Timed out
+[12Jan2025 23:29:15.498] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[12Jan2025 23:29:15.499] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[12Jan2025 23:29:15.499] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:29:24.954] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17ac327f
+[12Jan2025 23:29:24.965] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:59595] logged in with entity id 382944 at (-525.5416509301937, 15.0, -271.2150116411808)
+[12Jan2025 23:29:24.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 23:29:24.979] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 23:29:24.980] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:29:24.982] [ForkJoinPool-5-worker-24/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:29:24.982] [ForkJoinPool-5-worker-24/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 23:29:25.094] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 23:29:25.094] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 23:29:26.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:29:27.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 23:29:27.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 23:30:59.053] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-622, y=16, z=-356} BlockPos{x=-623, y=16, z=-356}
+[12Jan2025 23:31:06.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=18, z=-355} BlockPos{x=-621, y=16, z=-361}
+[12Jan2025 23:31:06.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=18, z=-355} BlockPos{x=-621, y=16, z=-361}
+[12Jan2025 23:31:06.455] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=18, z=-355} BlockPos{x=-621, y=16, z=-361}
+[12Jan2025 23:31:06.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-621, y=18, z=-355} BlockPos{x=-621, y=16, z=-361}
+[12Jan2025 23:31:06.553] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-622, y=16, z=-364} BlockPos{x=-621, y=16, z=-361}
+[12Jan2025 23:31:22.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=16, z=-388} BlockPos{x=-638, y=16, z=-390}
+[12Jan2025 23:31:22.602] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-640, y=16, z=-388} BlockPos{x=-638, y=16, z=-390}
+[12Jan2025 23:33:17.448] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-541, y=15, z=-572} BlockPos{x=-540, y=16, z=-574}
+[12Jan2025 23:33:17.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-541, y=15, z=-572} BlockPos{x=-540, y=16, z=-574}
+[12Jan2025 23:33:36.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=15, z=-603} BlockPos{x=-526, y=16, z=-603}
+[12Jan2025 23:33:36.899] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-526, y=15, z=-603} BlockPos{x=-526, y=16, z=-603}
+[12Jan2025 23:33:45.900] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-502, y=20, z=-611} BlockPos{x=-500, y=19, z=-611}
+[12Jan2025 23:33:45.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-503, y=20, z=-610} BlockPos{x=-500, y=19, z=-611}
