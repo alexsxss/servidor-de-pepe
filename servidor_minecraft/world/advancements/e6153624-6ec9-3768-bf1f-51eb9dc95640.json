@@ -71,6 +71,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_katana": {
     "criteria": {
       "has_wood": "2024-12-28 22:27:02 +0000"
@@ -188,6 +194,12 @@
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-01-12 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
     },
     "done": true
   },
@@ -798,6 +810,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_nether_bricks": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2025-01-11 18:07:46 +0000"
@@ -1041,6 +1059,12 @@
   "croptopia:recipes/roasted_nuts": {
     "criteria": {
       "has_nut": "2024-12-23 02:54:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_nether_brick_wall_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
     },
     "done": true
   },
@@ -2430,7 +2454,8 @@
       "zombie_head": "2024-12-29 00:04:29 +0000",
       "wither_skeleton_skull": "2025-01-12 20:39:11 +0000",
       "skeleton_skull": "2024-12-29 00:04:30 +0000",
-      "blaze_head": "2025-01-12 20:38:30 +0000"
+      "blaze_head": "2025-01-12 20:38:30 +0000",
+      "piglin_head": "2025-01-12 20:48:31 +0000"
     },
     "done": false
   },
@@ -2965,6 +2990,12 @@
   "create:recipes/create.palettes/crafting/kinetics/gray_seat": {
     "criteria": {
       "has_wool": "2024-12-23 03:27:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_nether_bricks_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -3544,6 +3575,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs_from_red_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/cooking_pot": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
@@ -3667,6 +3704,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-12 02:17:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -3907,6 +3950,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
     "criteria": {
       "has_tag": "2024-12-28 23:26:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -4686,6 +4735,7 @@
       "minecraft:blaze": "2025-01-12 20:10:53 +0000",
       "minecraft:skeleton": "2024-12-23 03:14:06 +0000",
       "minecraft:elder_guardian": "2025-01-12 02:37:17 +0000",
+      "minecraft:ghast": "2025-01-12 20:49:22 +0000",
       "minecraft:hoglin": "2024-12-29 00:27:43 +0000",
       "minecraft:guardian": "2025-01-12 02:38:06 +0000",
       "minecraft:magma_cube": "2025-01-12 19:48:52 +0000",
@@ -4814,6 +4864,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_parrying_dagger": {
     "criteria": {
       "has_copper_ingot": "2025-01-12 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -5030,6 +5086,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_pike": {
     "criteria": {
       "has_wood": "2024-12-28 22:27:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -5422,6 +5484,12 @@
   "securitycraft:recipes/securitycraft/portable_tune_player": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
@@ -6016,6 +6084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/nether_brick_wall": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/black_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 19:48:14 +0000"
@@ -6219,6 +6293,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-01-12 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_brick_slab": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
     },
     "done": true
   },
@@ -6972,6 +7052,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_nether_brick_stairs": {
+    "criteria": {
+      "has_red_nether_bricks": "2025-01-12 20:56:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-23 03:38:47 +0000"
@@ -7401,6 +7487,12 @@
   "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-23 02:57:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/nether_brick_fence": {
+    "criteria": {
+      "has_nether_bricks": "2025-01-12 20:50:16 +0000"
     },
     "done": true
   },
