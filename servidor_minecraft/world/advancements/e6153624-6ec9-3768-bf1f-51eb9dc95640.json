@@ -479,6 +479,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_saber": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -647,6 +653,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
     "criteria": {
       "has_raw_copper": "2024-12-23 02:57:41 +0000"
@@ -687,6 +699,12 @@
   "create:recipes/building_blocks/granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_bars": {
+    "criteria": {
+      "has_pumpkin": "2025-01-12 21:26:56 +0000"
     },
     "done": true
   },
@@ -1005,6 +1023,12 @@
   "minecraft:recipes/tools/netherite_shovel_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-12 00:56:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/scoria_pillar_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -1452,6 +1476,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/crafting/palettes/scorchia": {
+    "criteria": {
+      "has_item": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2024-12-27 19:39:43 +0000"
@@ -1793,6 +1823,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/pumpkin_soup": {
+    "criteria": {
+      "has_pumpkin": "2025-01-12 21:26:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_iron_block": {
     "criteria": {
       "has_raw_iron": "2024-12-23 02:59:56 +0000"
@@ -1856,6 +1892,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/netherite_pike_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-12 00:56:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -2676,6 +2718,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 19:48:14 +0000"
@@ -2970,6 +3018,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
@@ -3219,6 +3273,12 @@
   "securitycraft:recipes/securitycraft/universal_block_reinforcer_lvl1": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/polished_cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -3762,6 +3822,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/quartz": {
     "criteria": {
       "has_nether_quartz_ore": "2025-01-12 20:32:55 +0000"
@@ -3978,6 +4044,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-01-12 21:26:56 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/chicken_and_dumplings": {
     "criteria": {
       "has_chicken": "2024-12-22 20:46:49 +0000"
@@ -4133,6 +4205,12 @@
   "alexsmobs:recipes/food/boiled_emu_egg_smoke": {
     "criteria": {
       "has_items": "2024-12-28 23:46:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -4625,6 +4703,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -5349,6 +5433,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_brown_from_white": {
     "criteria": {
       "has_the_recipe": "2024-12-23 03:04:23 +0000",
@@ -5803,6 +5893,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-01-12 21:27:00 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_granite_wall_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
@@ -5929,6 +6025,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
     "criteria": {
       "has_white_dye": "2025-01-12 18:50:02 +0000"
@@ -5950,6 +6052,12 @@
   "croptopia:recipes/campfire_baked_beans": {
     "criteria": {
       "has_beans": "2024-12-23 04:02:12 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -6205,6 +6313,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-12 21:25:54 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/trail_mix": {
     "criteria": {
       "has_nuts": "2024-12-23 02:54:57 +0000"
@@ -6269,6 +6383,7 @@
       "bread": "2024-12-23 03:04:38 +0000",
       "golden_apple": "2024-12-28 23:14:41 +0000",
       "rotten_flesh": "2024-12-28 23:11:25 +0000",
+      "melon_slice": "2025-01-12 21:37:05 +0000",
       "carrot": "2024-12-28 23:12:14 +0000"
     },
     "done": false
@@ -6330,6 +6445,12 @@
   "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
     "criteria": {
       "has_copper_ore": "2025-01-12 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_brick_stairs_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -6456,6 +6577,12 @@
   "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
       "has_wheat": "2024-12-27 18:42:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -6885,6 +7012,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2024-12-27 19:01:03 +0000"
@@ -6972,6 +7105,12 @@
   "create:recipes/create.palettes/cut_diorite_brick_slab_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-23 02:59:05 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/layered_scoria_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -7323,6 +7462,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/small_scoria_bricks_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -7458,6 +7603,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2024-12-27 18:54:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/small_scoria_brick_slab_from_stone_types_scoria_stonecutting": {
+    "criteria": {
+      "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
     },
     "done": true
   },
@@ -7608,6 +7759,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2024-12-29 00:35:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-01-12 21:26:56 +0000"
     },
     "done": true
   },

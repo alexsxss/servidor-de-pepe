@@ -317,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/creeper_banner_pattern": {
+    "criteria": {
+      "has_creeper_head": "2025-01-12 22:01:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/wooden_boomerang": {
     "criteria": {
       "has_wood": "2025-01-11 02:42:22 +0000"
@@ -1777,6 +1783,12 @@
     },
     "done": true
   },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "creeper_head": "2025-01-12 22:01:13 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/diamond_chestplate": {
     "criteria": {
       "has_diamond": "2025-01-12 17:27:39 +0000"
@@ -2981,6 +2993,12 @@
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-01-11 02:31:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-01-12 21:41:05 +0000"
     },
     "done": true
   },
@@ -4295,6 +4313,12 @@
     },
     "done": true
   },
+  "minecraft:nether/summon_wither": {
+    "criteria": {
+      "summoned": "2025-01-12 21:25:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_stairs_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2025-01-12 05:47:26 +0000"
@@ -4642,6 +4666,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-01-12 00:32:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-01-12 21:40:59 +0000"
     },
     "done": true
   },
