@@ -689,3 +689,27 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 20:25:57.027] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/216295, l='ServerLevel[world]', x=1215.50, y=57.00, z=973.50]
 [12Jan2025 20:28:49.946] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Reaping What You Sow]
 [12Jan2025 20:29:13.650] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD moved wrongly!
+[12Jan2025 20:32:30.448] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 20:33:49.007] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[12Jan2025 20:33:49.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[12Jan2025 20:33:49.008] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[12Jan2025 20:33:49.008] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 20:36:12.901] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[12Jan2025 20:36:12.901] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[12Jan2025 20:36:12.901] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[12Jan2025 20:36:12.902] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 20:38:11.117] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@35d4b4b0
+[12Jan2025 20:38:11.123] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Garetexe[/127.96.160.164:48657] logged in with entity id 233187 at (-299.69999998807907, 47.0, 156.89063779690954)
+[12Jan2025 20:38:11.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe joined the game
+[12Jan2025 20:38:11.138] [Server thread/INFO] [Waila/]: Syncing config to Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640)
+[12Jan2025 20:38:11.138] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player Garetexe just logged in with id e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 20:38:11.142] [ForkJoinPool-5-worker-17/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 20:38:11.144] [ForkJoinPool-5-worker-17/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
+[12Jan2025 20:38:11.284] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Garetexe (18)
+[12Jan2025 20:38:11.284] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Garetexe
+[12Jan2025 20:38:12.100] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 20:38:13.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player e6153624-6ec9-3768-bf1f-51eb9dc95640
+[12Jan2025 20:38:13.104] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player Garetexe (e6153624-6ec9-3768-bf1f-51eb9dc95640) successfully connected to voice chat
+[12Jan2025 20:39:11.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Spooky Scary Skeleton]
+[12Jan2025 20:40:43.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/234912, l='ServerLevel[world]', x=-185.70, y=66.00, z=-1226.30] died, message: 'Leatherworker was slain by Zombie'
+[12Jan2025 20:40:49.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234911, l='ServerLevel[world]', x=-185.70, y=66.00, z=-1226.30] died, message: 'Unemployed was slain by Zombie'
