@@ -191,6 +191,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/cooked_calamari_from_smoking_calamari": {
     "criteria": {
       "has_calamari": "2025-01-12 17:21:00 +0000"
@@ -374,6 +380,12 @@
   "create:recipes/create.palettes/cut_tuff_slab_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-28 22:46:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -605,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/handle_from_leather": {
     "criteria": {
       "has_stick": "2024-12-28 22:15:57 +0000"
@@ -708,6 +726,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2024-12-27 18:54:01 +0000"
@@ -735,6 +759,12 @@
   "minecraft:recipes/decorations/prismarine_wall_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine": "2025-01-12 02:37:09 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -771,6 +801,12 @@
   "minecraft:recipes/combat/netherite_boots_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-12 00:56:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -1041,6 +1077,12 @@
   "securitycraft:recipes/securitycraft/cage_trap": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-12 18:38:31 +0000"
     },
     "done": true
   },
@@ -1537,6 +1579,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2024-12-27 19:08:26 +0000"
@@ -1923,6 +1971,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/purple_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/cobbled_deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
@@ -2082,6 +2136,12 @@
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -2300,6 +2360,12 @@
       "has_diamond": "2024-12-28 22:46:26 +0000"
     },
     "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-01-12 18:51:18 +0000"
+    },
+    "done": false
   },
   "spartanweaponry:recipes/spartanweaponry.basic/simple_handle": {
     "criteria": {
@@ -2644,6 +2710,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_quarterstaff": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
@@ -2731,6 +2803,12 @@
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2024-12-23 04:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -3112,6 +3190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brown_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/molasses_from_smoking_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-27 18:39:57 +0000"
@@ -3301,6 +3385,12 @@
   "alexsmobs:recipes/misc/cockroach_wing": {
     "criteria": {
       "has_items": "2025-01-12 02:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -3562,6 +3652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:04 +0000"
@@ -3571,6 +3667,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-12-23 03:03:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -4164,6 +4266,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
     "criteria": {
       "has_iron": "2024-12-23 03:03:33 +0000"
@@ -4245,6 +4353,12 @@
   "create:recipes/create.base/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2024-12-23 03:36:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -4616,6 +4730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 22:15:57 +0000"
@@ -4655,6 +4775,12 @@
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2024-12-28 23:02:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -4917,6 +5043,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/roasted_pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin_seed": "2025-01-12 19:00:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/skelewag": {
     "criteria": {
       "killed": "2025-01-12 04:41:07 +0000"
@@ -5017,6 +5149,12 @@
   "minecraft:recipes/building_blocks/prismarine_brick_slab_from_prismarine_stonecutting": {
     "criteria": {
       "has_prismarine_brick": "2025-01-12 02:49:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -5239,6 +5377,12 @@
   "croptopia:recipes/toast_with_jam": {
     "criteria": {
       "has_toast": "2024-12-27 21:54:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -5545,6 +5689,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/alarm": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
@@ -5554,6 +5704,12 @@
   "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
       "has_soul_sand": "2024-12-29 00:14:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -5764,6 +5920,12 @@
   "croptopia:recipes/croptopia.croptopia/starfruit_sapling": {
     "criteria": {
       "has_starfruit": "2024-12-23 03:55:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -6069,6 +6231,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2024-12-23 03:16:25 +0000"
@@ -6111,6 +6279,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
@@ -6138,6 +6312,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 22:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },
@@ -6447,6 +6627,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2024-12-23 04:06:55 +0000"
@@ -6633,6 +6819,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
+    "criteria": {
+      "recipe_condition2": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_wall_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-27 19:39:43 +0000"
@@ -6810,6 +7002,12 @@
   "croptopia:recipes/chicken_and_rice": {
     "criteria": {
       "has_chicken": "2024-12-22 20:46:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_white_dye": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -7137,6 +7335,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-01-12 18:51:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/deepslate_mine": {
     "criteria": {
       "has_mine": "2024-12-23 03:16:36 +0000"
@@ -7224,6 +7428,12 @@
   "create:recipes/create.base/crafting/kinetics/steam_whistle": {
     "criteria": {
       "has_item": "2024-12-27 20:06:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_carpet_from_white_carpet": {
+    "criteria": {
+      "has_white_carpet": "2025-01-12 18:45:17 +0000"
     },
     "done": true
   },

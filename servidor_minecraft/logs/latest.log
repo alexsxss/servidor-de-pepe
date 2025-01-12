@@ -486,3 +486,35 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 18:21:18.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1317, y=74, z=46} BlockPos{x=1317, y=74, z=44}
 [12Jan2025 18:21:18.454] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1317, y=74, z=46} BlockPos{x=1317, y=74, z=44}
 [12Jan2025 18:21:40.299] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1303, y=77, z=45} BlockPos{x=1302, y=74, z=46}
+[12Jan2025 18:29:35.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <elblak004> elpepe
+[12Jan2025 18:36:42.683] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 has made the advancement [Quite the Renovation]
+[12Jan2025 18:38:31.857] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Masquerade]
+[12Jan2025 18:51:18.142] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [The Parrots and the Bats]
+[12Jan2025 18:55:12.614] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> tt
+[12Jan2025 18:55:27.893] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> que
+[12Jan2025 18:55:49.092] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> aqui ahy gente chimiando
+[12Jan2025 18:58:16.691] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[12Jan2025 18:58:16.691] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[12Jan2025 18:58:16.692] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[12Jan2025 18:58:21.898] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3d04acba
+[12Jan2025 18:58:21.905] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:46059] logged in with entity id 103495 at (1407.8066854754682, 68.0, -63.221456767252015)
+[12Jan2025 18:58:21.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[12Jan2025 18:58:21.939] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[12Jan2025 18:58:21.940] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 18:58:21.941] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 18:58:22.202] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[12Jan2025 18:58:22.202] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 18:58:23.934] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 18:58:23.934] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 18:58:24.033] [ForkJoinPool-5-worker-9/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 18:58:25.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 18:58:26.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 18:58:26.046] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
+[12Jan2025 18:58:35.815] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> me sali por erro
+[12Jan2025 19:01:46.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> duerma pls
+[12Jan2025 19:02:52.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> me pueden carbón o antorchas pls
+[12Jan2025 19:03:36.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> pero la estoy usando para la casa
+[12Jan2025 19:03:47.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> no tienes antorchas
+[12Jan2025 19:06:47.139] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@928fbff
+[12Jan2025 19:06:59.746] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> no hay una antorcha mejor??
+[12Jan2025 19:07:35.521] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> gracias

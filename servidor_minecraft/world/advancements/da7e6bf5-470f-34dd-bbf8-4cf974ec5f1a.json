@@ -4548,7 +4548,8 @@
   "betterdungeons:all_dungeons": {
     "criteria": {
       "in_better_zombie_dungeon": "2024-12-22 15:08:24 +0000",
-      "in_better_spider_dungeon": "2024-12-22 01:30:30 +0000"
+      "in_better_spider_dungeon": "2024-12-22 01:30:30 +0000",
+      "in_better_monster_room": "2025-01-12 18:36:42 +0000"
     },
     "done": false
   },
@@ -5848,6 +5849,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 00:06:26 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:small_dungeon": {
+    "criteria": {
+      "in_better_monster_room": "2025-01-12 18:36:42 +0000"
     },
     "done": true
   },
