@@ -584,3 +584,29 @@ Timestamp,Player Name,Player UUID,Class,ID,Name,Position,Change,Old Data,New Dat
     -526977496524728842
   ]
 }"
+"2025-01-12T20:37:02.323Z","GhostSaintRD","109f6a92-377e-3cc5-be0d-ef354efa063c","mtr.data.Route","[-4384234547230158249]","1","","DELETE","{
+  ""id"": -4384234547230158249,
+  ""transport_mode"": ""TRAIN"",
+  ""name"": ""1"",
+  ""color"": 10491066,
+  ""platform_ids"": [
+    3039651472770847376,
+    -724154144081538667,
+    7125875103425886793,
+    8856239137531478106,
+    7273813304548800009
+  ],
+  ""custom_destinations"": [
+    """",
+    """",
+    """",
+    """",
+    """"
+  ],
+  ""route_type"": ""NORMAL"",
+  ""is_light_rail_route"": false,
+  ""is_route_hidden"": false,
+  ""disable_next_station_announcements"": false,
+  ""light_rail_route_number"": """",
+  ""circular_state"": ""NONE""
+}","{}"

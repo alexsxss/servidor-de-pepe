@@ -713,3 +713,7 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 20:39:11.952] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has made the advancement [Spooky Scary Skeleton]
 [12Jan2025 20:40:43.297] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Leatherworker'/234912, l='ServerLevel[world]', x=-185.70, y=66.00, z=-1226.30] died, message: 'Leatherworker was slain by Zombie'
 [12Jan2025 20:40:49.789] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/234911, l='ServerLevel[world]', x=-185.70, y=66.00, z=-1226.30] died, message: 'Unemployed was slain by Zombie'
+[12Jan2025 20:45:37.250] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[12Jan2025 20:45:38.547] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[12Jan2025 20:51:12.394] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[12Jan2025 20:51:15.940] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
