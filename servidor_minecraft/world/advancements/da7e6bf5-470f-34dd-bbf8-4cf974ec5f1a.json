@@ -371,6 +371,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2024-12-27 20:49:55 +0000"
@@ -398,6 +404,12 @@
   "securitycraft:recipes/securitycraft/keypad_door_item": {
     "criteria": {
       "has_reinforced_door": "2024-12-27 19:49:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
     },
     "done": true
   },
@@ -979,6 +991,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed_by": "2025-01-12 19:33:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -1060,6 +1078,12 @@
   "minecraft:recipes/decorations/cyan_glazed_terracotta": {
     "criteria": {
       "has_cyan_terracotta": "2024-12-28 03:04:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
     },
     "done": true
   },
@@ -5164,6 +5188,7 @@
       "minecraft:pillager": "2025-01-12 02:00:51 +0000",
       "minecraft:skeleton": "2024-12-22 01:15:59 +0000",
       "minecraft:ravager": "2025-01-12 02:02:46 +0000",
+      "minecraft:hoglin": "2025-01-12 19:32:17 +0000",
       "minecraft:vindicator": "2025-01-12 02:01:12 +0000",
       "minecraft:spider": "2024-12-22 00:15:21 +0000",
       "minecraft:piglin_brute": "2025-01-11 03:54:29 +0000",
@@ -7511,6 +7536,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_dark_oak_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_heavy_crossbow": {
     "criteria": {
       "has_diamond": "2024-12-28 02:44:04 +0000"
@@ -7520,6 +7551,12 @@
   "minecraft:recipes/building_blocks/cyan_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-23 03:18:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_crimson_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
     },
     "done": true
   },
@@ -8003,6 +8040,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/inception_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
@@ -8285,6 +8328,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:45:13 +0000"
@@ -8372,6 +8421,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-01-12 19:19:54 +0000"
     },
     "done": true
   },

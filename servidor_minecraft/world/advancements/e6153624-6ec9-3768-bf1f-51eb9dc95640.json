@@ -1637,7 +1637,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2024-12-29 00:26:49 +0000",
       "minecraft:nether_wastes": "2024-12-29 00:13:27 +0000",
-      "minecraft:warped_forest": "2024-12-29 00:53:02 +0000"
+      "minecraft:warped_forest": "2024-12-29 00:53:02 +0000",
+      "minecraft:basalt_deltas": "2025-01-12 19:35:26 +0000"
     },
     "done": false
   },
@@ -2884,6 +2885,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-01-12 19:36:29 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_granite_brick_slab_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
@@ -3343,6 +3350,12 @@
   "spartanweaponry:battle_hammer": {
     "criteria": {
       "has_battle_hammer": "2024-12-28 22:39:28 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/transportation/straddle_saddle": {
+    "criteria": {
+      "has_items": "2025-01-12 19:36:43 +0000"
     },
     "done": true
   },
@@ -4763,6 +4776,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/netherite_glaive_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-12 00:56:11 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/straddle_helmet": {
+    "criteria": {
+      "has_items": "2025-01-12 19:36:43 +0000"
     },
     "done": true
   },
@@ -6339,6 +6358,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/building_blocks/straddlite_block": {
+    "criteria": {
+      "has_items": "2025-01-12 19:36:43 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_rapier": {
     "criteria": {
       "has_diamond": "2024-12-28 22:46:26 +0000"
@@ -7008,6 +7033,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_white_dye": "2025-01-12 18:50:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/transportation/straddleboard": {
+    "criteria": {
+      "has_items": "2025-01-12 19:36:43 +0000"
     },
     "done": true
   },
