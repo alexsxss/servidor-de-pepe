@@ -812,3 +812,22 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 21:49:49.559] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1441, y=66, z=1} BlockPos{x=1441, y=66, z=0}
 [12Jan2025 21:49:55.445] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=66, z=1} BlockPos{x=1448, y=66, z=1}
 [12Jan2025 21:49:55.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1449, y=66, z=1} BlockPos{x=1448, y=66, z=1}
+[12Jan2025 22:04:06.700] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> tienen cristal pls
+[12Jan2025 22:06:26.836] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Reaping What You Sow]
+[12Jan2025 22:07:53.315] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD fell from a high place
+[12Jan2025 22:09:19.660] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD has made the advancement [Enchanter]
+[12Jan2025 22:10:44.709] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2f1010da-94cd-30a0-8690-2034ac5e709a timed out
+[12Jan2025 22:10:44.718] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player EddyChael
+[12Jan2025 22:10:44.719] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 22:11:33.407] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2ee44340
+[12Jan2025 22:11:33.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elblak004[/127.172.198.179:49875] logged in with entity id 299072 at (-263.8706227046376, 0.0, -1251.017136152066)
+[12Jan2025 22:11:33.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 joined the game
+[12Jan2025 22:11:33.424] [Server thread/INFO] [Waila/]: Syncing config to elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a)
+[12Jan2025 22:11:33.425] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player elblak004 just logged in with id da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 22:11:33.429] [ForkJoinPool-5-worker-20/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local skin for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 22:11:33.431] [ForkJoinPool-5-worker-20/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Loading local cape for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[12Jan2025 22:11:34.067] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of elblak004 (18)
+[12Jan2025 22:11:34.068] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to elblak004
+[12Jan2025 22:11:36.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 22:11:37.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
+[12Jan2025 22:11:37.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat

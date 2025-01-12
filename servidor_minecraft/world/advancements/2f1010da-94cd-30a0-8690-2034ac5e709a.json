@@ -2795,6 +2795,7 @@
   },
   "spartanweaponry:collect_heads": {
     "criteria": {
+      "zombie_head": "2025-01-12 22:04:26 +0000",
       "blaze_head": "2025-01-12 21:15:18 +0000"
     },
     "done": false
