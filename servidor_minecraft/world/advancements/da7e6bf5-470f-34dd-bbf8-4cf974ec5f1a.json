@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-01-12 02:12:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -563,6 +569,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/crema": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-27 21:07:25 +0000"
@@ -877,6 +889,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_button": {
+    "criteria": {
+      "has_block": "2025-01-12 01:47:37 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/small_diorite_brick_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
@@ -1030,6 +1048,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/leather_longbow": {
     "criteria": {
       "has_leather": "2024-12-28 02:34:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lapis_lazuli_from_blasting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-12 02:18:12 +0000"
     },
     "done": true
   },
@@ -1237,6 +1261,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-01-12 00:50:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/golden_throwing_knife": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:45:13 +0000"
@@ -1288,6 +1318,12 @@
   "comforts:sleeping_bag_orange_from_white": {
     "criteria": {
       "has_sleeping_bag": "2024-12-22 00:27:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-01-12 02:21:42 +0000"
     },
     "done": true
   },
@@ -1459,6 +1495,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-01-12 01:47:37 +0000"
+    },
+    "done": true
+  },
   "comforts:rope_and_nail": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
@@ -1552,6 +1594,12 @@
   "croptopia:recipes/croptopia.croptopia/almond_sapling": {
     "criteria": {
       "has_almond": "2024-12-23 03:04:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-01-12 02:53:22 +0000"
     },
     "done": true
   },
@@ -1825,6 +1873,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-12 01:25:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2024-12-27 20:50:48 +0000"
@@ -1874,6 +1928,12 @@
   "securitycraft:recipes/securitycraft/red_lens": {
     "criteria": {
       "has_glass_pane": "2024-12-27 19:59:22 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_filter_upgrade": {
+    "criteria": {
+      "has_filter_upgrade": "2025-01-12 02:11:01 +0000"
     },
     "done": true
   },
@@ -2416,6 +2476,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/cestus": {
     "criteria": {
       "has_wool": "2024-12-28 02:05:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-01-12 01:25:26 +0000"
     },
     "done": true
   },
@@ -3133,6 +3199,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-12 01:12:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-12-21 17:17:10 +0000"
@@ -3190,6 +3262,12 @@
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2024-12-27 19:20:46 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-01-12 01:47:37 +0000"
     },
     "done": true
   },
@@ -3787,6 +3865,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_dark_oak_slab": {
+    "criteria": {
+      "has_block": "2025-01-12 01:47:37 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -3916,6 +4000,12 @@
   "create:recipes/create.base/crafting/kinetics/item_vault": {
     "criteria": {
       "has_item": "2024-12-22 15:33:54 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_milk_bottle": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
     },
     "done": true
   },
@@ -4431,6 +4521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-01-12 01:43:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2024-12-29 01:55:53 +0000"
@@ -4486,6 +4582,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/banana_cream_pie": {
+    "criteria": {
+      "has_banana": "2025-01-12 02:21:42 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/roasted_smoking": {
     "criteria": {
       "has_nut": "2024-12-22 00:15:16 +0000"
@@ -4501,6 +4603,12 @@
   "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
       "has_emerald": "2024-12-29 01:31:18 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/butter": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
     },
     "done": true
   },
@@ -4537,6 +4645,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/netherite_dagger_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-11 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2025-01-12 01:12:16 +0000"
     },
     "done": true
   },
@@ -4786,6 +4900,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-01-12 02:25:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
@@ -5022,7 +5142,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-01-12 02:00:51 +0000",
       "minecraft:skeleton": "2024-12-22 01:15:59 +0000",
+      "minecraft:ravager": "2025-01-12 02:02:46 +0000",
+      "minecraft:vindicator": "2025-01-12 02:01:12 +0000",
       "minecraft:spider": "2024-12-22 00:15:21 +0000",
       "minecraft:piglin_brute": "2025-01-11 03:54:29 +0000",
       "minecraft:creeper": "2024-12-27 21:12:22 +0000",
@@ -5129,6 +5252,12 @@
   "securitycraft:recipes/securitycraft/retinal_scanner": {
     "criteria": {
       "has_stone": "2024-12-27 19:41:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-01-12 02:01:12 +0000"
     },
     "done": true
   },
@@ -5589,6 +5718,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/banana_smoothie": {
+    "criteria": {
+      "has_banana": "2025-01-12 02:21:42 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2024-12-22 00:47:00 +0000"
@@ -5610,6 +5745,12 @@
   "croptopia:recipes/shaped_bacon": {
     "criteria": {
       "has_porkchop": "2024-12-22 14:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-12 01:44:56 +0000"
     },
     "done": true
   },
@@ -5740,6 +5881,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/doughnut": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/molasses_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2024-12-22 00:22:13 +0000"
@@ -5749,6 +5896,12 @@
   "securitycraft:recipes/securitycraft/reinforced_tinted_glass": {
     "criteria": {
       "has_amethyst_shard": "2024-12-27 21:07:25 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/croptopia.croptopia/mashed_potatoes": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
     },
     "done": true
   },
@@ -5916,7 +6069,9 @@
       "minecraft:forest": "2024-12-22 01:22:14 +0000",
       "minecraft:lush_caves": "2024-12-22 00:59:39 +0000",
       "minecraft:deep_cold_ocean": "2025-01-11 21:13:07 +0000",
+      "minecraft:frozen_ocean": "2025-01-12 03:10:55 +0000",
       "minecraft:windswept_forest": "2025-01-11 22:34:08 +0000",
+      "minecraft:deep_frozen_ocean": "2025-01-12 03:10:40 +0000",
       "minecraft:ocean": "2024-12-23 02:50:49 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-27 18:46:13 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 11:58:11 +0000",
@@ -6067,6 +6222,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
     "criteria": {
       "has_polished_andesite": "2024-12-29 01:58:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/grindstone": {
+    "criteria": {
+      "has_stone_slab": "2025-01-12 01:34:01 +0000"
     },
     "done": true
   },
@@ -6413,6 +6574,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-01-12 02:02:55 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2024-12-22 15:19:38 +0000"
@@ -6440,6 +6607,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2024-12-27 19:50:42 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spartanweaponry.arrows_bolts/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-12 01:44:56 +0000"
     },
     "done": true
   },
@@ -6659,6 +6832,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/cheese": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2024-12-21 16:47:36 +0000"
@@ -6752,6 +6931,12 @@
   "create:recipes/create.palettes/polished_cut_crimsite_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2024-12-29 02:13:38 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/oatmeal": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
     },
     "done": true
   },
@@ -7061,6 +7246,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-01-12 01:44:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2024-12-22 15:44:10 +0000"
@@ -7193,6 +7384,12 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-01-12 02:25:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -7238,6 +7435,12 @@
   "create:recipes/create.palettes/polished_cut_scoria_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2024-12-27 20:58:07 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/churros": {
+    "criteria": {
+      "has_milk": "2025-01-12 03:07:39 +0000"
     },
     "done": true
   },
@@ -8033,6 +8236,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli_from_smelting_lapis_ore": {
+    "criteria": {
+      "has_lapis_ore": "2025-01-12 02:18:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2024-12-27 19:50:42 +0000"
@@ -8048,6 +8257,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/golden_parrying_dagger": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 02:45:13 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/banana_nut_bread": {
+    "criteria": {
+      "has_banana": "2025-01-12 02:21:42 +0000"
     },
     "done": true
   },
