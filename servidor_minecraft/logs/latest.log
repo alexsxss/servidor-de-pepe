@@ -831,3 +831,25 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 22:11:36.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
 [12Jan2025 22:11:37.272] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
 [12Jan2025 22:11:37.273] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[12Jan2025 22:14:57.701] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[12Jan2025 22:14:57.701] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[12Jan2025 22:14:57.702] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[12Jan2025 22:16:31.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was blown up by Wither
+[12Jan2025 22:16:47.734] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was shot by a skull from Wither
+[12Jan2025 22:17:11.785] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was blown up by Wither
+[12Jan2025 22:17:22.993] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3a506f82
+[12Jan2025 22:17:23.000] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:48595] logged in with entity id 307669 at (946.3337724535135, 22.0, 128.3968400922084)
+[12Jan2025 22:17:23.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[12Jan2025 22:17:23.010] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[12Jan2025 22:17:23.011] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 22:17:23.013] [ForkJoinPool-5-worker-21/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 22:17:23.598] [ForkJoinPool-5-worker-21/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 22:17:23.598] [ForkJoinPool-5-worker-21/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 22:17:23.726] [ForkJoinPool-5-worker-21/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 22:17:24.508] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[12Jan2025 22:17:24.508] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 22:17:26.538] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was shot by a skull from Wither
+[12Jan2025 22:17:30.800] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 22:17:31.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 22:17:31.803] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
+[12Jan2025 22:18:24.798] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was shot by Garetexe

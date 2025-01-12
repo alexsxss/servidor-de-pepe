@@ -1786,6 +1786,7 @@
   "spartanweaponry:collect_heads": {
     "criteria": {
       "creeper_head": "2025-01-12 22:01:13 +0000",
+      "zombie_head": "2025-01-12 22:11:56 +0000",
       "spider_head": "2025-01-12 22:02:30 +0000"
     },
     "done": false
