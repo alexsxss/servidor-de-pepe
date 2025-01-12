@@ -734,3 +734,52 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 21:00:49.205] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 109f6a92-377e-3cc5-be0d-ef354efa063c
 [12Jan2025 21:00:50.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 109f6a92-377e-3cc5-be0d-ef354efa063c
 [12Jan2025 21:00:50.207] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c) successfully connected to voice chat
+[12Jan2025 21:08:07.824] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2f1010da-94cd-30a0-8690-2034ac5e709a timed out
+[12Jan2025 21:08:07.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player EddyChael
+[12Jan2025 21:08:07.825] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 21:08:45.544] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[12Jan2025 21:08:45.544] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[12Jan2025 21:08:45.545] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[12Jan2025 21:14:37.847] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@20117389
+[12Jan2025 21:14:37.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: EddyChael[/127.215.197.171:37165] logged in with entity id 256505 at (1363.1847458545594, 60.0, 26.261848381828326)
+[12Jan2025 21:14:37.862] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael joined the game
+[12Jan2025 21:14:37.898] [Server thread/INFO] [Waila/]: Syncing config to EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a)
+[12Jan2025 21:14:37.899] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player EddyChael just logged in with id 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 21:14:37.900] [ForkJoinPool-5-worker-19/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 21:14:38.902] [ForkJoinPool-5-worker-19/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 21:14:38.902] [ForkJoinPool-5-worker-19/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 21:14:39.024] [ForkJoinPool-5-worker-19/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/EddyChael
+[12Jan2025 21:14:39.617] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of EddyChael (18)
+[12Jan2025 21:14:39.618] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 21:14:47.204] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 21:14:48.198] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 2f1010da-94cd-30a0-8690-2034ac5e709a
+[12Jan2025 21:14:48.199] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player EddyChael (2f1010da-94cd-30a0-8690-2034ac5e709a) successfully connected to voice chat
+[12Jan2025 21:16:37.687] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:37.839] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:37.992] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.138] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.435] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.588] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:38.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.038] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 12.210604354049792,0.0,-1.6873157482072827
+[12Jan2025 21:16:39.639] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.738] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[12Jan2025 21:16:39.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 14.728111815569036,0.0,-1.860211027468246
+[12Jan2025 21:16:40.034] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 15.067652113938948,0.0,-1.9237244471359176
+[12Jan2025 21:16:40.192] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 15.098059150975587,0.0,-1.8077181641951725
+[12Jan2025 21:16:40.389] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 15.44029148412892,0.0,-1.0482628653145198
+[12Jan2025 21:16:40.592] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 17.084617349025166,0.0,-0.04434420884174273
+[12Jan2025 21:16:40.740] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 18.481165696622384,0.0,0.06825865358631944
+[12Jan2025 21:16:40.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 19.561319946661797,0.0,0.20530408691865176
+[12Jan2025 21:16:41.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 19.93902808560665,0.0,0.3017154253036267
+[12Jan2025 21:16:41.194] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 20.458555291799257,0.0,-0.042528070963079756
+[12Jan2025 21:16:41.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 21.351184882935513,0.0,-0.28093191762332026
+[12Jan2025 21:16:41.487] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 22.093607167257233,0.0,-0.1578353828174457
+[12Jan2025 21:16:41.637] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 22.78250583822455,0.0,-0.0983604835254539
+[12Jan2025 21:16:41.794] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 23.455427973386804,0.0,-0.10604526166176953
+[12Jan2025 21:16:41.940] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 24.207245483646602,0.0,-0.7822816559537245
