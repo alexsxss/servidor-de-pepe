@@ -305,3 +305,40 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [12Jan2025 16:56:55.216] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> ya se me bugleo el teclado
 [12Jan2025 17:02:21.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> guillermo
 [12Jan2025 17:05:44.912] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> guillermo entra al grupo
+[12Jan2025 17:07:22.633] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael has made the advancement [Blunt-force Trauma]
+[12Jan2025 17:07:50.302] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@17820c56
+[12Jan2025 17:07:50.315] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: GhostSaintRD[/127.167.223.207:35035] logged in with entity id 6928 at (1362.5084363912333, 73.0, 43.3908607711204)
+[12Jan2025 17:07:50.326] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD joined the game
+[12Jan2025 17:07:50.337] [Server thread/INFO] [Waila/]: Syncing config to GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c)
+[12Jan2025 17:07:50.343] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Player GhostSaintRD just logged in with id 109f6a92-377e-3cc5-be0d-ef354efa063c
+[12Jan2025 17:07:50.350] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[12Jan2025 17:07:51.010] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of GhostSaintRD (18)
+[12Jan2025 17:07:51.011] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to GhostSaintRD
+[12Jan2025 17:07:51.335] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[12Jan2025 17:07:51.335] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[12Jan2025 17:07:51.427] [ForkJoinPool-5-worker-2/INFO] [me.edoren.skin_changer.common.NetworkUtils/]: Error downloading file https://playerdb.co/api/player/minecraft/GhostSaintRD
+[12Jan2025 17:07:59.148] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player 109f6a92-377e-3cc5-be0d-ef354efa063c
+[12Jan2025 17:08:00.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player 109f6a92-377e-3cc5-be0d-ef354efa063c
+[12Jan2025 17:08:00.149] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player GhostSaintRD (109f6a92-377e-3cc5-be0d-ef354efa063c) successfully connected to voice chat
+[12Jan2025 17:09:30.845] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> ustedes estan hablando por el juego
+[12Jan2025 17:09:36.572] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> si
+[12Jan2025 17:09:40.769] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> que gays
+[12Jan2025 17:09:44.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD is bleeding. GhostSaintRD was slain by Garetexe
+[12Jan2025 17:09:47.338] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <EddyChael> wtf
+[12Jan2025 17:10:05.223] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> ven a ve
+[12Jan2025 17:10:10.358] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> como vuelo
+[12Jan2025 17:10:14.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> ayuda
+[12Jan2025 17:10:22.309] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> baja el asensor
+[12Jan2025 17:10:54.368] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <GhostSaintRD> alv
+[12Jan2025 17:11:39.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player 2f1010da-94cd-30a0-8690-2034ac5e709a timed out
+[12Jan2025 17:11:39.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Reconnecting player EddyChael
+[12Jan2025 17:11:39.008] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Sent secret to EddyChael
+[12Jan2025 17:12:02.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> pero ativate el chat de vos
+[12Jan2025 17:13:22.430] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Jan2025 17:13:22.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: no<--[HERE]
+[12Jan2025 17:13:38.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Unknown or incomplete command, see below for error
+[12Jan2025 17:13:38.350] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: xd<--[HERE]
+[12Jan2025 17:13:47.642] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[12Jan2025 17:13:47.642] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[12Jan2025 17:13:47.643] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[12Jan2025 17:15:48.587] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Garetexe> metete a la llamada
