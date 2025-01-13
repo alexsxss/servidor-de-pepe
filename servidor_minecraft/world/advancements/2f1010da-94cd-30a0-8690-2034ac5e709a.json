@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_brown2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks": {
     "criteria": {
       "has_stone": "2024-12-22 14:15:49 +0000"
@@ -2138,6 +2144,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/magnet_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-13 00:18:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-22 14:35:21 +0000"
@@ -2147,6 +2159,12 @@
   "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
     "criteria": {
       "has_glass_colorless": "2024-12-23 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_blue2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -2438,6 +2456,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_cyan2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_veridium_brick_wall_from_stone_types_veridium_stonecutting": {
     "criteria": {
       "has_stone_types_veridium": "2024-12-22 15:13:54 +0000"
@@ -2657,6 +2681,12 @@
   "alexsmobs:alexsmobs/rattlesnake": {
     "criteria": {
       "killed": "2025-01-12 03:53:38 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_pane3": {
+    "criteria": {
+      "recipe_condition": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -3262,6 +3292,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/borderless_glass_orange2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/rocky_roller": {
     "criteria": {
       "killed_by": "2024-12-22 15:54:50 +0000"
@@ -3571,6 +3607,12 @@
   "alexsmobs:alexsmobs/guster": {
     "criteria": {
       "killed_by": "2024-12-22 15:45:24 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-01-13 00:11:48 +0000"
     },
     "done": true
   },
@@ -4228,6 +4270,12 @@
     },
     "done": true
   },
+  "connectedglass:recipes/connectedglass/clear_glass1": {
+    "criteria": {
+      "recipe_condition": "2025-01-13 00:24:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2024-12-28 22:37:56 +0000"
@@ -4249,6 +4297,12 @@
   "minecraft:recipes/redstone/jungle_door": {
     "criteria": {
       "has_planks": "2025-01-12 02:32:24 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_magenta2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -4905,6 +4959,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_magnet_upgrade": {
+    "criteria": {
+      "has_advanced_pickup_upgrade": "2025-01-13 00:19:05 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/taser": {
     "criteria": {
       "has_redstone": "2024-12-22 17:54:13 +0000"
@@ -5338,6 +5398,12 @@
   "minecraft:recipes/decorations/brown_glazed_terracotta": {
     "criteria": {
       "has_brown_terracotta": "2024-12-22 18:31:33 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_light_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -5875,6 +5941,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_pickup_upgrade": {
+    "criteria": {
+      "has_pickup_upgrade": "2025-01-13 00:18:37 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:dagger": {
     "criteria": {
       "has_dagger": "2024-12-28 22:39:24 +0000"
@@ -5902,6 +5974,12 @@
   "croptopia:recipes/croptopia.croptopia/banana_smoothie": {
     "criteria": {
       "has_banana": "2025-01-12 02:16:19 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_lime2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -5938,6 +6016,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2024-12-21 16:51:52 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_gray2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -6077,6 +6161,12 @@
   "croptopia:recipes/croptopia.croptopia/squash_seed": {
     "criteria": {
       "has_squash": "2024-12-22 01:24:54 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_green2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -7326,6 +7416,12 @@
     },
     "done": true
   },
+  "spartanweaponry:upgrade_netherite_weapon": {
+    "criteria": {
+      "has_netherite_weapon": "2025-01-13 00:11:48 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_longsword": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:56:28 +0000"
@@ -7371,6 +7467,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:14:45 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_pink2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -7845,6 +7947,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2024-12-22 15:05:47 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_yellow2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
@@ -8481,6 +8589,12 @@
   "securitycraft:recipes/securitycraft/reinforced_white_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:22:52 +0000"
+    },
+    "done": true
+  },
+  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
+    "criteria": {
+      "recipe_condition1": "2025-01-13 00:24:10 +0000"
     },
     "done": true
   },
