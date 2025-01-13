@@ -3847,6 +3847,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/shaped_buttered_green_beans": {
+    "criteria": {
+      "has_greenbeans": "2025-01-13 00:04:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/diamond_tomahawk": {
     "criteria": {
       "has_diamond": "2024-12-28 22:46:26 +0000"
@@ -4678,6 +4684,7 @@
   "croptopia:gather_all": {
     "criteria": {
       "blackbean_seed": "2024-12-23 04:02:12 +0000",
+      "greenbean_seed": "2025-01-13 00:04:37 +0000",
       "squash_seed": "2024-12-27 21:34:03 +0000"
     },
     "done": false
@@ -5897,6 +5904,12 @@
     },
     "done": true
   },
+  "croptopia:gather_plains": {
+    "criteria": {
+      "greenbean_seed": "2025-01-13 00:04:37 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/decorations/gray_banner": {
     "criteria": {
       "has_gray_wool": "2024-12-23 03:27:03 +0000"
@@ -6099,6 +6112,12 @@
   "create:recipes/create.palettes/polished_cut_andesite_stairs_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-23 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/shaped_steamed_green_beans": {
+    "criteria": {
+      "has_green_beans": "2025-01-13 00:04:36 +0000"
     },
     "done": true
   },
@@ -6915,9 +6934,21 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/greenbean_seed": {
+    "criteria": {
+      "has_greenbean": "2025-01-13 00:04:36 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_deepslate_stairs_from_stone_types_deepslate_stonecutting": {
     "criteria": {
       "has_stone_types_deepslate": "2025-01-12 02:16:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_full_beacon": {
+    "criteria": {
+      "beacon": "2025-01-13 00:10:32 +0000"
     },
     "done": true
   },
