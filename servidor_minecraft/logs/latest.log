@@ -87,3 +87,4 @@
 [13Jan2025 00:35:55.049] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
 [13Jan2025 00:35:55.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
 [13Jan2025 00:35:55.050] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[13Jan2025 00:46:05.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
