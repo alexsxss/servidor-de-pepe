@@ -88,3 +88,35 @@
 [13Jan2025 00:35:55.050] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
 [13Jan2025 00:35:55.050] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
 [13Jan2025 00:46:05.262] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael moved wrongly!
+[13Jan2025 01:02:04.994] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has completed the challenge [Cover Me in Debris]
+[13Jan2025 01:02:28.911] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe has reached the goal [Upgrade Me with Debris]
+[13Jan2025 01:04:18.802] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[13Jan2025 01:04:19.248] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[13Jan2025 01:04:19.751] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved wrongly!
+[13Jan2025 01:04:59.263] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,17.58119059450292,-0.10000000000000142
+[13Jan2025 01:04:59.504] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,20.686078454893543,-0.10000000000000142
+[13Jan2025 01:04:59.704] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,24.798670236462808,-0.10000000000000142
+[13Jan2025 01:04:59.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,26.993362142402006,-0.10000000000000142
+[13Jan2025 01:05:00.365] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,30.882253960078643,-0.10000000000000142
+[13Jan2025 01:05:00.490] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,36.82948110281989,-0.10000000000000142
+[13Jan2025 01:05:00.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,38.98262244272876,-0.10000000000000142
+[13Jan2025 01:05:00.956] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,42.955797090611384,-0.10000000000000142
+[13Jan2025 01:05:01.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,46.47200505291667,-0.10000000000000142
+[13Jan2025 01:05:01.551] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,49.250861930997516,-0.10000000000000142
+[13Jan2025 01:05:01.696] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,51.33375776377757,-0.10000000000000142
+[13Jan2025 01:05:01.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,52.72840169335014,-0.10000000000000142
+[13Jan2025 01:05:02.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,55.56166086181633,-0.10000000000000142
+[13Jan2025 01:05:02.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,56.708879092538645,0.0
+[13Jan2025 01:05:02.542] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,58.044556830819644,-0.10000000000000142
+[13Jan2025 01:05:02.885] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,59.921705988880234,-0.10000000000000142
+[13Jan2025 01:05:03.037] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,60.605612499433875,-0.10000000000000142
+[13Jan2025 01:05:03.187] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,61.2080735255159,-0.10000000000000142
+[13Jan2025 01:05:03.607] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,61.73065686993314,-0.10000000000000142
+[13Jan2025 01:05:03.892] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe moved too quickly! 0.0,62.75542485699339,-0.10000000000000142
+[13Jan2025 01:05:36.339] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: EddyChael lost connection: Disconnected
+[13Jan2025 01:05:36.340] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: EddyChael left the game
+[13Jan2025 01:05:36.340] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client EddyChael
+[13Jan2025 01:07:44.088] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Garetexe lost connection: Disconnected
+[13Jan2025 01:07:44.089] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Garetexe left the game
+[13Jan2025 01:07:44.089] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Garetexe
+[13Jan2025 01:07:44.089] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player Garetexe[e6153624-6ec9-3768-bf1f-51eb9dc95640]
