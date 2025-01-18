@@ -209,6 +209,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_button": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_stone_pickaxe": "2024-12-22 20:44:37 +0000"
@@ -930,12 +936,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-01-12 20:50:16 +0000"
@@ -1485,6 +1485,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2024-12-29 00:43:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
     },
     "done": true
   },
@@ -2519,6 +2525,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/combat/flying_fish_boots": {
+    "criteria": {
+      "has_items": "2025-01-18 03:42:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/keypad_frame": {
     "criteria": {
       "has_redstone": "2024-12-29 02:23:04 +0000"
@@ -2528,12 +2540,6 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-01-12 22:24:31 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -3406,6 +3412,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2024-12-22 20:44:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
     },
     "done": true
   },
@@ -4309,6 +4321,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_scoria_brick_wall_from_stone_types_scoria_stonecutting": {
     "criteria": {
       "has_stone_types_scoria": "2025-01-12 21:29:57 +0000"
@@ -4489,6 +4507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/spruce_door": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/fruit_smoothie": {
     "criteria": {
       "has_fruit": "2024-12-22 20:47:08 +0000"
@@ -4558,6 +4582,12 @@
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2024-12-23 03:23:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
     },
     "done": true
   },
@@ -4691,7 +4721,8 @@
     "criteria": {
       "blackbean_seed": "2024-12-23 04:02:12 +0000",
       "greenbean_seed": "2025-01-13 00:04:37 +0000",
-      "squash_seed": "2024-12-27 21:34:03 +0000"
+      "squash_seed": "2024-12-27 21:34:03 +0000",
+      "oat_seed": "2025-01-18 03:55:24 +0000"
     },
     "done": false
   },
@@ -4942,6 +4973,12 @@
     },
     "done": true
   },
+  "croptopia:recipes/croptopia.croptopia/oat_seed": {
+    "criteria": {
+      "has_oat": "2025-01-18 03:55:23 +0000"
+    },
+    "done": true
+  },
   "croptopia:recipes/croptopia.croptopia/lemon_sapling": {
     "criteria": {
       "has_lemon": "2024-12-23 03:56:04 +0000"
@@ -4969,12 +5006,6 @@
   "croptopia:recipes/buttered_toast": {
     "criteria": {
       "has_toast": "2024-12-27 21:54:10 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass1": {
-    "criteria": {
-      "recipe_condition": "2025-01-12 22:25:36 +0000"
     },
     "done": true
   },
@@ -5065,12 +5096,6 @@
   "minecraft:recipes/building_blocks/prismarine_brick_stairs": {
     "criteria": {
       "has_prismarine_bricks": "2025-01-12 02:49:20 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -5398,9 +5423,11 @@
       "minecraft:blaze": "2025-01-12 20:10:53 +0000",
       "minecraft:skeleton": "2024-12-23 03:14:06 +0000",
       "minecraft:elder_guardian": "2025-01-12 02:37:17 +0000",
+      "minecraft:ravager": "2025-01-18 03:23:22 +0000",
       "minecraft:ghast": "2025-01-12 20:49:22 +0000",
       "minecraft:hoglin": "2024-12-29 00:27:43 +0000",
       "minecraft:guardian": "2025-01-12 02:38:06 +0000",
+      "minecraft:vindicator": "2025-01-18 03:22:04 +0000",
       "minecraft:magma_cube": "2025-01-12 19:48:52 +0000",
       "minecraft:spider": "2024-12-22 20:49:59 +0000",
       "minecraft:piglin_brute": "2024-12-29 00:31:26 +0000",
@@ -5924,7 +5951,8 @@
   },
   "croptopia:gather_plains": {
     "criteria": {
-      "greenbean_seed": "2025-01-13 00:04:37 +0000"
+      "greenbean_seed": "2025-01-13 00:04:37 +0000",
+      "oat_seed": "2025-01-18 03:55:24 +0000"
     },
     "done": false
   },
@@ -6229,6 +6257,12 @@
     },
     "done": true
   },
+  "create:recipes/create.palettes/spruce_window": {
+    "criteria": {
+      "has_ingredient": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_chainmail_boots": "2024-12-23 03:05:41 +0000"
@@ -6353,6 +6387,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2024-12-23 03:45:26 +0000",
       "minecraft:taiga": "2025-01-12 02:10:23 +0000",
+      "minecraft:deep_ocean": "2025-01-18 03:43:11 +0000",
       "minecraft:eroded_badlands": "2024-12-28 23:32:49 +0000",
       "minecraft:frozen_river": "2025-01-12 05:02:34 +0000",
       "minecraft:sunflower_plains": "2025-01-12 02:08:46 +0000",
@@ -6369,6 +6404,7 @@
       "minecraft:stony_shore": "2024-12-22 20:00:34 +0000",
       "minecraft:snowy_plains": "2025-01-12 04:43:24 +0000",
       "minecraft:dripstone_caves": "2024-12-23 02:59:51 +0000",
+      "minecraft:grove": "2025-01-18 03:40:33 +0000",
       "minecraft:jagged_peaks": "2024-12-23 03:46:43 +0000",
       "minecraft:cold_ocean": "2025-01-12 01:41:42 +0000",
       "minecraft:forest": "2024-12-23 03:55:33 +0000",
@@ -6381,6 +6417,7 @@
       "minecraft:jungle": "2025-01-12 02:04:40 +0000",
       "minecraft:snowy_beach": "2025-01-12 04:04:33 +0000",
       "minecraft:warm_ocean": "2024-12-28 23:24:18 +0000",
+      "minecraft:frozen_peaks": "2025-01-18 03:40:04 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-22 20:15:58 +0000",
       "minecraft:meadow": "2024-12-23 03:34:52 +0000",
       "minecraft:savanna": "2024-12-23 03:48:02 +0000",
@@ -6673,12 +6710,6 @@
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-12-22 20:46:49 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -7357,12 +7388,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/clear_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/polished_cut_granite_from_stone_types_granite_stonecutting": {
     "criteria": {
       "has_stone_types_granite": "2024-12-27 19:01:03 +0000"
@@ -7591,6 +7616,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/spruce_fence": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
       "has_diamond": "2024-12-23 04:06:55 +0000"
@@ -7705,6 +7736,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/spruce_stairs": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spartanweaponry.basic/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-01-12 04:04:32 +0000"
@@ -7762,12 +7799,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/medium_quiver_upgrade_kit": {
     "criteria": {
       "has_gold_ingot": "2024-12-28 22:15:57 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
     },
     "done": true
   },
@@ -7993,12 +8024,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 18:50:02 +0000"
-    },
-    "done": true
-  },
   "minecraft:nether/find_fortress": {
     "criteria": {
       "in_better_fortress": "2025-01-12 20:01:35 +0000"
@@ -8140,6 +8165,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-01-12 04:04:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-01-18 02:49:12 +0000"
     },
     "done": true
   },

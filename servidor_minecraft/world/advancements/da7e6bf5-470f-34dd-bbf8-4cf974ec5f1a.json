@@ -551,12 +551,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/tinted_borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2024-12-22 00:06:26 +0000"
@@ -931,12 +925,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_button": {
     "criteria": {
       "has_block": "2025-01-12 01:47:37 +0000"
@@ -1144,12 +1132,6 @@
   "croptopia:recipes/egg_roll": {
     "criteria": {
       "has_egg": "2024-12-27 20:23:17 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/scratched_glass_light_blue1": {
-    "criteria": {
-      "recipe_condition": "2025-01-11 02:35:32 +0000"
     },
     "done": true
   },
@@ -1471,12 +1453,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/clear_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/iron_tools": {
     "criteria": {
       "iron_pickaxe": "2024-12-22 00:59:21 +0000"
@@ -1516,12 +1492,6 @@
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/upgrade_base": {
     "criteria": {
       "has_leather": "2024-12-22 00:03:42 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/clear_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
     },
     "done": true
   },
@@ -2659,12 +2629,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/scratched_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-12-21 16:48:00 +0000"
@@ -2764,12 +2728,6 @@
   "securitycraft:recipes/securitycraft/coal_mine": {
     "criteria": {
       "has_mine": "2025-01-12 20:26:43 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass_pane1": {
-    "criteria": {
-      "recipe_condition": "2024-12-23 03:20:54 +0000"
     },
     "done": true
   },
@@ -3463,12 +3421,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/scratched_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/spartanweaponry.basic/stone_flanged_mace": {
     "criteria": {
       "has_cobblestone": "2024-12-28 01:45:36 +0000"
@@ -3712,6 +3664,12 @@
   "spartanweaponry:recipes/spartanweaponry.basic/netherite_greatsword_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-11 04:08:04 +0000"
+    },
+    "done": true
+  },
+  "croptopia:recipes/cashew_chicken": {
+    "criteria": {
+      "has_cooked_chicken": "2025-01-18 01:50:41 +0000"
     },
     "done": true
   },
@@ -4429,12 +4387,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/clear_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2024-12-22 15:00:39 +0000"
@@ -4913,12 +4865,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.palettes/polished_cut_diorite_stairs_from_stone_types_diorite_stonecutting": {
     "criteria": {
       "has_stone_types_diorite": "2024-12-22 13:36:16 +0000"
@@ -4946,12 +4892,6 @@
   "create:recipes/create.palettes/cut_tuff_bricks_from_stone_types_tuff_stonecutting": {
     "criteria": {
       "has_stone_types_tuff": "2024-12-22 15:11:57 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/scratched_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
     },
     "done": true
   },
@@ -5027,12 +4967,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass1": {
-    "criteria": {
-      "recipe_condition": "2024-12-23 03:20:43 +0000"
-    },
-    "done": true
-  },
   "sophisticatedbackpacks:recipes/sophisticatedbackpacks/advanced_restock_upgrade": {
     "criteria": {
       "has_restock_upgrade": "2025-01-11 02:26:14 +0000"
@@ -5081,12 +5015,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/scratched_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
   "croptopia:recipes/shaped_water_bottle": {
     "criteria": {
       "has_water": "2024-12-22 15:04:01 +0000"
@@ -5126,12 +5054,6 @@
   "minecraft:recipes/redstone/lectern": {
     "criteria": {
       "has_book": "2024-12-22 00:52:43 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/clear_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
     },
     "done": true
   },
@@ -5687,12 +5609,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/clear_glass_light_blue_pane3": {
-    "criteria": {
-      "recipe_condition": "2025-01-11 02:35:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2024-12-23 03:20:54 +0000"
@@ -6042,6 +5958,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-01-18 01:05:03 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/crafting/kinetics/magenta_seat": {
     "criteria": {
       "has_wool": "2024-12-22 00:02:56 +0000"
@@ -6265,12 +6187,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/clear_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
   "create:recipes/create.base/crafting/kinetics/empty_blaze_burner": {
     "criteria": {
       "has_item": "2024-12-22 00:47:00 +0000"
@@ -6379,18 +6295,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/scratched_glass_pink_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/tinted_borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2024-12-21 16:49:00 +0000"
@@ -6433,6 +6337,7 @@
       "minecraft:savanna_plateau": "2024-12-23 02:44:26 +0000",
       "minecraft:beach": "2024-12-22 00:15:54 +0000",
       "minecraft:dark_forest": "2024-12-21 17:18:18 +0000",
+      "minecraft:sparse_jungle": "2025-01-18 01:46:14 +0000",
       "minecraft:river": "2024-12-22 00:07:17 +0000",
       "minecraft:lukewarm_ocean": "2024-12-22 13:51:42 +0000",
       "minecraft:stony_shore": "2024-12-22 01:30:31 +0000",
@@ -6440,6 +6345,7 @@
       "minecraft:dripstone_caves": "2024-12-23 03:06:38 +0000",
       "minecraft:snowy_taiga": "2025-01-12 23:54:05 +0000",
       "minecraft:grove": "2024-12-22 13:12:07 +0000",
+      "minecraft:jagged_peaks": "2025-01-18 01:41:40 +0000",
       "minecraft:cold_ocean": "2024-12-27 18:45:20 +0000",
       "minecraft:forest": "2024-12-22 01:22:14 +0000",
       "minecraft:lush_caves": "2024-12-22 00:59:39 +0000",
@@ -6448,8 +6354,10 @@
       "minecraft:windswept_forest": "2025-01-11 22:34:08 +0000",
       "minecraft:deep_frozen_ocean": "2025-01-12 03:10:40 +0000",
       "minecraft:ocean": "2024-12-23 02:50:49 +0000",
+      "minecraft:jungle": "2025-01-18 01:48:10 +0000",
       "minecraft:old_growth_spruce_taiga": "2024-12-27 18:46:13 +0000",
       "minecraft:snowy_beach": "2025-01-12 23:53:36 +0000",
+      "minecraft:frozen_peaks": "2025-01-18 03:40:08 +0000",
       "minecraft:old_growth_birch_forest": "2024-12-21 11:58:11 +0000",
       "minecraft:meadow": "2024-12-22 01:26:31 +0000",
       "minecraft:savanna": "2024-12-22 01:30:17 +0000",
@@ -6604,12 +6512,6 @@
   "minecraft:recipes/decorations/grindstone": {
     "criteria": {
       "has_stone_slab": "2025-01-12 01:34:01 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass_black_pane2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
     },
     "done": true
   },
@@ -6773,12 +6675,6 @@
   "croptopia:recipes/chicken_and_noodles": {
     "criteria": {
       "has_chicken": "2024-12-22 13:31:28 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/scratched_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
     },
     "done": true
   },
@@ -7186,6 +7082,7 @@
       "porkchop": "2024-12-28 00:13:59 +0000",
       "golden_apple": "2024-12-22 00:01:05 +0000",
       "bread": "2024-12-23 03:17:02 +0000",
+      "cooked_chicken": "2025-01-18 01:50:45 +0000",
       "enchanted_golden_apple": "2025-01-12 19:50:35 +0000",
       "carrot": "2024-12-27 20:13:20 +0000"
     },
@@ -7347,6 +7244,12 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_naga": {
+    "criteria": {
+      "naga": "2025-01-18 02:13:02 +0000"
+    },
+    "done": true
+  },
   "create:recipes/create.palettes/cut_limestone_brick_stairs_from_stone_types_limestone_stonecutting": {
     "criteria": {
       "has_stone_types_limestone": "2024-12-22 00:59:42 +0000"
@@ -7422,12 +7325,6 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab": {
     "criteria": {
       "has_smooth_stone": "2024-12-28 03:04:01 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/clear_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
     },
     "done": true
   },
@@ -7518,12 +7415,6 @@
   "spartanweaponry:recipes/spartanweaponry.basic/iron_glaive": {
     "criteria": {
       "has_iron_ingot": "2024-12-28 02:44:28 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass_pink2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-12 22:26:55 +0000"
     },
     "done": true
   },
@@ -7863,12 +7754,6 @@
     },
     "done": true
   },
-  "connectedglass:recipes/connectedglass/borderless_glass_white_pane2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2024-12-23 03:20:43 +0000"
@@ -8058,12 +7943,6 @@
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2024-12-22 00:02:56 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/tinted_borderless_glass_white2": {
-    "criteria": {
-      "recipe_condition2": "2025-01-11 04:55:33 +0000"
     },
     "done": true
   },
@@ -8688,12 +8567,6 @@
   "securitycraft:recipes/securitycraft/deepslate_mine": {
     "criteria": {
       "has_mine": "2025-01-12 20:26:43 +0000"
-    },
-    "done": true
-  },
-  "connectedglass:recipes/connectedglass/borderless_glass_black2": {
-    "criteria": {
-      "recipe_condition2": "2024-12-22 00:30:32 +0000"
     },
     "done": true
   },
