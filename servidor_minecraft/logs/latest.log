@@ -366,3 +366,22 @@ java.lang.ClassNotFoundException: com.google.gson.reflect.TypeToken
 [19Jan2025 01:27:35.165] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully authenticated player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
 [19Jan2025 01:27:36.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Successfully validated connection of player da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a
 [19Jan2025 01:27:36.167] [VoiceChatPacketProcessingThread/INFO] [voicechat/]: [voicechat] Player elblak004 (da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a) successfully connected to voice chat
+[19Jan2025 01:33:41.149] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elblak004 lost connection: Disconnected
+[19Jan2025 01:33:41.149] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: elblak004 left the game
+[19Jan2025 01:33:41.149] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client elblak004
+[19Jan2025 01:33:41.150] [Server thread/INFO] [me.edoren.skin_changer.server.SkinProviderController/]: Removing session data for player elblak004[da7e6bf5-470f-34dd-bbf8-4cf974ec5f1a]
+[19Jan2025 01:34:12.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[19Jan2025 01:34:12.230] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.AbstractConnector/]: Stopped ServerConnector@6b184e31{HTTP/1.1, (http/1.1)}{0.0.0.0:8888}
+[19Jan2025 01:34:12.233] [Server thread/INFO] [mtr.libraries.org.eclipse.jetty.server.handler.ContextHandler/]: Stopped m.l.o.e.j.s.ServletContextHandler@70d090ce{/,union:/workspaces/servidor-de-pepe/servidor_minecraft/mods/MTR-forge-1.18.2-3.2.2-hotfix-1.jar%2388!/assets/mtr/website,STOPPED}
+[19Jan2025 01:34:12.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Jan2025 01:34:12.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Jan2025 01:34:12.255] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: GhostSaintRD lost connection: Server closed
+[19Jan2025 01:34:12.255] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: GhostSaintRD left the game
+[19Jan2025 01:34:12.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Jan2025 01:34:12.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[19Jan2025 01:34:12.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[19Jan2025 01:34:12.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[19Jan2025 01:34:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[19Jan2025 01:34:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Jan2025 01:34:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Jan2025 01:34:12.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
